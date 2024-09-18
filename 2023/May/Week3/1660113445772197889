@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1660113445772197889",
+        "timestamp": "2023-05-21 04:01:45",
+        "original_content": "Tornado Cash has suffered a malicious governance attack with a loss of\n~$1.07M. 100,000 [$TORN] are held on the\n0x0921 address, and 370 [$ETH] went into\nTornado Cash. In declaring the proposal, the attacker claimed to use the same\nlogic as the previous one, but added an additional self-destruct function.\nWhen the malicious proposal was passed by voters, the attacker called the\nemergencyStop function to update the logic and thus obtained a large number of\nfake votes. Then [$TORN] can be unlocked\nusing the unlock function."
+    }
+}
