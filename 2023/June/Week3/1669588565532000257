@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1669588565532000257",
+        "timestamp": "2023-06-16 14:11:48",
+        "original_content": "? Recently, Beosin security\nteam discovered a critical stack overflow vulnerability caused by recursive\ncalls. This vulnerability can lead to a total network shutdown, prevent new\nvalidators from joining the network, and potentially result in a hard fork in\n[#Sui],\n[#Aptos], and other public blockchains. Upon\ndiscovering and verifying this vulnerability, we immediately (on May 30, 2023)\ncontacted the Sui team via email. Following their advice, we submitted the\nvulnerability to the Immunefi bug bounty platform on June 2, 2023. However,\nthe official team responded that they had internally identified the issue a\nmonth ago and had been working on a private security fix. They released the\nfix on the same day we submitted it to Immunefi (June 2, 2023). We understand\nand respect their response. The vulnerability has been fixed in the current\nversion, so we are now publicly disclosing our research findings. Full story:\n[https://medium.com/@Beosin_com/critical-vulnerability-in-move-vm-can-cause-\ntotal-network-shutdown-and-potential-hard-fork-in-\nsui-49d0d942801c\u2026](https://t.co/oYEOBcBw6m)"
+    }
+}
