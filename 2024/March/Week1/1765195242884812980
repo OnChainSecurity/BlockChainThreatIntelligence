@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1765195242884812980",
+        "timestamp": "2024-03-06 07:01:33",
+        "original_content": "?\n\n[@_WOOFi](/_WOOFi)\n\non Arbitrum was under a price manipulation attack with a loss of ~$8.5M. The\ncontract has been paused. The hacker flashloaned\n[$USDC.e] and\n[$Woo], and then performed frequent token\nswaps. Due to a flawed price calculation in WooPPV2 contract, the hacker was\nable to manipulate the price during the swap process."
+    }
+}
