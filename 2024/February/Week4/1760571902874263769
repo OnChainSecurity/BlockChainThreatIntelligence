@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1760571902874263769",
+        "timestamp": "2024-02-22 15:47:04",
+        "original_content": "the victim signed an ERC20 Permit signature, and the token spender is a temp\naddress pre-computed by CREATE2.[![](https://pbs.twimg.com/card_img/1828018848336932864/QDkL7E1E?format=jpg&name=small)](https://t.co/NKVDe3wwKx)\n"
+    }
+}
