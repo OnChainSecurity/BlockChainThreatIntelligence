@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1819858073659555847",
+        "timestamp": "2024-08-01 16:41:32",
+        "original_content": "In the following code, there are actually two bugs. 1\\. What everybody in the\ncomments has guessed: The wrong signature for the function. 2\\. Second is what\nnobody has guessed so far. Let's assume we use the correct syntax. In that\ncase, what could go wrong and DOS the withdrawal? The Winner will be picked in\n24 hours."
+    }
+}
