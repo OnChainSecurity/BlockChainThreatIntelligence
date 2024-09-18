@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1679102534210981889",
+        "timestamp": "2023-07-12 20:16:55",
+        "original_content": "Platypus was attacked and there is a possibility of two attackers. Exploiter\n0xc64a gained a profit of around 51K USDC through approximately 100\ntransactions. Several tens of minutes after the first profitable transaction\nby 0xc64a, Exploiter 0x853d created the same contract and used the same method\nto gain a profit of around 94K USDC. Currently, the profits from the attack\nare still held in these two addresses. Exploiter 0xc64a:\n[https://metasleuth.io/result/avalanche/0xc64AfC460290ed3Df848F378621b96cB7179521a?source=744a9cfc-413c-4d3f-b475-3f5e76119022\u2026](https://t.co/luK67dDoK3)\nExploiter 0x853d:\n[https://metasleuth.io/result/avalanche/0x853d52d21c0b1f6da97bdc7fad0e677c210cb166?source=296a8121-1b12-4569-9ddb-634a934cbe67\u2026](https://t.co/ocqS80ol8c)"
+    }
+}
