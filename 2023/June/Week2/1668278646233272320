@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1668278646233272320",
+        "timestamp": "2023-06-12 23:20:53",
+        "original_content": "After the reentrancy, the processing order in the exitPool function is:\ndeducting LP tokens -> returning the collateral tokens -> updating data. At\nthis point, when calculating the price the total supply has been updated to\n57,299, but the balances have not been updated and remain at 172,491. This\nabnormality causes the price to be three times its original value. This\nsatisfies the validation requirements of setUserUseReserveAsCollateral,\nthereby modifying the collateral status of the user."
+    }
+}
