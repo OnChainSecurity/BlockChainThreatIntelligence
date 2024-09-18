@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1670638160550965248",
+        "timestamp": "2023-06-19 11:42:31",
+        "original_content": "[$ARA]\n\n[@AraBlocks](/AraBlocks)\n\nwas exploited for $125k in\n[https://bscscan.com/tx/0xd87cdecd5320301bf9a985cc17f6944e7e7c1fbb471c80076ef2d031cc3023b2\u2026](https://t.co/OJTLm6BEgu)\nAttacker: 0xF84efA8a9F7E68855CF17EAaC9c2f97A9d131366 The root cause is a bug\nin the contract's handling of permissions. The\n0xB817Ef68d764F150b8d73A2ad7ce9269674538E0 has a large\n[$ARA] and\n[$USDT] approvals to a swap contract,\nwhich does not limit the funds transferred from the caller for swap purposes."
+    }
+}
