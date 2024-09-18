@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1669593323634405377",
+        "timestamp": "2023-06-16 14:11:48",
+        "original_content": "2/ This vulnerability affects Sui mainnet prior to v1.2.1, Aptos mainnet prior\nto v1.4.3, and version of Move-language prior to June 10th.\n[https://medium.com/@Beosin_com/critical-vulnerability-in-move-vm-can-cause-\ntotal-network-shutdown-and-potential-hard-fork-in-\nsui-49d0d942801c\u2026](https://t.co/NzPzVgx6ir)"
+    }
+}
