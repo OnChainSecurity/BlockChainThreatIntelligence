@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1684491538825609217",
+        "timestamp": "2023-07-27 04:20:00",
+        "original_content": "CoinsPaid was attacked for $37.3M on July 22nd. The fund flow suggests that\nLazarus Group maybe responsible for the three hacks:\n\n[@coinspaid](/coinspaid)\n\n,\n\n[@AtomicWallet](/AtomicWallet)\n\nand Alphapo. 1.98M [$TRX] (worth ~$164k)\nwas transferred from Coinspaid hot wallet 1 to Atomic wallet hacker\nTGGMvM3hCQnmDnteP2ynt3RVkrEp2S11Ag. Another 21M\n[$TRX] (worth $1.73M) was sent from\nCoinspaid hot wallet 2 to Atomic wallet hacker\nTJXXmeUbie3JBfK7H3UQb43sWnbhhdTJQx. Atomic wallet hacker\nTGGMvM3hCQnmDnteP2ynt3RVkrEp2S11Ag also received 118M\n[$TRX] (worth ~$9.8M) from Alphapo Drainer\n3."
+    }
+}
