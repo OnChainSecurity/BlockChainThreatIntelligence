@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1686339706106339329",
+        "timestamp": "2023-07-11 14:42:55",
+        "original_content": "?Multichain suspicious\naddress 4 has transferred all 1023.8 WBTC obtained from Multichain: Fantom\nBridge to address 0x3c74b. Address 0x3c74b is continuously exchanging received\nWBTC for USDT before further transfer. The initial funds for 0x3c74b came from\n\n[@ChangeNOW_io](/ChangeNOW_io)\n\n. Notably, we have discovered that USDT from 0x3c74b has been transferred to\nseveral addresses interacting with CEXs, with some even going directly to\n\n[@binance](/binance)\n\ndeposit addresses. ?\n[#crypto]\n[#security]\n[https://metasleuth.io/result/eth/0x3c74bc3a3b243e600fdd41a605300ac2eac2572f?source=fbdd18e7-1def-42fe-877b-6d661edfa014\u2026](https://t.co/Tav6yfOblI)"
+    }
+}
