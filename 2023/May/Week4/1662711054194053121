@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1662711054194053121",
+        "timestamp": "2023-05-28 14:43:00",
+        "original_content": "3/ When adding liquidity, it relies on the current price to calculate the\nnumber of tokens needed, so in the imbalanced situation, the attacker can\nobtain more [$WETH]."
+    }
+}
