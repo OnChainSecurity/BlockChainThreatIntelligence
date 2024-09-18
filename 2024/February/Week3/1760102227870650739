@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1760102227870650739",
+        "timestamp": "2024-02-21 08:40:46",
+        "original_content": "about 5 hours ago, someone lost 11 different tokens worth about $100k after\nsigning a malicious Uniswap Permit2 `PermitBatch` phishing signature."
+    }
+}
