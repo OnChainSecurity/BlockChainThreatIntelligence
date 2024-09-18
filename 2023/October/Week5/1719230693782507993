@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1719230693782507993",
+        "timestamp": "2023-10-31 13:51:53",
+        "original_content": "?[#Unibot]\nexploited? Hacker:\n[https://etherscan.io/address/0x413e4fb75c300b92fec12d7c44e4c0b4faab4d04\u2026](https://t.co/4B3Ckl8NuU)\nThe root cause is CAll injection, where an attacker can pass custom malicious\ncalldata into the 0xb2bd16ab() method to transfer tokens approved to Unibot\ncontracts. Users need to revoke approval for\n0x126c9FbaB3A2FCA24eDfd17322E71a5e36E91865 ASAP."
+    }
+}
