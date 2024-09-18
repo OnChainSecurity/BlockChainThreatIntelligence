@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1683880646811299853",
+        "timestamp": "2023-07-25 21:08:08",
+        "original_content": "Eralend on [#zkSync] was attacked with a\nloss of $3.4M. The root cause was an inconsistency between the calculated\nborrow value and liquidate value. The amount borrowed was higher than the\namount repaid, allowing the attacker to profit after borrowing and\nliquidation. The attacker repeatedly exploited multiple contracts to carry out\nthis process and obtain a significant amount of USDC."
+    }
+}
