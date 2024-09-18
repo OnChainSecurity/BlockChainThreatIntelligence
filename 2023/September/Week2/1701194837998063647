@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1701194837998063647",
+        "timestamp": "2023-09-11 19:23:50",
+        "original_content": "[#MetaSleuthTips] Crypto Tracking:\nStarting with a Transaction - pt1 1/8 In this tutorial, we'll explore\nMetaSleuth's basic features for tracking stolen funds. Learn how to analyze\ntransactions, track specific funds, and monitor untransferred funds. Our focus\nis on a phishing tx."
+    }
+}
