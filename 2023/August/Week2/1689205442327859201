@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1689205442327859201",
+        "timestamp": "2023-08-09 17:21:32",
+        "original_content": "2/ The attacker first deposited 320 ETH to obtain a large amount of ENF_ETHLEV\nby calling deposite(), then withdrew the deposited ETH by calling withdraw().\nThe attacker then transferred ENF_ETHLEV to another attack contract in the\nfallback function. Due to the faulty judgment, the shares value was\noverridden. The attacker only needed to burn a small amount of LP tokens to\nredeem the 320 deposited ETH. Finally, the attacker swapped the remaining\nENF_ETHLEV for 159 ETH."
+    }
+}
