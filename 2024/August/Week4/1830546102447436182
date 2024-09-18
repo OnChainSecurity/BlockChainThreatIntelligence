@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1830546102447436182",
+        "timestamp": "2024-08-22 21:20:08",
+        "original_content": "? 46 minutes ago, another\nvictim lost 19.27 ETH ($48,007) due to copying a wrong address from a\ncontaminated transfer history. > The attacker generated up to 8 \"poisoning\"\ntransactions of 0.000001 each, mimicking addresses from the victim's transfer\nrecords 4 days prior."
+    }
+}
