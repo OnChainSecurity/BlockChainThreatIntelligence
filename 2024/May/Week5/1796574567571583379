@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1796574567571583379",
+        "timestamp": "2024-05-31 23:41:53",
+        "original_content": "There are two possible methods of attack: 1\\. A traditional exchange attack.\nThe signature service of DMM Bitcoin is attacked or the multi-sig private key\nis compromised. Then the attacker used a similar historical transfer address\nto receive funds to avoid detection and alert."
+    }
+}
