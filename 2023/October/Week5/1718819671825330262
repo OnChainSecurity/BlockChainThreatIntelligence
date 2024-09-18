@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Beosin_com/status/1718819671825330262",
+        "timestamp": "2023-10-30 10:38:38",
+        "original_content": "?\n[#FlashLoans] enable borrowing without\ncollateral, boosting capital efficiency. In\n[#Ethereum] , a single transaction\nencompasses various steps\u2014borrowing, exchanging, using, and\nrepayment\u2014interconnected and prone to transaction rollbacks in case of any\nstep error. With the emergence of different public chains and programming\nlanguages like [#Move] and\n[#Rust] , we delve into the varying\napproaches of [#FlashLoan]\nimplementation across [#SOLIDITY] ,\n[#Move] , and\n[#Rust] . Gain insights into the distinct\nprogramming philosophies of these languages in our\narticle?\n[https://link.medium.com/JXVtGmQ6iEb](https://t.co/4DczLvGA00)"
+    }
+}
