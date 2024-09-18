@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1750905109801013412",
+        "timestamp": "2024-01-26 23:17:59",
+        "original_content": "victim signed multiple `increaseAllowance` transactions and an ERC20 Permit\nsignature. these token spenders are the temp address pre-computed by CREATE2."
+    }
+}
