@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1662711048452050944",
+        "timestamp": "2023-05-28 10:07:36",
+        "original_content": "Attack flow of the\n\n[@jimbosprotocol](/jimbosprotocol)\n\nexploit: The hacker flashloans 10,000 WETH, swaps for $JIMBO to raise its\nprice. Then transfers 100 [$JIMBO] to\nJimboController contract for adding liquidity later (since the JIMBO price is\ninflated, only a small amount of\n[$JIMBO] are needed)."
+    }
+}
