@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1821860053932240993",
+        "timestamp": "2024-08-09 18:44:20",
+        "original_content": "In our latest talk at\n\n[@BlackHatEvents](/BlackHatEvents)\n\n, Prof. Yajin Zhou\n\n[@yajinzhou](/yajinzhou)\n\nshares how to reuse opcode trace to prevent smart contract exploits, a\ntechnique that has already rescued over $20 million and been productized into\nour Phalcon\n\n[@Phalcon_xyz](/Phalcon_xyz)\n\n. [#BlackHat2024]\n[#BlockchainSecurity]"
+    }
+}
