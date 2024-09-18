@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1717846923271651826",
+        "timestamp": "2023-10-27 18:13:17",
+        "original_content": "[#MetaSleuthTips] Load More  Fetch\nasset transfers using \"Load More\", won't appear on canvas. Verify label,\ncompliance score, flow direction, token in Address Panel - Related Addresses\nto determine if it's canvas-worthy."
+    }
+}
