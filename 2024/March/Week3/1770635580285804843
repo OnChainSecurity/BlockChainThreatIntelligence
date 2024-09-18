@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1770635580285804843",
+        "timestamp": "2024-03-21 01:14:00",
+        "original_content": "The old contracts of\n\n[@Dolomite_io](/Dolomite_io)\n\non Ethereum suffered an approval attack, resulting in a loss of ~$1.9M. The\nhacker exploited the batchTransfer function of the TradeDelegate contract to\ntransfer tokens approved to the contract from users. The batchTransfer\nfunction can only be called by approved addresses. Attacker:\n0x52522d35725836d48e12e64731fa170bcd9423bf"
+    }
+}
