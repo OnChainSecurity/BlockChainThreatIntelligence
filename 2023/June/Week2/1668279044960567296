@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1668279044960567296",
+        "timestamp": "2023-06-12 23:20:53",
+        "original_content": "6\\. Through step 5, the collateral of 0x5550 is settled only in WETH. As a\nresult, the previously deposited 1,000 steCRV can be directly withdrawn. 7\\.\nLiquidate the B-stETH-STABLE collateral. At this point, the lending status of\n0x5550 is as follows: 233 B-stETH-STABLE collateralized and 513 WETH borrowed,\nmeeting the conditions for liquidation. However, due to the logic of the\nliquidationCall function in the contract, which ensures that the value of the\nassets paid during liquidation does not exceed the value of the collateral,\nthe attacker was able to liquidate the debt with only 236 ETH and obtain 233\nB-stETH-STABLE. 8\\. Repeat steps 3-7 and profit a total of 442 ETH."
+    }
+}
