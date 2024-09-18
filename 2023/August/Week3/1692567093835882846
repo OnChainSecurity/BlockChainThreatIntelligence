@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1692567093835882846",
+        "timestamp": "2023-08-18 17:59:27",
+        "original_content": "Root cause of the\n\n[@ExactlyProtocol](/ExactlyProtocol)\n\nexploit: The market address in DebtManager contract could be manipulated. The\nattacker passed in a malicious market contract address, bypassing the permit\ncheck, and executed a malicious deposit function to steal the\n[$USDC] deposited by users. Finally\nliquidated users' assets to make a profit."
+    }
+}
