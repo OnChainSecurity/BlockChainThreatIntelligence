@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1661202340966449153",
+        "timestamp": "2023-05-24 10:47:55",
+        "original_content": "2/ The attacker sold 3,000 [$CS]. This step\nwill set the sellAmount. 3/ By transferring to himself, the attacker triggers\nsync(), in which the sellAmount from the previous step is used and the\nfunction will burn [$CS] in the pair. After\nsync, sellAmount is set to 0."
+    }
+}
