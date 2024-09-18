@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1674973739476459524",
+        "timestamp": "2023-07-01 10:50:33",
+        "original_content": "$DOGE3.0 @DOGE3eth on Ethereum rugged for $70K via a backdoor function.\nContract: 0x820ba67398c3eA745EB8766FD3F444A92d4de316 The burn function\ncontains a backdoor to mint unlimited tokens. The deployer\n0x415A4CA18Ead9e7730918Cb032760B1383824C76 sold all $DOGE3.0 to drain the pool\nand made a profit 36 [$ETH].  The stolen\nfunds were sent to ChangeNOW."
+    }
+}
