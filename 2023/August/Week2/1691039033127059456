@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1691039033127059456",
+        "timestamp": "2023-08-14 18:48:16",
+        "original_content": "5/ Due to the increased _assetPriceCached in balanceOf, the 84 zETH was\ninflated to 221 zETH. The attacker swapped the inflated 221 zETH (LP) for 389\n[$ETH], repaid the 6,811 ETH flash loan\nand fees, profiting 26 ETH in the end. All stolen funds were sent into Tornado\nCash."
+    }
+}
