@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1686673425421717504",
+        "timestamp": "2023-08-02 17:40:56",
+        "original_content": "[@uwerx_network](/uwerx_network)\n\nwas attacked for ~$324k. [$Uwerx]\ndropped -100%. The root cause is that transfer() burns tokens when\ntransferring to pair address. The attacker borrowed a large amount of\n[$WERX] via flashloan to control the\nnumber of tokens in the pair. The attacker then directly transferred to the\npair address and triggered the pair to call the transfer() through skim. The\nto address filled in by the hacker was 0x00...01. Since the project sets\nuniswapPoolAddress=0x00...01, it entered the burn judgment and burned the\ntokens, inflating the token price."
+    }
+}
