@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/code4rena/status/1807851274244968761",
+        "timestamp": "2024-07-02 02:58:26",
+        "original_content": "Some of the topics covered: \\- Ethereum variant handling \\- Internal functions\nin the zap router base \\- The role of the leverage macro base contract \\-\nWorkflow details including flash loan callback \\- Debt adjustment mechanisms\nand fees[![](https://pbs.twimg.com/card_img/1829625084522135552/EudmscRp?format=jpg&name=360x360)](https://t.co/N6xDdJvl4l)\n"
+    }
+}
