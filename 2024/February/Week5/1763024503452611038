@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1763024503452611038",
+        "timestamp": "2024-02-29 01:03:01",
+        "original_content": "?\n\n[@SenecaUSD](/SenecaUSD)\n\nexploited for 1,900 [$ETH] (worth ~$6.5M).\nThe attacker used constructed calldata parameters to call transferfrom and\ntransfer tokens that were approved to the project's contracts to the\nattacker's address. The stolen funds are now held across 3 addresses. Revoke\napprovals?"
+    }
+}
