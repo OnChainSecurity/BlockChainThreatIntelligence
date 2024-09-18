@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1813306375298330832",
+        "timestamp": "2024-07-17 04:15:04",
+        "original_content": "Find the bug challenge.  If you can read the natspec comments in OpenZeppelin\nEnumerableSet, you'll be able to identify the bug in the following snippet.\nThe best answer will receive a retweet and recognition from Sherlock."
+    }
+}
