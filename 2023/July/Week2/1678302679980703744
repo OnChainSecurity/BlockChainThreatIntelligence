@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1678302679980703744",
+        "timestamp": "2023-07-10 15:18:32",
+        "original_content": "4/ Pass in the malicious actionData. Since the actionData parameter does not\nhave any validations, the attacker can approve WETH and USDC to the malicious\ncontract with the permission of the ActionMultiCall contract, and then call\ntransferFrom() to transfer the approved funds."
+    }
+}
