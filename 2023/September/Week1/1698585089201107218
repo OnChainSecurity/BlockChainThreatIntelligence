@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1698585089201107218",
+        "timestamp": "2023-09-04 14:33:38",
+        "original_content": "Vulnerability Disclosure: Beosin security team discovered a DoS vulnerability\nin the p2p protocol of\n\n[@SuiNetwork](/SuiNetwork)\n\nthat could cause nodes in the Sui network to crash due to memory exhaustion.\nThis denial of service vulnerability was caused by an old attack technique -\nthe \"memory bomb\". Sui mainnet_v1.6.3 (August 1, 2023) has fixed this\nvulnerability. The details are made public with Sui's consent. Read the full\nstory?:\n[https://beosin.com/resources/%22memory-bomb%22-vulnerability-causes-sui-node-\nto-crash?lang=en-US\u2026](https://t.co/HVhqJerUFh)"
+    }
+}
