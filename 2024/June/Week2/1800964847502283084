@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1800964847502283084",
+        "timestamp": "2024-06-13 02:54:14",
+        "original_content": "Can you identify the high-severity bug from a recent contest? The token\ninvolved is stETH. Even though you specify _amount, the actual amount\ntransferred will differ, and stETH is not a fee-on-transfer token. The best\nanswer in the comments will get a retweet and recognition from Sherlock. You\nhave 48 hours. Hint: Look into how the stETH transfer method differs from a\nstandard ERC20 token.[](https://t.co/i8FQ3DLIqT)\n"
+    }
+}
