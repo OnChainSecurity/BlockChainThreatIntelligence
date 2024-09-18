@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/SlowMist_Team/status/1773332652201787890",
+        "timestamp": "2024-03-28 20:53:45",
+        "original_content": "?SlowMist Security\nAlert? Due to issues in the\nMigrateTroveZap contract,\n\n[@PrismaFi](/PrismaFi)\n\nis still being continuously exploited. The protocol can be paused through\nPrismaCore. Please take action ASAP!"
+    }
+}
