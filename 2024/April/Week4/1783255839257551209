@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/zdravkohristov0/status/1783255839257551209",
+        "timestamp": "2024-04-25 06:04:58",
+        "original_content": "As the @ZivoeFinance contest on\n\n[@sherlockdefi](/sherlockdefi)\n\ncomes to an end, I've got to say they have pretty good tests. Their approach\nis interesting because the tests are not .t files and are in their own\nrepository. They have helper contracts for different roles, a lot of\nutilities, and also make use of hevm (which, ngl, haven't looked deep into\n:D). Writing PoCs was a pleasing experience because all of the contracts had\nbeen already deployed in Utility.sol and interacting with them was easy."
+    }
+}
