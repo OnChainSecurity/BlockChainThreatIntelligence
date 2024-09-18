@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1683658477619777536",
+        "timestamp": "2023-07-25 10:00:36",
+        "original_content": "[#Palmswap] was exploited for $900k in tx\n[https://bscscan.com/tx/0x62dba55054fa628845fecded658ff5b1ec1c5823f1a5e0118601aa455a30eac9\u2026](https://t.co/27X2Mj4s3m)\nThe root cause was due to issues with the calculations for adding and removing\nliquidity. When the attacker added liquidity, the exchange rate between\n[$USDP] and\n[$PLP] was 1:1. However, when removing the\nsame amount of [$PLP], the attacker was\nable to exchange it for 1.9 times more\n[$USDP], thereby profiting."
+    }
+}
