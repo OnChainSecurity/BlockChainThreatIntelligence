@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1678704264280182786",
+        "timestamp": "2023-07-05 17:02:55",
+        "original_content": "Rodeo_Finance on Arbitrum was attacked again. The attacker profited around 480\nETH (approximately $896K). The profits were cross-chain transferred to the\nsame address on Ethereum, with 150 Ether laundered into TC and the remainder\nyet to be transferred.\n[https://metasleuth.io/result/arbitrum/0x2f3788f2396127061c46fc07bd0fcb91faace328?source=f787b3a1-f45a-4b98-b51c-deb7ab50a1c5\u2026](https://t.co/du0T9qHtyL)"
+    }
+}
