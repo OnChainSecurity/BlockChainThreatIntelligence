@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1684393202252402688",
+        "timestamp": "2023-07-27 10:40:08",
+        "original_content": "[$Carson] was exploited in tx:\n[https://bscscan.com/tx/0x37d921a6bb0ecdd8f1ec918d795f9c354727a3ff6b0dba98a512fceb9662a3ac\u2026](https://t.co/LJACJVnP8F)\nThe attacker gained ~600 [$BNB] (~$14.4k)\nand sent them to Tornado Cash. The attacker repeatedly called the\nswapExactTokensForTokensSupportingFeeOnTransferTokens function in the\n0x2bdf...341a contract (not open-source) through flash loans, swapped for\n[$BUSD] and burned\n[$Carson] in the pair, then repeatedly\ninflated the price of [$Carson] for\nprofit."
+    }
+}
