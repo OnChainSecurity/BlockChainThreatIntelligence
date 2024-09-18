@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1769596961408303544",
+        "timestamp": "2024-03-18 13:29:27",
+        "original_content": "?Phishing Email Warning: No\nAirdrop from BlockSec Dear user, We want to urgently inform you that a\nphishing email, claiming to be from BlockSec, was sent to numerous users\napproximately one hour ago. Please be aware that this email was NOT sent by\nBlockSec and we urge you to refrain from clicking on any links contained\nwithin it to avoid potential loss. Upon investigation, the phishing emails\nwere due to a MailerLite data breach, and the scope of this phishing is\nlimited to users who registered with Phalcon/MetaSleuth prior to the Jan 23rd\nMailerLite security incident\n([https://mailerlite.com/newsroom/securityincidentnotice\u2026](https://t.co/7yZVAc8zdC)).\nWe have deleted all user data on MailerLite platform. Moving forward, we will\napproach third-party services with greater caution, and user data will be\nencrypted and stored on a more secure infrastructure built by BlockSec. We\napologize for any inconvenience or concern this may have caused. Stay vigilant\nand please reach out if you need any further assistance.\n? Best Regards, BlockSec"
+    }
+}
