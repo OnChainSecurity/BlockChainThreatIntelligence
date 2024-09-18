@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1670638299768295424",
+        "timestamp": "2023-06-19 11:42:31",
+        "original_content": "Attack flow: 1/ Flashloan 1,202,701 USDT. 2/ Call the swap contract to swap\n163,497 ARA -> 123,246 USDT 3/ Use flashloaned 1,202,701 USDT -> 504,469 ARA\nto pull up the [$ARA] price. 4/ Call the\nswap contact again to swap 132,123 USDT -> 12,179 ARA to let the approved\naddress take over [$ARA] at a high price.\n5/ Swap 504,469 ARA -> 1,327,617 USDT"
+    }
+}
