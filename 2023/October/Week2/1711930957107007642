@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1711930957107007642",
+        "timestamp": "2023-10-11 10:25:20",
+        "original_content": "[$FSL] on BNB Chain rugged, the deployer\nprofited ~$1.68M. Contract: 0x8923881e8cAe6684C2bB84D69aE88A9bbbEC8d5a The\ndeployer 0x281b8cb2AE64cd14501fc7Bcd2545be2836B173D minted 100M\n[$FSL] at the creation of the contract.\nThe 0x281b address has then sent 97M\n[$FSL] to\n0x7249B903DA533358c897784438b87Bc94b402352 address and swapped out $1.68M\nUSDT, finally swapped for [$BNB] and sent\ninto [http://Tornado.Cash](https://t.co/PGqxiSOocD)."
+    }
+}
