@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1666099182032265216",
+        "timestamp": "2023-06-06 23:06:14",
+        "original_content": "UN token on BSC was hacked for $26K. The attacker triggers sendreward function\nby transferring directly to pair multiple times.\n[$UN] tokens are sent to the pair address,\nthen the attacker uses skim to get the extra\n[$UN] tokens to the attack contract.\n[https://x.com/0xLessMore/sta/0xLessMore/status/1666076349952593920\u2026](/0xLessMore/status/1666076349952593920)"
+    }
+}
