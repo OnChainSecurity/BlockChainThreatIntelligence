@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1807133639983140955",
+        "timestamp": "2024-06-30 03:26:49",
+        "original_content": "There are two kinds of auditors out there, which one are you? 1\\. Read docs,\nread NatSpec, read code, and find bugs. 2\\. Delete the docs, delete the\nNatSpec and comments, read the code as code is the law, and find bugs. Which\none do you think finds the most critical bugs?"
+    }
+}
