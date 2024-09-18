@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1807680597713690694",
+        "timestamp": "2024-07-01 15:40:14",
+        "original_content": "Can you find the high-severity bug in these two lines of code? The deposit\nfunction interacts with Etherfi. The best answer will receive recognition and\na retweet from Sherlock. Hint: There is a mistaken assumption about the\nEtherfi deposit function. Study it carefully."
+    }
+}
