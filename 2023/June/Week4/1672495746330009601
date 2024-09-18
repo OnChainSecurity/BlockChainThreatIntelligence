@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1672495746330009601",
+        "timestamp": "2023-06-24 13:14:52",
+        "original_content": "Shido on BSC was exploited, resulting in the attacker profiting 977 WBNB\n(worth approximately $242,000). The attacker swapped most of the profits for\nETH and bridged them to Ethereum via cBridge, where they laundered the funds\nusing TornadoCash. It's worth noting that the attacker also deposited 1 BNB\ninto TC on BSC, which suggests that they may continue to operate on BSC in the\nfuture. Check the details:\n[https://metasleuth.io/result/bsc/0x69810917928B80636178b1BB011c746efe61770D?source=e19fa612-c360-482f-8add-362c76bebd67\u2026](https://t.co/WmEocgbohe)"
+    }
+}
