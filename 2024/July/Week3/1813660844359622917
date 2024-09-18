@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1813660844359622917",
+        "timestamp": "2024-07-17 04:15:04",
+        "original_content": "Spot-on answer by\n\n[@flack00n](/flack00n)\n\n. Enumerable sets use nested mapping, and simply deleting this structure will\nnot remove the roles. The natspec documentation for enumerable sets warns\nagainst using the delete function. Instead, the remove function should be used\nto clear the structure."
+    }
+}
