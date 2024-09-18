@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1677548773269213184",
+        "timestamp": "2023-07-08 13:22:49",
+        "original_content": "civfund's contract on ETH was attacked for $180k. The victim contract\n0x7CAEC5E4a3906d0919895d113F7Ed9b3a0cbf826 is not open source. The attacker\ncalls uniswapV3MintCallback to transfer the funds approved by other users.\nPlease revoke approvals to the attacked contract ASAP."
+    }
+}
