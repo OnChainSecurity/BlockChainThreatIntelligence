@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1795521448687341734",
+        "timestamp": "2024-05-29 02:24:07",
+        "original_content": "Two major smart contract languages are: 1\\. Solidity: Easier to learn and\nsupported by multiple chains, but generally considered less secure. 2\\. Rust:\nMore difficult to learn, supported by various ecosystems and chains, but\ngenerally more secure. If you were starting with web3 security today, which\none would you pick and why? Let's discuss\n?"
+    }
+}
