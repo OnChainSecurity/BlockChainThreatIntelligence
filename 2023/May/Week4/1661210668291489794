@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1661210668291489794",
+        "timestamp": "2023-05-24 11:21:01",
+        "original_content": "On May 23,\n\n[@LOCALTRADERSCL](/LOCALTRADERSCL)\n\n [$LCT] on BSC was exploited for 380\n[$BNB] ($118K) in tx\n[https://bscscan.com/tx/0x49a3038622bf6dc3672b1b7366382a2c513d713e06cb7c91ebb8e256ee300dfb\u2026](https://t.co/mvEdYQtSFI)\nThe root cause is that the 0xb5863c10 function lacks a permission check and\ncan be called by anyone to modify the owner. The attacker first sets himself\nas the owner and then uses the 0x925d400c function to modify the price to 1,\nso that he can buy [$LCT] tokens at a low\nprice. The attacker then sells [$LCT] for\nprofit."
+    }
+}
