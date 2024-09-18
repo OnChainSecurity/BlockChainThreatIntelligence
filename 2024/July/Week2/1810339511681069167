@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1810339511681069167",
+        "timestamp": "2024-07-08 23:45:48",
+        "original_content": "Today at EthCC,\n\n[@Composable_Sec](/Composable_Sec)\n\ngave an insightful presentation on Uniswap V4 Hooks Security. Great talk! As\nearly as last year, our team delivered an open-source static code detector for\nvulnerabilities within Uniswap hooks. You can check it out here:"
+    }
+}
