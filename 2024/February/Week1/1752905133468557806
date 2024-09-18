@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1752905133468557806",
+        "timestamp": "2024-02-01 12:02:04",
+        "original_content": "if you have signed a `queueWithdrawal (0xf123991e)` malicious transaction and\nless than 15 days, try to call EigenLayer Strategy Manager's\n`slashQueuedWithdrawal` to slash an existing queued withdrawal.\n[https://etherscan.io/address/0x858646372cc42e1a627fce94aa7a7033e7cf075a#writeProxyContract#F17\u2026](https://t.co/jwSzBER86Y)"
+    }
+}
