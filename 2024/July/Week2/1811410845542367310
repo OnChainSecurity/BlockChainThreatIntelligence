@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1811410845542367310",
+        "timestamp": "2024-07-11 22:42:53",
+        "original_content": "3/ Our method maintains minimal storage requirements for archive nodes while\nproviding high-performance state access. This ensures our attacking monitoring\nand blocking platform Phalcon and the TX visualization tool Phalcon Explorer\ncan quickly retrieve the latest TX data.\n\n[@Phalcon_xyz](/Phalcon_xyz)"
+    }
+}
