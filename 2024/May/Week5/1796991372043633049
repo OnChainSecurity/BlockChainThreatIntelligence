@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1796991372043633049",
+        "timestamp": "2024-05-31 00:46:08",
+        "original_content": "Parsely provided a spot-on answer. This specific bug earned the Egis team\n$2,200. The issue is related to the behavior of the try-catch block in\nSolidity. It may not always catch the revert as expected, as shown in the\nfollowing example."
+    }
+}
