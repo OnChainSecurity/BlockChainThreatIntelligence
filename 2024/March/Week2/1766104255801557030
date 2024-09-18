@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1766104255801557030",
+        "timestamp": "2024-03-08 22:10:40",
+        "original_content": "the victim signed a malicious \"increaseAllowance\" transaction, what does the\n`increaseAllowance` signature look like?\n? make sure you have done\ndue diligence with the `spender`.\n[https://etherscan.io/tx/0x0a7333b38b91b27ae73514376a10c623f9cea8d38b61b96cf2edc9e299bd3897\u2026](https://t.co/meDVYeuhKl)"
+    }
+}
