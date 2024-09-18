@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1676235285506539521",
+        "timestamp": "2023-07-04 22:23:29",
+        "original_content": "BambooAI [$BAMBOO] was exploited for\n216 [$BNB] ($53k). The transfer will burn\nthe balance of $BAMBOO in the pair, causing the price to rise. One tx:\n[https://bscscan.com/tx/0x88a6c2c3ce86d4e0b1356861b749175884293f4302dbfdbfb16a5e373ab58a10\u2026](https://t.co/4cwwps88Yp)\nAttack flow: The attacker flashloans 4,042 $WBNB and swaps a large amount of\nBambooAI Token via uniswap."
+    }
+}
