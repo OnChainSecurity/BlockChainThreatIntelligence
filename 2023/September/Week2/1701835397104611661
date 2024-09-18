@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1701835397104611661",
+        "timestamp": "2023-09-13 10:41:52",
+        "original_content": "We have traced the\n\n[@coinexcom](/coinexcom)\n\nstolen funds on ETH, BSC, Polygon, Tron, and BTC (this is not an exhaustive\nlist of the stolen funds). The stolen funds on these chains amount to\napproximately $42 million in total, with the majority currently held in the\nform of native tokens and transferred to new addresses. We will continue to\nmonitor the addresses where the funds are being held.\n[https://metasleuth.io/result/eth/0x8bf8cd7F001D0584F98F53a3d82eD0bA498cC3dE?source=2640327a-60e1-4616-bd74-78cf8a4194ec\u2026](https://t.co/MsT6SbSoSm)"
+    }
+}
