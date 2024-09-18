@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1820197684747423917",
+        "timestamp": "2024-08-01 16:41:32",
+        "original_content": "Breakdown Part 1: Code doesn't do anything, it is not even depositing anything\ninto Lido, hence there is no point in calling the withdraw anyway. Most of the\ncomments went in the wrong direction due to the wording used in the post.\nTrust no one, not even Sherlock's intern."
+    }
+}
