@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1751180097921687732",
+        "timestamp": "2024-01-27 17:37:33",
+        "original_content": "victim signed an `increaseAllowance` transaction. the token spender is the\ntemp address pre-computed by CREATE2."
+    }
+}
