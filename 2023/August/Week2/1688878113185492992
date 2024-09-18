@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1688878113185492992",
+        "timestamp": "2023-08-08 19:41:34",
+        "original_content": "[#MetaSleuthTips] Introducing the\nthree types of edges in fund flow charts:\n? Transfer: Total of the\nsame token transfers between two addresses.\n\u26d3\ufe0f Cross-chain: Represents a\ncross-chain action composed of two virtual \u2018transfer\u2019 edge: one cross-out and\none cross-in. ? Contract-\ncreation: Indicates contract creation actions, potentially involving Ether\ntransfers."
+    }
+}
