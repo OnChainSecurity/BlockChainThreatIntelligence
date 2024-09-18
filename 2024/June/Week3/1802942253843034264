@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1802942253843034264",
+        "timestamp": "2024-06-18 13:51:45",
+        "original_content": "Can you spot the bug from the\n\n[@titlesxyz](/titlesxyz)\n\ncontest? This code snippet works on Mainnet but fails on Zksync due to a\ndiscrepancy in opcodes. Comment with your answer, and the best one will get a\nretweet and recognition from Sherlock. The winner will be chosen in 48 hours.\nHint: check the clone function in solady."
+    }
+}
