@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xKoda/status/1735068052381901261",
+        "timestamp": "2023-12-13 12:12:29",
+        "original_content": "The OKX exploiters' address was eventually funded from\n0xeb982159ec32b601b6201a0553a05745a14e8f6c at transaction\n0x4c3cfdf935aef79d46510c86bad7c5099dc7ca04d5d002ba1f9abd05769132c5.\n\n[![Image](https://pbs.twimg.com/media/GBQuj2sbwAAuefi?format=jpg&name=medium)](/0xKoda/status/1735068052381901261/photo/1)\n\nThe second okx exploiter wallet 0xFacf375Af906f55453537ca31fFA99053A010239\nrx'd funds via 0x9ada20B835Aa178813A8C174F1F93B1dc1BFA775 6 days ago, a wallet\nlinked to the UNO hack. Further links can be established to FixedFloat,\nBinance, Gate, Mexc and Changenow.\n\n[![Image](https://pbs.twimg.com/media/GBQxZy3agAAEjb4?format=jpg&name=medium)](/0xKoda/status/1735068052381901261/photo/2)\n\nOther wallets with identifiers include\n0x83461A5429779Be0A089E8F94d6C9b7064C90Ad1 who is the owner of\nrabit.blockchain, rabit.wallet, and rabit.nft UD this address sends funds to\n0xedb868e95c2d123d264be2b02bf4a19f891f87f6, linked to\n0x2eD65De2823676d315ec034d4c549BB3F0a846AE and eventually back to\n0x67CF820F5cBd7B710A346d139E954f93C984111C, a wallet that transferred funds\ndirectly to OKX exploiter 0x\u20260239."
+    }
+}
