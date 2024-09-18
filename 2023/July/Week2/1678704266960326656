@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1678704266960326656",
+        "timestamp": "2023-07-11 17:54:20",
+        "original_content": "There is a high probability that -> The attacker is the same person as the\nprevious attacker. As the previous one deposited 55 ETH into TC and used the\nnative bridge and acrossProtocol for cross-chain. This time, the attacker\nstarted with 51 ETH and also used the same bridges."
+    }
+}
