@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1658002030953365505",
+        "timestamp": "2023-05-15 14:46:05",
+        "original_content": "Attack flow: 1/ Several miner addresses of the project can mint NFTs,\nincluding 0x2e599883715d2f92468fa5ae3f9aab4e930e3ac7. 2/ The attacker calls\n0x2e599883715d2f92468fa5ae3f9aab4e930e3ac7 contract to mint 200 NFTs. 3/ The\nattacker calls the 0x2c672a34 function of the\n0xeab03ad7ea0ac5afb272b592bef88cf93ed190c5 contract to swap for a large amount\nof [$XQJ] using the previous minted NFTs\n(200 [$XQJ] per NFT). 4/ The attacker\nswaps 28,601 [$XQJ] for 149,616\n[$BUSD]. 5/ The attacker minted NFTs\nagain until the NFT issue limit was reached."
+    }
+}
