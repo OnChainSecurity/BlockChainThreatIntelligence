@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Elliptic_Inv/status/1669327908517675008",
+        "timestamp": "2023-06-15 20:55:21",
+        "original_content": "3/7 This ETH -> WETH -> ETH change of assets will break most blockchain\nanalytics transaction monitoring solutions which only consider single-assets\nwhen determining source of funds - a deliberate tactic being employed by\nLazarus."
+    }
+}
