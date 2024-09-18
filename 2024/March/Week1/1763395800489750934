@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1763395800489750934",
+        "timestamp": "2024-03-01 10:42:44",
+        "original_content": "the victim signed a malicious Uniswap Permit2's Permit Batch message, and the\ntoken spender is a Safe wallet address!"
+    }
+}
