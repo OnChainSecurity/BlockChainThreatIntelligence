@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1825805607703818440",
+        "timestamp": "2024-08-20 16:02:33",
+        "original_content": "? Just analyzed a\nsuspicious $238M transfer of 4064 BTC flagged by\n\n[@zachxbt](/zachxbt)\n\n[https://metasleuth.io/result/btc/4b277ba298830ea538086114803b9487558bb093b5083e383e94db687fbe9090?source=51c217cd-973b-4eda-b203-31bb819f0b15\u2026](https://t.co/uTHh0ajxpJ)\u2026\n?\ufe0fOur findings as of the\nanaysis time: ?The majority\nof BTC (approximately 3686 BTC) is held in six addresses (marked in orange in\nMetaSleuth canva) ?A small\namount of BTC has flowed into services such as eXch, FixedFloat, ChangeNOW,\nKuCoin, Gate, and others\n?65 BTC bridged to\nAvalanche, swapped to WETH, bridged to Ehereum, then laundered via TornadoCash\nAdditionally, while\n\n[@RAILGUN_Project](/RAILGUN_Project)\n\nmentioned refunding BTC (unshielded back to the original address) under\nZachXBT's tweet, the initial funding for address 0x5395 on ETH still\noriginates from Railgun. Follow us for the latest updates on this case!"
+    }
+}
