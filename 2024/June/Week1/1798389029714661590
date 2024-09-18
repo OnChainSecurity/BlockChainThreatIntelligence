@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1798389029714661590",
+        "timestamp": "2024-06-04 00:43:21",
+        "original_content": "We have a winner ? The MKR\ntoken's symbol function returns bytes32 instead of a string. However, the code\nassumes it will always be a string and will fail for such tokens. This issue\nwas identified during the Teller V2 contest on Sherlock."
+    }
+}
