@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1831646479661891615",
+        "timestamp": "2024-09-03 20:06:51",
+        "original_content": "[#Update]\n\u261d\ufe0f The funds have been\ntransferred to four EOAs and swapped into DAI:\n0xd24F531fd7b834054C91A6E584256633f2Fe7a70 ~$263K DAI\n0xd8fcC9dEc51314320C5A11DDEf09d78B9BBe0a14 ~$20K DAI\n0x3Be2aAEbd6fE5Dfd5e13185B927Ea8Bc6DdD301d ~$197K DAI\n0x06DE3C4c538Ba71A441243c72c79e9F7120f5715 ~$180K DAI\""
+    }
+}
