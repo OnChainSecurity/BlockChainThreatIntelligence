@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1659482287422193664",
+        "timestamp": "2023-05-19 16:53:03",
+        "original_content": "Swaprum on Arbitrum rugged for ~$3M. The deployer of Swaprum used the add()\nbackdoor function to steal LP tokens staked by users, then removed liquidity\nfrom the pool for profit. One tx:\n[https://arbiscan.io/tx/0x36fef881f7e9560db466a343e541072a31a07391bcd0b9bcdb6cfe8ae4616fc0\u2026](https://t.co/qRXLhrAIqp)"
+    }
+}
