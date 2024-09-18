@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1808562678887297124",
+        "timestamp": "2024-07-04 02:05:18",
+        "original_content": "There are two approaches that projects take when launching after an audit: 1\\.\nThey may launch a bounty program and wait for security researchers to\nparticipate and submit any bugs they find. This approach leverages external\nexpertise to uncover vulnerabilities that might have been missed initially.\n2\\. Some projects opt for regular audits at specified intervals for their live\ncodebase. This ongoing process ensures that any new changes or updates are\nexamined for security risks. What do you think is better approach assuming\nbudget is not a constraint?"
+    }
+}
