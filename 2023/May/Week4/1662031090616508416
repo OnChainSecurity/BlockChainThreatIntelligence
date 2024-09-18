@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1662031090616508416",
+        "timestamp": "2023-05-26 17:41:05",
+        "original_content": "SeaSwapSui rug pulled with 32,787 [$SUI].\nTxs:\n[https://suiscan.xyz/mainnet/tx/Fb41QYLLVp9WS6zvAN1y3HYWyRP7jYPv2JQf46j55Qp3\u2026](https://t.co/uFABnsEVLu)\n[https://suiscan.xyz/mainnet/tx/ADHPyHZtkKFokQ8oG46SmNLHbv6AXTQMtzswWbn4g1eL\u2026](https://t.co/kUAkmqSZmY)\nThe sender is the owner of the modules\u2019 presale ledger (PresaleStorage\nobject). The owner can call emergency_withdrawal_token () to withdraw all the\n[$SUI] and\n[$SEA] obtained in the presale ledger."
+    }
+}
