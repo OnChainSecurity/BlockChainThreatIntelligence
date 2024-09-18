@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1796575219265794337",
+        "timestamp": "2024-05-31 23:41:53",
+        "original_content": "2\\. The exchange wallet controller suffered from an address spoofing scam,\nthat is, only the first 5 digits and the last 2 digits of the receiving\naddress were checked during the transfer, resulting in the transfer to the\nhacker address."
+    }
+}
