@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1692529887628636439",
+        "timestamp": "2023-08-18 18:03:04",
+        "original_content": "ExactlyProtocol was attacked, resulting in a loss of approximately $7 million.\nThe attacker obtained initial funding from TornadoCash and bridged it to the\nsame address (0xe4f3) on Optimism through the Optimism Bridge. Subsequently,\n0xe4f3 deployed the exploit contract and executed the attack using addresses\n0x3747 and 0x4171. The profits were then swapped for approximately 4324 Ether.\nCurrently, 1500 Ether has been bridged back to Ethereum through the Across\nBridge, while 2833 Ether is still in the process of being bridged back to\nEthereum via the Optimism Bridge, but the transaction is still in the\nChallenge Period. We will continue to monitor the attacker's address. Check\nthe fund flow:\n[https://metasleuth.io/result/optimism/0x3747dbbcb5c07786a4c59883e473a2e38f571af9?source=9ca13ffb-6d5d-4589-9537-7cacd4911b9a\u2026](https://t.co/UKmF8KYv82)"
+    }
+}
