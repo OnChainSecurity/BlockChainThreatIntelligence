@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1790780589530026436",
+        "timestamp": "2024-05-16 00:25:38",
+        "original_content": "Sonne Finance lost $20 million due to a well-known compound fork hack, aided\nby permissionless proposal execution on Optimism. How could protocols prevent\nsuch incidents effectively? Could conducting smart contract audits for each\nnew proposal and its impact work? Let's discuss.\n?"
+    }
+}
