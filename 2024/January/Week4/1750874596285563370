@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1750874596285563370",
+        "timestamp": "2024-01-26 21:33:24",
+        "original_content": "most are stolen by one or multiple ERC20 permit signatures. a simple erc721\nsignature that is designed to provide gasless token approval, but most victims\nfall for it and unsuspectingly sign it."
+    }
+}
