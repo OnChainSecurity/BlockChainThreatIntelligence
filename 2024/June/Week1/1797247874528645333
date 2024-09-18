@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1797247874528645333",
+        "timestamp": "2024-06-02 20:44:19",
+        "original_content": "Analysis of Velocore security incident: The LP Pool lacks permission\nverification. The attacker directly invoke the velocore__execute function\n(0xec378808) of the LP contract with a carefully constructed parameter to\nmanipulate the feeMultiplier parameter of the contract."
+    }
+}
