@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1772383116394439122",
+        "timestamp": "2024-03-26 06:00:38",
+        "original_content": "Daily Reminder: Yul lacks built-in safeguards against underflow/overflow\nissues. Curious to dive deeper into related bugs? Explore further on\nSherlock's blog: [https://sherlock.xyz/blog-posts/why-careful-validation-\nmatters-a-vulnerability-originating-in-inline-\nassembly\u2026](https://t.co/0OpgOs4THX)"
+    }
+}
