@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1676516999973994496",
+        "timestamp": "2023-07-05 16:41:51",
+        "original_content": "The attacker of Rodeo gained a total profit of 89601 USDC.e, which was later\nexchanged for 46.11 ETH. -> Interestingly, the deployer of the Rodeo contract\nand the attacker's address are very similar, with the first five letters being\nexactly the same."
+    }
+}
