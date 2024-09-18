@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1818930050064109848",
+        "timestamp": "2024-08-01 16:41:32",
+        "original_content": "A vulnerability in the following snippet earned a Watson $1800 and a solo\nhigh. Can you spot the bug? This contract is a simplified version that\ndeposits into Lido and withdraws all the balance when the withdraw function is\ncalled. The winner will be picked in 48 hours."
+    }
+}
