@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1706319766544155068",
+        "timestamp": "2023-09-25 22:48:28",
+        "original_content": "Regarding the\n\n[@MixinKernel](/MixinKernel)\n\nsecurity incident, we have the following findings. First, a large number of\ndeposit addresses have been drained. The attacker transferred funds in order\nfrom the highest to the lowest balance, involving 10,000+ transactions,\nlasting several hours. Second, we suspect that a couple of addresses drained\nwere Mixin's hot wallet. Third, Mixin had a policy to change a new hot wallet\naddress daily. Although we are not clear about Mixin's internal security\narchitecture, based on these facts, combined with the previously disclosed\ninformation that the database was compromised, it can be inferred that: 1) the\nprivate keys of Mixin deposit addresses are stored in a recoverable manner. 2)\nthe attacker compromised the cloud and recovered the private keys of deposit\naddresses (and hot wallet addresses)."
+    }
+}
