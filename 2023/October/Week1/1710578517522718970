@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1710578517522718970",
+        "timestamp": "2023-10-07 14:33:31",
+        "original_content": "Analysis of the Stars Arena\nexploit:? The contract is\nnot open source, there seems to be a reentrancy vulnerability. During the call\nof the 0xe9ccf3a3 function, the attacker reentered and called the 0x5632b2e4\nfunction, setting a block height. Then, in the sellShares function, this\nheight was used as a parameter to calculate the amount of\n[$AVAX] to send, resulting in an\nabnormally large calculated amount. Ultimately, the attacker was able to\nobtain a large profit."
+    }
+}
