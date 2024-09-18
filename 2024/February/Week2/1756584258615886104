@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ChainArgos/status/1756584258615886104",
+        "timestamp": "2024-02-11 15:41:37",
+        "original_content": "An understandable Tether blacklisting:\n0xf29eb1bcc4b778e4b44904e575753c5c492c4d11 was blacklisted 9th Feb. The\ninflows are recent as shown below. And include various flavours of wrapped\nETH, a few stablecoins, MATIC, RLB, MKR. All kinds of stuff from 31st Jan to\n2nd Feb. And what do we find on 2nd Feb?\n\n[@realScamSniffer](/realScamSniffer)\n\nflagging the address.\n[https://x.com/realscamsniffe/realScamSniffer/status/1753425680065585207\u2026](/realScamSniffer/status/1753425680065585207)\nDoes that work? The flows stopped on the 2nd and it took a week for Tether to\nblacklist them. All the work here was done off-chain via social processes. The\nonly thing even vaguely-formalized (Tether blacklisting) was late and it would\nappear pretty irrelevant. Is that the goal?"
+    }
+}
