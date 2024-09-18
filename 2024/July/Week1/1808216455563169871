@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1808216455563169871",
+        "timestamp": "2024-07-01 15:40:14",
+        "original_content": "Winner Announcement?\nCongratulations to\n\n[@ironside_web3](/ironside_web3)\n\nfor providing an accurate explanation! They clarified that the code assumes\nthe deposit function returns the exact amount of ETH, while in reality, the\netherfi deposit returns the amount of shares minted. Always read the code\ndocumentation (natspec) to understand the return values of a function."
+    }
+}
