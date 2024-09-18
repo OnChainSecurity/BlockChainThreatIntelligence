@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1701423346167247209",
+        "timestamp": "2023-09-12 03:51:51",
+        "original_content": "The transfer function of the\n\n[@BananaGunBot](/BananaGunBot)\n\ncontract has a mint bug. The contract mints additional tokens equal to the\nfees to its own address for every transaction.\n[https://etherscan.io/address/0xccf5cf1d039f1a7b66be855b79b14a01d0a4dbd5#code\u2026](https://t.co/OFf4BmrOgB)"
+    }
+}
