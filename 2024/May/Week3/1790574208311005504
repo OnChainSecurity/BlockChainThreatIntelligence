@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1790574208311005504",
+        "timestamp": "2024-05-15 10:45:33",
+        "original_content": "?\n\n[@SonneFinance](/SonneFinance)\n\non Optimism was under flash loan attacks by hackers with a loss of about $20\nmillion. The attacker borrowed VELO tokens through flash loan, sent them to\nsoVELO contracts and created multiple new contracts where various tokens were\ndrained in Sonne Finance."
+    }
+}
