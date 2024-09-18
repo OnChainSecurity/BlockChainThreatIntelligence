@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1679085759511556097",
+        "timestamp": "2023-07-12 19:10:15",
+        "original_content": "[#MetaSleuthTips] Compliance Score\nFeature. ? We flag\nhigh/critical risk addresses with a symbol on the canvas.\n? In the address panel,\nyou'll see the compliance score - No Risk, Low Risk, Medium Risk, High Risk,\nor Critical Risk - along with address labels used to evaluate compliance risk\nlevel."
+    }
+}
