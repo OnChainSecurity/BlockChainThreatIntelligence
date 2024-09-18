@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1826200855827390652",
+        "timestamp": "2024-08-21 18:13:07",
+        "original_content": "A phishing transaction profited more than 54M Dai! The attacker lures the\nvictim into signing a TX to change the vault owner and then executes a TX to\ndrain the vault! Be cautious when signing a transaction.\n[https://app.blocksec.com/explorer/tx/eth/0xf70042bf3ae7c22f0680f8afa078c38989ed475dfbe5c8d8f30a50d4d2f45dc4\u2026](https://t.co/H6FVW58j8K)"
+    }
+}
