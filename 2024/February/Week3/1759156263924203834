@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1759156263924203834",
+        "timestamp": "2024-02-18 18:01:51",
+        "original_content": "A contract that was labeled as a Phishing contract has been attacked -- no\nsanitization on the input parameters.\n[https://phalcon.blocksec.com/explorer/tx/bsc/0x4b1b9e3e1160d5118b2cc3102f47c1b5364647eeb7d29bd8425e67feacd9db51\u2026](https://t.co/Fzd4i8aPL8)"
+    }
+}
