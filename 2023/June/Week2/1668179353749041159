@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1668179353749041159",
+        "timestamp": "2023-06-12 16:26:46",
+        "original_content": "KP3R was attacked, and the attacker managed to harvest approximately 4,084\n$KP3R, worth around $200,000 USD. The attacker obtained their initial funds\nfrom\n\n[@TornadoCash](/TornadoCash)\n\nand had extensive interactions with\n\n[@binance](/binance)\n\nexchange. Notably, the attacker exploited a privileged vanity address to\nmodify the governor of several pools, which allowed them to successfully carry\nout the attack. Check the details:\n[https://metasleuth.io/result/eth/0x4941F075d77708b819e9f630f65D65c3289e7C9E?source=73b5b365-9232-4c7b-934b-e8b71a48ecba\u2026](https://t.co/3KUBBY435Z)"
+    }
+}
