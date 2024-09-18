@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1678617665735385089",
+        "timestamp": "2023-07-07 19:39:09",
+        "original_content": "Another $103M has been transferred from\n[#MultiChain] to the\n0x1eed63efba5f81d95bfe37d82c8e736b974f477b address. Total transfer from\nFantom, Arbitrum, Optimism, Cronos, Polygon, Avaleanche, BNB chain, Moonbeam,\nEthereum: [$USDC]: $23,999,250\n[$fUSDT]: $29,657,932\n[$WBTC]: $2,139,053\n[$WETH]: $17,168,126\n[$ETH] $10,102,001\n[$DAI] : $2,994,317 Total: $103,277,346\nTransfer behavior: 1) Transfer a large amount of assets via privileges; 2)\nAssets are from multiple chains, involving a large number of private keys; 3)\nLong time interval between transfers. This indicates that the attacker may\nhave taken control of all the assets and is not in a hurry to transfer them.\nBased on the previous analysis, we speculate that it may be from an internal\noperation."
+    }
+}
