@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/code4rena/status/1770145904382669194",
+        "timestamp": "2024-03-20 01:50:45",
+        "original_content": "? Findings Summary High\nrisk findings: 1 unique (2 total) Medium risk findings: 10 unique (30 total)\nQA reports: 18 (Best:\n\n[@0xcastle_chain](/0xcastle_chain)\n\n) Advanced analysis reports: 11 (Best: hunter_w3b)"
+    }
+}
