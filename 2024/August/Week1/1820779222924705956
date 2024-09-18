@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1820779222924705956",
+        "timestamp": "2024-08-06 18:36:56",
+        "original_content": "The\n\n[@Ronin_Network](/Ronin_Network)\n\nbridge suffered attacks, likely front-runned by MEV bots, and has been paused.\nThe root cause is due to an upgrade issue. In recent months, there have been\nmultiple incidents related to upgrades, highlighting the need for increased\nattention during these processes."
+    }
+}
