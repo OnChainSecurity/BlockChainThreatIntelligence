@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1677281299860709377",
+        "timestamp": "2023-07-07 19:39:09",
+        "original_content": "Possible stealing methods: 1/ Penetrated the back-end of Multichain, obtained\nthe permissions of the entire project, and transferred funds to their newly\ncreated accounts through the back-end. 2/ Attacked the project's device,\nobtained the private key, and directly transferred funds using the private\nkey. 3/ Inside job of Multichain. After being attacked, Multichain did not\nimmediately transfer the remaining assets of the address, and it took hours to\nannounce the suspension of service. The hacker's transfer behavior was also\nrandom, with not only large transfers but also small transfers of 2\n[$USDT], and the entire time span was\nrelatively large, making it highly likely that the hacker had control of the\nprivate key."
+    }
+}
