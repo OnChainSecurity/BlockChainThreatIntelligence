@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1677193473617989632",
+        "timestamp": "2023-07-07 13:50:59",
+        "original_content": "[@MultichainOrg](/MultichainOrg)\n\nwas exploited for ~$126M due to suspected control over the validator.\nMultichain: Fantom Bridge transferred a significant amount of funds to\nsuspicious addresses via the transfer function. No obvious cross-chain\ncounterpart transactions were detected, suggesting a potential offline\nverification issue that allowed direct transfers across the cross-chain\nbridge."
+    }
+}
