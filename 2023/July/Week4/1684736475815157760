@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1684736475815157760",
+        "timestamp": "2023-07-28 09:24:11",
+        "original_content": "DefiLabs on BNB Chain rugged for ~$1.4M. Contract:\n0xdedbd1804569f369e33e453ee311f0f97dcd0bde The privileged address\n0xee08d6c3a983eb22d7137022f0e9f5e7d4cf0be2 directly withdraws 1,427,200 BSC-\nUSD staked in the vPoolv6 contract via the backdoor function withdrawFunds()."
+    }
+}
