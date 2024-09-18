@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1667480784742289408",
+        "timestamp": "2023-06-10 18:36:14",
+        "original_content": "Revoke any allowances to [#Atlantis]\ncontracts! Due to the execution of a malicious governance proposal, the\nimplementation contracts of Atlantis Tokens and Unitroller were replaced with\nthe contract 0x613cc5, which was created 3 hours ago. This resulted in user\nassets that had been approved to Atlantis contracts being transferred to\naddress 0xeade07. In addition to the\n[$ATL] tokens siphoned from the Atlantis\ncontracts by 0xeade07, a total of nearly $1 million in assets have flowed into\n0xeade07 (some of which have already been transferred to address 0xd8e918).\nCheck the details:\n[https://metasleuth.io/result/bsc/0xEADe071FF23bceF312deC938eCE29f7da62CF45b?source=0cf38380-e10c-4d06-8066-00611b9cafab\u2026](https://t.co/F4z0M6ceJk)"
+    }
+}
