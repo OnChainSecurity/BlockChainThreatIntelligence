@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1665907913108623361",
+        "timestamp": "2023-06-06 10:26:10",
+        "original_content": "8/ PoC The initial originalHash is validated, and then the attackHash just\nforged is also validated. That is, the same proof can be verified more than\nonce, resulting in a double-spending attack."
+    }
+}
