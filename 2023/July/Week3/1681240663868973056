@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1681240663868973056",
+        "timestamp": "2023-07-18 17:53:04",
+        "original_content": "[$GMETA] on BSC rug pulled with ~$2.36M.\nThe price dropped -96%. The contract creator\n0x9f02c29ad35fd20a51cd48250512a7b7feeb8ed1 transferred 1M\n[$GMETA] to the address\n0xd33D347d8f54EC3229A771F2092A6c6b6750D695, and then used 120K\n[$GMETAs] to swap out 2,367,507 USDTs\nfrom the pair, which led to the price slippage. Now 1M USDTs are remaining in\nthe pair.\n\n[![Image](https://pbs.twimg.com/media/F1T20nUaYAEODn-?format=png&name=medium)](/BeosinAlert/status/1681240663868973056/photo/2)\n\n[![Image](https://pbs.twimg.com/media/F1T20nZaEAARoGd?format=png&name=medium)](/BeosinAlert/status/1681240663868973056/photo/1)\n\n[![Image](https://pbs.twimg.com/media/F1T3M_yagAEgkvt?format=png&name=medium)](/BeosinAlert/status/1681240663868973056/photo/3)[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1828666315848183808/ijmwcl8y?format=jpg&name=small)](https://t.co/YlmVT1iER2)\n"
+    }
+}
