@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1681850857502003201",
+        "timestamp": "2023-07-20 10:17:46",
+        "original_content": "Flashmall on BNB chain rugged for ~$550k. Contract:\n0x1f40465Dce9a07A5273b4b63F5f9C31ff2bcBD9a The privileged address set by the\nproject manipulated the setPointRate function. The scammer (0x613c6....193a)\nmints 10 times the tokens every time and then 1:1 swap back tokens, finally\nremoves liquidity to profit $550k, which was sent to Tornado Cash."
+    }
+}
