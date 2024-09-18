@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1683879092913942531",
+        "timestamp": "2023-07-23 10:30:46",
+        "original_content": "On Ethereum, the Alphapo hot wallet exploiter has bridged 5,700 ETH to AVAX to\nswap for BTC. Alphapo Drainer 1 still holds over $90M of assets. On TRON, the\nTJF7mdFxDuHB4tb9hoyR4SCpKxk7gr23ym address holds 59.6M TRX (worth ~$4.88M),\nthe TGGMvM3hCQnmDnteP2ynt3RVkrEp2S11Ag address holds 32.5M TRX (worth\n~$2.65M). 5,843,603 [$TRX] (worth ~$7M)\nwas sent to multiple addresses including CEX & DEX (MEXC, Huobi, Bybit,\nBitget, etc.)"
+    }
+}
