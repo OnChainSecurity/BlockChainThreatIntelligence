@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1803144801795399867",
+        "timestamp": "2024-06-18 13:51:45",
+        "original_content": "Study create opcodes, learn about zkSync, participate in contests, and make\nmoney. \"To ensure the proper functioning of the create and create2 functions,\nthe compiler needs to have prior knowledge of the deployed contract's\nbytecode. The compiler treats the calldata arguments as partial inputs for\nContractDeployer, with the remaining information supplied internally by the\ncompiler. The Yul datasize and dataoffset instructions have been modified to\nreturn the constant size and bytecode hash instead of the actual bytecode.\"\nFor more details on this difference, read here :\n[https://docs.zksync.io/build/developer-reference/ethereum-differences/evm-\ninstructions#create-create2\u2026](https://t.co/Bl2QEnFRzH)"
+    }
+}
