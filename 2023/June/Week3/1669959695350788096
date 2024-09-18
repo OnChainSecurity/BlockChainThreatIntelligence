@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1669959695350788096",
+        "timestamp": "2023-06-17 14:33:08",
+        "original_content": "Pawnfi was attacked, and the attacker made a profit of around $820,000. The\nattacker obtained initial funds from TornadoCash, and so far, 200 Ether has\nbeen laundered into TornadoCash, while the remaining 267 Ether was transferred\nto the address 0xcd12 (which has been labeled as Pawnfi Exploiter 2). It's\nunfortunate that the 1 BAYC, 6 MAYC, and 2 BAKC that were stolen were quickly\nand successfully traded on Blur. Check the details:\n[https://metasleuth.io/result/eth/0x8f7370D5d461559f24b83ba675b4C7e2Fdb514cC?source=3f2b3d6e-d183-451b-8b2a-995cdc6c839f\u2026](https://t.co/g6jnKckz8x)"
+    }
+}
