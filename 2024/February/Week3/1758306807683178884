@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1758306807683178884",
+        "timestamp": "2024-02-16 09:46:23",
+        "original_content": "victim signed an `increaseAllowance` transaction, and the token spender is a\nSafe wallet address."
+    }
+}
