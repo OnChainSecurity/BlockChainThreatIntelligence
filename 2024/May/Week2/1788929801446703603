@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1788929801446703603",
+        "timestamp": "2024-05-10 21:51:14",
+        "original_content": "4\\. An exploit can happen when a blackhat hacker manipulates a pool used as a\nprice oracle by a protocol to artificially inflate a token\u2019s price. This in\nturn impacts the \u201ctrue\u201d price of the asset and directly can impact how the\nprotocol functions, even leading to the insolvency of the protocol. Hopefully,\nthis helps when thinking about TWAP oracles and their importance in the space.\nLet us know if you would like more threads like this!"
+    }
+}
