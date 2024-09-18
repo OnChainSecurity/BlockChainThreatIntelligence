@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1760876339903558114",
+        "timestamp": "2024-02-23 11:56:49",
+        "original_content": ".\n\n[@blueberryFDN](/blueberryFDN)\n\nwas attacked. Our initial analysis suggests that the root cause is the use of\ninconsistent logic for token price normalization; it involves a mismatch\nbetween the price sources and their respective normalization methods.\n[https://x.com/blueberryFDN/s/blueberryFDN/status/1760859333288702412\u2026](/blueberryFDN/status/1760859333288702412)"
+    }
+}
