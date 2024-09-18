@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1680790947280605185",
+        "timestamp": "2023-07-17 12:06:04",
+        "original_content": "$JIM2.0 token on Ethereum has a backdoor function that allows the owner to\nmint unlimited tokens. Users are advised to remove assets from WETH/JIM2.0\nPair. Token:\n[https://etherscan.io/token/0xc933cfeac9fe09665bc459e731f736ee9bea5914\u2026](https://t.co/A7dXH2V3ZS)\nPair: 0x000452064A15699c075620e308Be5F881fDb2e16"
+    }
+}
