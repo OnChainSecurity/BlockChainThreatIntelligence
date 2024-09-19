@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://link.springer.com/article/10.1007/s42484-023-00105-4",
+        "timestamp": "2023-04-24 00:00:00",
+        "original_content": "The quantum threat to blockchain: summary and timeline analysisAbstract\nBlockchain technology has emerged in the last decade and has been increasingly adopted in real-world applications. It relies on several cryptographic techniques, namely cryptographic hashing and digital signatures, which are threatened by the development of quantum computers. Quantum computing can potentially implement algorithms which can invalidate assumptions underlying these systems, namely pre-image resistance, and the intractability of certain hidden subgroup problems. Several research works have investigated the nature of the threats posed by quantum computing to blockchain, and have proposed potential countermeasures to secure the systems. In this paper we will analyse the timeline along which such threats are likely to become real for blockchain implementations, and assess the level of threat posed given the proposed countermeasures. After providing a reasoned summary of the quantum computing threats to blockchain and possible solutions, we discuss the time frame within which, by integrating the insights provided by recent research on their evolution, quantum computers may become mature enough to support the implementation of algorithms that could actually break the current public blockchain implementations, like Bitcoin."
+    }
+}
