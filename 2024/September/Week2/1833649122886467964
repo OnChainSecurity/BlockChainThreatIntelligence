@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ETazou/status/1833649122886467964",
+        "timestamp": "2024-09-11 00:23:09",
+        "original_content": "It was a complex process to find the right competitive audit, this field is\nextremely competitive (no pun intended) and players are top notch.\nAdditionally, the field lacks hard cold data\n? to make educated\ndecisions, so we went with our guts there, We have a good relationship with\n\n[@zellic_io](/zellic_io)\n\nand we\u2019re looking to solidify it through this competition I was also convinced\nby pro league side pools. I think they are a great addition in this instance.\nCalling all security researchers, if you\u2019re interested in the Ethereum Virtual\nMachine or virtual machines in general, if you\u2019re ZK-savvy, if you\u2019ve heard of\nCairo or are already proficient, come take a look at the \u201cEVM that was made\nfor ZK-proving\u201d.\n\n[@KakarotZkEvm](/KakarotZkEvm)\n\nis at the cross road of an EVM instruction set implementation, close to\nrevm/geth evm/java evm/nethermind evm in that sense, and a ZK-infra project,\nas Cairo is a high level ZK-DSL. Remember, anything written in Cairo can be\nused to generate a STARK! I\u2019ll be posting more information about the audit\nsoon, and bear in mind this is the first competition in a series of half a\ndozen of those! We\u2019re on a mission to prove all the EVM compute in the world.\nBear with us ?"
+    }
+}
