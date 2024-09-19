@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1833810100521406895",
+        "timestamp": "2024-09-11 18:09:32",
+        "original_content": "Affected blockchains: Ethereum, Polygon, Optimism The attacker address:\n0xb0a2e43d3e0dc4c71346a71484ac6a2627bbcbed Funds address: Address 1:\n0x59101e532bc728599a2d373fcdc7aff58cb48df8 ($12,200,384.56) Address 2:\n0x90FffbC09e9A5f6D035E92d25d67E244Ef5e904f ($2,610,095.81)"
+    }
+}
