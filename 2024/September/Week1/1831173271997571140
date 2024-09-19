@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1831173271997571140",
+        "timestamp": "2024-09-04 11:31:42",
+        "original_content": "3\\. When updating the reward, the claimRewards function of the attack contract\nwas called back The assets used in the flash loan will be re-entered by this\nfunction to stake, so that the assets of the staking contract had a quantity\ndifference, and the excess were withdrawn."
+    }
+}
