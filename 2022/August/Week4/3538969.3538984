@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://dl.acm.org/doi/abs/10.1145/3538969.3538984",
+        "timestamp": "2022-08-23 00:00:00",
+        "original_content": "Security incidents in blockchain-based systems are frequent nowadays, which calls for more structured efforts in incident reporting and response. To improve the current status quo of reporting incidents on blogs and social media, we propose a decentralized incident reporting and discussion system. Our approach guides users (security novices) towards a classification of their observations using a tiered taxonomy of blockchain incidents. Questions based on previous incidents interactively support the classification. Post submission a security incident response committee then discusses these observations on our decentralized platform to decide on an appropriate response. For evaluation, we implement our model as a decentralized application and demonstrate its practical suitability in a preliminary user study."
+    }
+}
