@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1835729730642813239",
+        "timestamp": "2024-09-16 22:38:17",
+        "original_content": "? At 6:14 AM CET,\nDeltaPrime Blue (\n\n[@arbitrum](/arbitrum)\n\n) was attacked, resulting in a loss of $5.93M due to a compromised private\nkey. The source of the breach is under investigation. DeltaPrime Red (\n\n[@avax](/avax)\n\n) remains secure, as it is protected by multisigs and cold wallets, preventing\nsimilar vulnerabilities."
+    }
+}
