@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1836825115683910019",
+        "timestamp": "2024-09-20 01:50:08",
+        "original_content": "What could go wrong in this protocol architecture? 1\\. Protocol relies heavily\non WBTC for core functionality. 2\\. WBTC/USD Chainlink oracle used for price\nassessment. 3\\. Assumes WBTC always equals BTC in price."
+    }
+}
