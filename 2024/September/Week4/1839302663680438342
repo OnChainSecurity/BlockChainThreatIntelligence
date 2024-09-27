@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1839302663680438342",
+        "timestamp": "2024-09-26 21:30:28",
+        "original_content": "It seems today's victim\n\n[@OnyxDAO](/OnyxDAO)\n\n(w/ >$3.8m loss) falls prey to a known precision issue in forked CompoundV2\ncode base. The drained funds include 4.1m VUSD, 7.35m XCN, 5k DAI, 0.23 WBTC,\n50k USDT. The bug is exploited to leverage a nearly empty market to manipulate\nthe exchange rate and here is the related hack tx\n[https://etherscan.io/tx/0x46567c731c4f4f7e27c4ce591f0aebdeb2d9ae1038237a0134de7b13e63d8729\u2026](https://t.co/grlEeU2nio)"
+    }
+}
