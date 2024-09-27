@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/SlowMist_Team/status/1839154230210543732",
+        "timestamp": "2024-09-26 12:05:12",
+        "original_content": "?SlowMist Security\nAlert? According to on-\nchain sleuth\n\n[@zachxbt](/zachxbt)\n\n, the project\n\n[@truflation](/truflation)\n\nwas hacked a few hours ago for $5M+ on multiple chains from the treasury\nmultisig and personal wallets.\n?[#MistTrack]'s\nAnalysis: 1\u20e3 1,236,895\n[$DAI] transferred from\n0x4ec10144f1a96eed9b04d324d0997b5325c56472 to\n0x5a047e663b8c0ba095dc88c92405ff9a74b332f4, then swapped for 92\n[$ETH] and transferred to\n0xb1cf7880351e6d16313c03a6686b4c8a5ba6372a.\n2\u20e3 56.0957\n[$ETH] transferred from\n0x3f8e5cc8abd032dd6ad652423e951ab06f833126 to\n0xb1cf7880351e6d16313c03a6686b4c8a5ba6372a.\n3\u20e3 267.0\n[$ETH] transferred from\n0x53d2094b31429a13e739358b16354d8e0826b25a to\n0xb1cf7880351e6d16313c03a6686b4c8a5ba6372a. Currently, 415.136\n[$ETH] is still held at\n0xb1cf7880351e6d16313c03a6686b4c8a5ba6372a. We will continue to follow up on\nthis incident and the movement of the funds."
+    }
+}
