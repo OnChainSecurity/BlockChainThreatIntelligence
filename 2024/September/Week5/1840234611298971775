@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1840234611298971775",
+        "timestamp": "2024-09-29 11:38:15",
+        "original_content": "Which of the following codebases is deemed to have bugs even after multiple\nrounds of audits? 1\\. A codebase with no tests. 2\\. A codebase with many\ntests, but over 15,000 source lines of code (SLOC), where developers make\nupgrades without an audit. 3\\. A well-tested codebase under 2,000 SLOC."
+    }
+}
