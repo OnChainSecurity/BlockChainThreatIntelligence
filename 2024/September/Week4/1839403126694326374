@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1839403126694326374",
+        "timestamp": "2024-09-27 04:34:14",
+        "original_content": "[#CertiKInsight]\n? On 26 September 2024,\n\n[@Bedrock_DeFi](/Bedrock_DeFi)\n\nwas exploited for ~$1.7M\n[https://etherscan.io/tx/0x725f0d65340c859e0f64e72ca8260220c526c3e0ccde530004160809f6177940\u2026](https://t.co/29uufgdewr).\nThe mint function didn't check that msg.value was native BTC which allowed the\nattacker to swap 30.8 ETH 1 to 1 for uniBTC."
+    }
+}
