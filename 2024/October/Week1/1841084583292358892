@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1841084583292358892",
+        "timestamp": "2024-10-01 19:55:45",
+        "original_content": "[#CertiKInsight]\n? Fire ($FIRE) token on\nEthereum Contract: 0x18775475f50557b96C63E8bbf7D75bFeB412082D has been\nexploited for 9 ETH (~$24k) within 24 seconds of being launched The root cause\nis due to the token burning mechanic within the transfer() function\n[https://etherscan.io/tx/0xd20b3b31a682322eb0698ecd67a6d8a040ccea653ba429ec73e3584fa176ff2b\u2026](https://t.co/ihIWoLJanD)"
+    }
+}
