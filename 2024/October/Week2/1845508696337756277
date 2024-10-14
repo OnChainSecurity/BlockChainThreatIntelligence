@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1845508696337756277",
+        "timestamp": "2024-10-14 00:35:56",
+        "original_content": "Uniswap introduced Permit2. Phishing signatures based on this can gain\napproval for multiple tokens at once. Once they have a victim's signature,\nthey can transfer multiple assets.\n?"
+    }
+}
