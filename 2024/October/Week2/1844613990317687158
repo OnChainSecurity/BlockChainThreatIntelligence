@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1844613990317687158",
+        "timestamp": "2024-10-11 13:40:21",
+        "original_content": "[#CertiKInsight]\n? EOA 0xEab2 on Blast was\ndrained of 15,079 fwDETH worth ~$35M. victim:\n0xEab23c1E3776fAd145e2E3dc56bcf739f6e0a393 scammers:\n0x000099B4a4D3cEb370d3A8A6235d24e07A8c0000\n0x0605edee6a8b8b553cae09abe83b2ebeb75516ec\n0xb0de93a54da8a2cfcde44a06f797ab2fb9d39fb8 The address 0x000099B4 has been\nactive on multiple chains since March and is reportedly associated with Angel\nDrainer. Stay Vigilant!"
+    }
+}
