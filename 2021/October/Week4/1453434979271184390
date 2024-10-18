@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xPaladinSec/status/1453434979271184390",
+        "timestamp": "2021-10-28 00:00:00",
+        "original_content": "For any lending protocols that might be panicking right now: 1\\. Disable the\nsupply of any illiquid token which the previous exploit might be profitable\nwith. 2\\. Do not use oracles which can change value within a single block 3\\.\nConsider collateral caps"
+    }
+}
