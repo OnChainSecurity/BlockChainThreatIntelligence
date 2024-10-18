@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ChainLinkGod/status/1761059867958358072",
+        "timestamp": "2024-02-23 00:00:00",
+        "original_content": "To clarify, this wasn\u2019t a Chainlink issue Compound v2 uses Chainlink feeds,\nbut also uses Uniswap TWAP as a price bound anchor, which requires that\nChainlink reports fall within a certain bound of the Uni TWAP, or else the\nupdate is rejected by the protocol\n[https://docs.compound.finance/v2/prices/](https://t.co/IqQhypi5Et) This can\ncause false positives during times of volatility since Uniswap TWAP is slow /\nhigh latency, causing Chainlink price updates to be rejected from being\nconsumed by the protocol (this is what we saw here) Chainlink proposed\ndisabling the Uniswap Anchor View (UAV) on Compound v2 specifically because of\nthis exact risk, which I imagine will go to vote soon after this event\n[https://comp.xyz/t/cip-4-upgrade-compound-v2-oracle-to-disable-\nuav/4728\u2026](https://t.co/IeUcz52h5I) Compound v3 also uses Chainlink feeds but\ndoesn\u2019t use the Uniswap TWAP price bound UAV, and therefore didn\u2019t have issues"
+    }
+}
