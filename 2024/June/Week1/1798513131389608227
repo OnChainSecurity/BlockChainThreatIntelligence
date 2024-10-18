@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1798513131389608227",
+        "timestamp": "2024-06-06 00:00:00",
+        "original_content": "\u203c\ufe0fStoring private keys in\n.env files is very dangerous because if they are accidentally pushed to\nGitHub, it poses a risk. I have also shared this in my DevSecOps talk. Please\nuse `cast wallet import your-account-name --interactive` to store your private\nkeys in Keystone."
+    }
+}
