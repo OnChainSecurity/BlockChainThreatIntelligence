@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/samczsun/status/1646404331967778820",
+        "timestamp": "2023-04-13 00:00:00",
+        "original_content": "It seems like the iearn USDT token (yUSDT) has been broken since deploy, which\nwas *checks notes* over 1000 days ago. It was misconfigured to use the Fulcrum\niUSDC token instead of the Fulcrum iUSDT token.\n[https://etherscan.io/address/0x83f798e925BcD4017Eb265844FDDAbb448f1707D\u2026](https://t.co/FMtjACkGNz)"
+    }
+}
