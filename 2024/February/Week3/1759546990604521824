@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1759546990604521824",
+        "timestamp": "2024-02-19 00:00:00",
+        "original_content": "What would you do if you found a Critical vulnerability in a deployed\nprotocol? ? \\- The protocol\nhas no bug bounty program \\- You contacted the protocol founders and they told\nyou that they have no interest in paying for this vulnerability although\nusers' money is at risk..."
+    }
+}
