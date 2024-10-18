@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1824069183543620036",
+        "timestamp": "2024-08-15 00:00:00",
+        "original_content": "An crucial take on auditing is to put yourself in the hacker's shoes. Here is\nhow reproducing the $41M Curve reentrancy hacks with Echidna demonstrates the\nsimplicity and effectiveness fuzzing (which is what we offer at\n\n[@ShieldifySec](/ShieldifySec)\n\nbtw)"
+    }
+}
