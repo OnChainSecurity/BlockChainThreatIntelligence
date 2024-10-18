@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1749244265379856573",
+        "timestamp": "2024-01-22 00:00:00",
+        "original_content": "It seems that create2 has already become a standard in use. Use Create2 to\ngenerate a new contract address. Then, user signatures are used on-chain via\nPermit to authorize allowances to Spender, as a new contract address to\ncircumvent wallet\u2019s blacklist detection."
+    }
+}
