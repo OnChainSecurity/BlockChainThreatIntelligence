@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1628049024019464193",
+        "timestamp": "2023-02-21 00:00:00",
+        "original_content": "?Bypass Discord restriction\nto steal your token. We know there is a simple restriction to avoid bookmark\nstyled payload in discord web page. But recently so may discord servers\ncompromised. Because this trick:\n\"location.href\"?\n?working payload. Credit:\n\n[@realScamSniffer](/realScamSniffer)"
+    }
+}
