@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1676836269496860672",
+        "timestamp": "2023-07-06 00:00:00",
+        "original_content": "(2/3)When delete myStructs[structId] is called, it only resets the id at\nmappingId to its default value 0, but the other flags in the mapping remain\nunchanged. Therefore, if the struct is deleted without deleting the mapping\ninside, the remaining flags will persist in storage"
+    }
+}
