@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/moo9000/status/1770454692742455374",
+        "timestamp": "2024-03-20 00:00:00",
+        "original_content": "Regarding the ParaSwap hack today: TL;DR: Part of the root cause is Solidity\n\"gas golfing\". ParaSwap v6 contracts are heavily gas optimised, written in\nassembly. Gas golfing is dangerous. For security, it's important for the smart\ncontracts source code to \"be easy to reason about.\" I would dare to claim that\n\"easy to reason\" is even the most important feature of smart contract\nprogramming languages. Assembly is very difficult to parse and understand what\nit is supposed to do.\n\n[@big_tech_sux](/big_tech_sux)\n\ngave a good presentation about the topic of how good smart contracts are easy\nto reason about here on Vyper Day last year:\n[https://youtube.com/watch?v=p-Wkrv-O1VQ&feature=youtu.be\u2026](https://t.co/ENisCM7ZBy)\nYou can find the ParaSwap contracts in the question here:\n[https://etherscan.io/address/0x00000000fdac7708d0d360bddc1bc7d097f47439#code#F21#L193\u2026](https://t.co/hRmqcC6vgs)"
+    }
+}
