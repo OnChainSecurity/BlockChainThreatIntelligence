@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CoinStats/status/1804633869372559788",
+        "timestamp": "2024-06-23 00:00:00",
+        "original_content": "Update on the Security Incident The attack has been mitigated, and we have\ntemporarily shut down the application to isolate the security incident.  1\\.\nNone of the connected wallets and CEXes were impacted. 2\\. Thanks to the\nimmediate incident reponse from the CoinStats team, only 1.3% of all CoinStats\nWallets were affected, totaling 1,590 wallets. The list might change as the\ninvestigation is ongoing but we don\u2019t expect significant changes. 3\\. If your\nwallet address is in this affected list, please move your funds immediately\nusing your exported private key (if you have exported previously):\n[https://docs.google.com/spreadsheets/d/1Lwxpy2T6W7aptjBJUio0Z01zihsqknXn6KPhzawQLVI/\u2026](https://t.co/NhctjkpECt)\n4\\. We are actively investigating the extent of funds moved and will provide\nupdates as soon as they become available. We're actively working to bring the\napp back online as quickly as possible. Thank you for your patience."
+    }
+}
