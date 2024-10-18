@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/IagonOfficial/status/1554258785690157056",
+        "timestamp": "2022-08-02 00:00:00",
+        "original_content": "There has been an exploit on the\n\n[@nomadxyz_](/nomadxyz_)\n\nbridge. We will take down our UI front end that supports the bridge. We have\nblocked any ERC20 token transactions to centralized exchanges. CNT tokens are\nsafe.\n\n[@0xPaladinSec](/0xPaladinSec)\n\nHas secured 179,221,101 ERC20 tokens. We appreciate them!"
+    }
+}
