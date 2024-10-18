@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1678596730865221632",
+        "timestamp": "2023-07-11 00:00:00",
+        "original_content": "? A new vulnerable type\nadded:\n4\u20e3Return\nvs break in DeFiVulbLabs. Use of return in inner loop iteration leads to\nunintended termination.\n?[https://github.com/SunWeb3Sec/DeFiVulnLabs/\u2026](https://t.co/3fw6rk39jJ)\n?Short analysis\n[#web3sec]"
+    }
+}
