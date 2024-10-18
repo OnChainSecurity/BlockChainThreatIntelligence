@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1814100887931150346",
+        "timestamp": "2024-07-18 00:00:00",
+        "original_content": "1/ The exploiter of the @WazirXIndia Multisig was able to drain it after\nchanging the implementation of the Multisig, that couldn't have been done\nwithout compromising the signers EOA, but here's a closer look on the attack\nflow ?"
+    }
+}
