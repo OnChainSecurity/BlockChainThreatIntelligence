@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1774731755137761470",
+        "timestamp": "2024-04-01 00:00:00",
+        "original_content": "A super cool story on how the biggest brains in AA assembled to fix the\nERC-1271 sig replay attack vector in their SCA implementations!"
+    }
+}
