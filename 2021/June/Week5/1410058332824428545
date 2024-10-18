@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xPaladinSec/status/1410058332824428545",
+        "timestamp": "2021-06-30 00:00:00",
+        "original_content": "3) For this to work however, you need to actually be able to reenter through\nthe token transfer. In other words, you need a token which allows you to\nexecute custom code when you receive it (eg. ERC777 tokens)."
+    }
+}
