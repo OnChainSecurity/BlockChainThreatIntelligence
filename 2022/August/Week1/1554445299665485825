@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xPaladinSec/status/1554445299665485825",
+        "timestamp": "2022-08-02 00:00:00",
+        "original_content": "[#Fantom] Reaper Farm multistrat vaults got\nexploited a few hours ago through a trivial mistake in the code. The exploiter\ncalled withdraw with any \"owner\" and their own address as \"receiver\" as\nnothing is checked, stealing stakes from anyone. Impact: $1.7m+"
+    }
+}
