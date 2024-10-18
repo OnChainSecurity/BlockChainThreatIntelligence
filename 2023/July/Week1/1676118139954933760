@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1676118139954933760",
+        "timestamp": "2023-07-04 00:00:00",
+        "original_content": "(2/3) Deadline: The function sets the deadline to the maximum uint256 value,\nwhich means the transaction can be executed at any time. If slippage is set to\n0 and there is no deadline, users might potentially lose all their tokens."
+    }
+}
