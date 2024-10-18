@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PatrickAlphaC/status/1765451730911732179",
+        "timestamp": "2024-03-07 00:00:00",
+        "original_content": "A tip for\n\n[@CertoraInc](/CertoraInc)\n\nusers: You can use hooks to execute custom code ANY time a SSTORE opcode (or\nalmost any other opcode) is called. With this, you can formally verify things\nlike: \\- You emit an event whenever storage changes \\- Any func that updates\nstorage does it right etc"
+    }
+}
