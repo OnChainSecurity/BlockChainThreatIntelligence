@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1797929060439581063",
+        "timestamp": "2024-06-04 00:00:00",
+        "original_content": "A p0 when conducting security audit Always check the `package.json`. There are\nstill protocols, building with and using old, vulnerable versions of popular\nlibraries. The example below recognizes an M finding for any protocol that\nuses OZ version sub-4.7.3, especially for ECDSA"
+    }
+}
