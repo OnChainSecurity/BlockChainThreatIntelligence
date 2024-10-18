@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1827031625458503995",
+        "timestamp": "2024-08-24 00:00:00",
+        "original_content": "4 common issues w division in Solidity 1\\. Dividing by 0 means it will revert\nor return 0 on the EVM level 2\\. The division result could round to\nzero.What's the worst that can happen to the user due to that? 3\\. Division\nbefore multiplication can result in harsh rounding errors"
+    }
+}
