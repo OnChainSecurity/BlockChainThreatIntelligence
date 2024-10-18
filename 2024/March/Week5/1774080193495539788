@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xPaladinSec/status/1774080193495539788",
+        "timestamp": "2024-03-30 00:00:00",
+        "original_content": "Recently, we have worked with\n\n[@SageERC314](/SageERC314)\n\non their new token Sage. We would like to highlight an issue that we validated\nby using a simple fuzz test implemented with Foundry."
+    }
+}
