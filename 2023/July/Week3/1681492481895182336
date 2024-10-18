@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1681492481895182336",
+        "timestamp": "2023-07-19 00:00:00",
+        "original_content": "(2/3) Mitigation: Add a require statement to check that the current time is\ngreater than the lock time before the tokens can be unlocked."
+    }
+}
