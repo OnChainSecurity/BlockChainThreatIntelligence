@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1683461226607841280",
+        "timestamp": "2023-07-24 00:00:00",
+        "original_content": "?Added description for\nRead-only reentrancy in DeFiVulnLabs. The Read-Only reentrancy is a flaw in\nsmart contract design that allows attackers to exploit the \"read-only\" nature\nof a function to make unintended changes to the contract's state.\n?[https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/ReadOnlyReentrancy.sol\u2026](https://t.co/A0ub6N5qxE)"
+    }
+}
