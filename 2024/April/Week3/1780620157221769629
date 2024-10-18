@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1780620157221769629",
+        "timestamp": "2024-04-17 00:00:00",
+        "original_content": "Fake CF bot protection deceives users into thinking it is a legitimate domain.\nBut you can see the URL bar; it's an IPFS link which loads a fake webpage and\nredirects to a phishing site."
+    }
+}
