@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1676476475191750656",
+        "timestamp": "2023-07-05 00:00:00",
+        "original_content": "? A new vulnerable type\nadded:\n3\u20e3\nabi.encodePacked() Hash Collisions in DeFiVulbLabs. Using abi.encodePacked()\nwith multiple variable length arguments can, in certain situations, lead to a\nhash collision.\n?[https://github.com/SunWeb3Sec/DeFiVulnLabs/\u2026](https://t.co/3fw6rk39jJ)\n?Short analysis\n[#web3sec]"
+    }
+}
