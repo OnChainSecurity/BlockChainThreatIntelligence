@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1677167554664730625",
+        "timestamp": "2023-07-07 00:00:00",
+        "original_content": "(1/2) In Solidity, improper deletion of elements from dynamic arrays can\nresult in data inconsistency. When attempting to delete elements from an\narray, if the deletion process is not handled correctly, the array may still\nretain storage space and exhibit unexpected behavior."
+    }
+}
