@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1845767211731816536",
+        "timestamp": "2024-10-14 00:00:00",
+        "original_content": "Formal veriication of loops in Solidity pt.1 \\- A Word of Caution \\- The Path\nExplosion Problem \\- A Running Example Inspired by Gauss \\- Gauss\u2019 Looping\nProblem in Solidity \\- An Automated Approach: Bounded Loop Unrolling \\-\nComparison to Property Testing"
+    }
+}
