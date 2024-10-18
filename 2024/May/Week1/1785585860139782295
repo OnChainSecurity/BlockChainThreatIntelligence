@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1785585860139782295",
+        "timestamp": "2024-05-01 00:00:00",
+        "original_content": "How ERC777's hook receiver feature could be used as an attack vector: \\- The\nattack vector in short \\- ERC777 and its hooks \\- The attack vector with\narbitrary calls"
+    }
+}
