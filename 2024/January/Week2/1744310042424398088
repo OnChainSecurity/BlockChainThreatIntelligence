@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1744310042424398088",
+        "timestamp": "2024-01-08 00:00:00",
+        "original_content": "?DarkCat progress updates:\nAutomatic PoC generator: 1\\. Rewritten the server with nodejs (it was python\nbefore). 2.Using interfaces instead of low level calls. 3\\. Support run forge\ntest directly on web. Keep improving!"
+    }
+}
