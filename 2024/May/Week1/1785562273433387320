@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/VitalikButerin/status/1785562273433387320",
+        "timestamp": "2024-05-01 00:00:00",
+        "original_content": "The above is why I use a multisig (\n\n[@safe](/safe)\n\n) for >90% of my personal funds\n? M-of-N, some keys held by\nyou (but not enough to block recovery), the rest held by other people you\ntrust. Don't reveal who those other people are, even to each other.\nDecentralize your own security."
+    }
+}
