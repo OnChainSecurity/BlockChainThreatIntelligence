@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1674611471828025344",
+        "timestamp": "2023-06-30 00:00:00",
+        "original_content": "(1/2) Chainlink price feed latestRoundData is used to retrieve price feed from\nchainlink. We need to makes sure that the answer is not negative and price is\nnot stale. It might lead to lead to fund loss."
+    }
+}
