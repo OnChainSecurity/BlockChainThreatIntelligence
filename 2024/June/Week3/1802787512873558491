@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/usmannk/status/1802787512873558491",
+        "timestamp": "2024-06-18 00:00:00",
+        "original_content": "In April I reported two bugs to\n\n[@SeiNetwork](/SeiNetwork)\n\n. One that would\u2019ve compromised their\n[$SEI] token and another that would\u2019ve\nhalted block production on their network. Both were caught just before the\nvulnerable code was shipped to production. Details:\n[https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-\nreport.html\u2026](https://t.co/gBcz1DCKOI)"
+    }
+}
