@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1680806259535273985",
+        "timestamp": "2023-07-17 00:00:00",
+        "original_content": "(3/4) Mitigation: disallowing recovery of the rewardToken within the\nrecoverErc20 function."
+    }
+}
