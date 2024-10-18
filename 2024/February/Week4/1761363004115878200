@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1761363004115878200",
+        "timestamp": "2024-02-24 00:00:00",
+        "original_content": "3/5 \\- Denial Of Service (DOS) by non-existent address or malicious contract\n\\- Floating Point Arithmetic \\- ECDSA Signature malleability \\- ECDSA\nSignature replay \\- Replay Attack \\- Price Oracle Manipulation \\- Cross-Chain\nBridge Manipulation \\- Initial Supply Mint Issue"
+    }
+}
