@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xPaladinSec/status/1546629789817225219",
+        "timestamp": "2022-07-12 00:00:00",
+        "original_content": "The Uniswap V3 exploit appears to just be a phishing attack that was detected\ndue to Binance's automated detection systems which detects large flows of\nfunds. Our cornerstone protocol is *hopefully* still safe."
+    }
+}
