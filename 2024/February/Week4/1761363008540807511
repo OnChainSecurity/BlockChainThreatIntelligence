@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1761363008540807511",
+        "timestamp": "2024-02-24 00:00:00",
+        "original_content": "5/5 \\- Block timestamp Manipulation \\- Unchecked return values \\- Insecure\nRandomness \\- Proxy Storage Collision \\- Strict equalities \\- Timestamp\nDependence \\- Use of Deprecated Functions \\- Requirement Validation \\- Absent\nmodifiers \\- Force Feeding \\- Rounding Down To Zero"
+    }
+}
