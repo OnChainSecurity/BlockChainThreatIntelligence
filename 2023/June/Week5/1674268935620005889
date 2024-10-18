@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1674268935620005889",
+        "timestamp": "2023-06-29 00:00:00",
+        "original_content": "(3/4) Mitigation: Revert if ecrecover returns 0x0, or instead use\nOpenZeppelin\u2019s ECDSA library."
+    }
+}
