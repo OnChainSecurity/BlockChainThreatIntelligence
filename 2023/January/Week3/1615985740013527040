@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1615985740013527040",
+        "timestamp": "2023-01-19 00:00:00",
+        "original_content": "3/ The token contract is upgraded many times within a short time, which is\nsuspicious. Specifically, it is upgraded to the vulnerable one (i.e.,\n0x79fe086a4c03c5e38ff8074dea9ee0a18dc1af4f) for two times within 4 hours. The\nprivate key of the deployer might be leaked.[](https://t.co/MaX5eKceR3)\n"
+    }
+}
