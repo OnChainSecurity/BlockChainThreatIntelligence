@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1618572729300692992",
+        "timestamp": "2023-01-26 00:00:00",
+        "original_content": "2/ The attacker (0xceed: ElasticSwap Exploiter 2) first swapped a large amount\nof BCI tokens from the pair, then transferred a small amount of BCI tokens to\nthe pair repeatedly every 10 mins to make them burn from the pool, which\ninflated the value of BCI tokens."
+    }
+}
