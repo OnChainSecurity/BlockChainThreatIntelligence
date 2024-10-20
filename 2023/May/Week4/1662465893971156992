@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1662465893971156992",
+        "timestamp": "2023-05-27 00:00:00",
+        "original_content": "In the recent Tornado Chash Dao attack incident, using State Changes can\nquickly detect malicious proposals to directly change the lockedBalance in\nGovernance for 100 addresses. Here is the tx:\n[https://explorer.phalcon.xyz/tx/eth/0x3274b6090685b842aca80b304a4dcee0f61ef8b6afee10b7c7533c32fb75486d\u2026](https://t.co/80sk1dJCiD)"
+    }
+}
