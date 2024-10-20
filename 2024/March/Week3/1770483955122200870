@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1770483955122200870",
+        "timestamp": "2024-03-21 00:00:00",
+        "original_content": "7/ Cross-Chain Replay Attacks A sophisticated risk involves replaying a\ntransaction from one chain to another. Mitigating these attacks requires\nunique identifiers and nonces for transactions on each chain."
+    }
+}
