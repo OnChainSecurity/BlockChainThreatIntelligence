@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1630111965942018049",
+        "timestamp": "2023-02-27 00:00:00",
+        "original_content": "1/ Looks like swapX\n([https://bscscan.com/address/0x0ccee62efec983f3ec4bad3247153009fb483551\u2026](https://t.co/KnmxjhRA2P))\non BSC was abused to launch a price manipulation attack\n([https://phalcon.blocksec.com/tx/bsc/0x3ee23c1585474eaa4f976313cafbc09461abb781d263547c8397788c68a00160\u2026](https://t.co/cyN6KpQVPU)).\nThe implementation contract (0x6d89) has a function (0x4f1f05bc) without\nenough access control, so tokens approved for this contract could be abused."
+    }
+}
