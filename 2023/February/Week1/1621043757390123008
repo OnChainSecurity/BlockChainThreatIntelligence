@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1621043757390123008",
+        "timestamp": "2023-02-02 00:00:00",
+        "original_content": "1/ @BonqDAO on Polygon was hacked due to the flawed logic to determine the\nWALBT token price. Specifically, the attacker staked a small amount of TRB\ntokens and updated the WALBT token price afterward through TellorPriceFeed\n(0x8f55). While the updated price was used directly."
+    }
+}
