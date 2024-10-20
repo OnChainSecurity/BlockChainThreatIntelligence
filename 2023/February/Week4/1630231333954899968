@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1630231333954899968",
+        "timestamp": "2023-02-27 00:00:00",
+        "original_content": "Yep, actually, there are more attacks: ~1376 WBNB:\n[https://phalcon.blocksec.com/tx/bsc/0x21b1378e332333d9c48129fe644f7c6d6393892f6604dba58ce7da103c922519\u2026](https://t.co/V0qsTzJDUL)\n~567 WBNB:\n[https://phalcon.blocksec.com/tx/bsc/0x1f1f7e4c2d817231af97d6265fb55fb175e561f93c577cd905f8eeb6c29bca9d\u2026](https://t.co/SseonhIpcz)\nDo revoke those unnecessary but risky approvals!\n\n[@MetaDockTeam](/MetaDockTeam)\n\nMetaDock's Approval Diagnosis can help!\n[https://docs.blocksec.com/metadock/features/approval-\ndiagnosis\u2026](https://t.co/GWmbBAIgLS)"
+    }
+}
