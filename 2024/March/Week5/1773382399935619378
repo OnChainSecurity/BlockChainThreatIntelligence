@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1773382399935619378",
+        "timestamp": "2024-03-29 00:00:00",
+        "original_content": "Wasm lacks built-in memory safety features such as stack canaries and ASLR,\nmaking it prone to classic vulnerabilities like stack overflow, especially\nsince they're often compiled from memory-unsafe languages like C and C++."
+    }
+}
