@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1821124632218398972",
+        "timestamp": "2024-08-07 00:00:00",
+        "original_content": "?Exploit\nAlert? ~47M of\n[$NXRA] tokens were stolen as a result of\nthe compromisation of two team's multisigs After transferring authority to the\nEOA, the exploiter grabbed the tokens and started selling on the market\nEventually, the token suffered over 50% downfall"
+    }
+}
