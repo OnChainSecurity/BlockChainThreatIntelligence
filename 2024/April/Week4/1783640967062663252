@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xNickLFranklin/status/1783640967062663252",
+        "timestamp": "2024-04-26 00:00:00",
+        "original_content": "NGFS token hacking.\n[https://app.blocksec.com/explorer/tx/bsc/0x8ff764dde572928c353716358e271638fa05af54be69f043df72ad9ad054de25\u2026](https://t.co/BGGz16eD34).\nHacker could increase his balance using \"reserveMultiSync\" function. This is\nbecause contract was not initialized after deployment. \"delegateCallReserves\"\ncan be called only once, but deployer didn't call this. I recommend deployers"
+    }
+}
