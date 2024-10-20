@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1626429277871939584",
+        "timestamp": "2023-02-17 00:00:00",
+        "original_content": "3/ Our analysis of the decompiled code showed that the first contract did not\nhave a transfer function signature, and the approve function signature only\nappeared in the attack flow logic. This means the attacker did not reserve any\ninterface to transfer the profits."
+    }
+}
