@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1720105911686226215",
+        "timestamp": "2023-11-02 00:00:00",
+        "original_content": "Thrilled to announce our proposal has been supported by a grant from Uniswap\nFoundation\n\n[@UniswapFND](/UniswapFND)\n\n! Our static analyzer will support the secure operations of Uniswap v4.\n? The new \"Hooks\" feature\nin [#Uniswap] v4 significantly enhances\nthe extensibility and flexibility of pools, while also posing certain\nchallenges for contract security. In this grant, we will provide a static\nanalyzer to identify vulnerabilities and malicious behaviors in Uniswap v4\nhook contracts, allowing developers and auditors to take preventative\nmeasures. ?\u200d? It\ncan significantly enhance the overall security of the system and give users\nmore confidence when interacting with pools. In addition, we will soon post 3\narticles looking into the \"malicious design space\" of hooks and our solutions.\nStay tuned! ?"
+    }
+}
