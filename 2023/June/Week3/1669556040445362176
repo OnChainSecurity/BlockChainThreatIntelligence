@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1669556040445362176",
+        "timestamp": "2023-06-15 00:00:00",
+        "original_content": "Correction: The attacker repeatedly transferred\n[$CFC] tokens to the pair and then invoked\nfunction skim(), the function within the _transfer() is triggered to burn\n[$CFC] from the 'from' address, thereby\ndecreasing the quantity of [$CFC] within\nthe LP pair. This then facilitates a swap of a minimal amount of\n[$CFC] for a large amount of\n[$SAFE], leading to profit."
+    }
+}
