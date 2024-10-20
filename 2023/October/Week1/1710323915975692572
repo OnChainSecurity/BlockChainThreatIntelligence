@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1710323915975692572",
+        "timestamp": "2023-10-06 00:00:00",
+        "original_content": "? SECURITY ALERT:\n\n[@Galxe](/Galxe)\n\nCOMPROMISED ? Your assets\nand personal information could be at risk. If you approved anything from Galxe\nrevoke it RIGHT NOW on [http://de.fi/shield](https://t.co/grjFeleeSw)\nMalicious contract was identified: 0x00008c6Dc619b0ea53dd8d02B58Bb726aFc4000,\nwhich may be funded by Angel Drainer. Breach happened in the DNS record for\n\u201c[http://galxe.com](https://t.co/HBN9rsebif)\u201d through the Dynadot account. The\n\n[@Galxe](/Galxe)\n\nwebsite is currently inaccessible. But for your safety, DO NOT CONNECT your\nwallet to\n\n[@Galxe](/Galxe)\n\nright now. The team is working on resolving the issue. Stay safe\n?"
+    }
+}
