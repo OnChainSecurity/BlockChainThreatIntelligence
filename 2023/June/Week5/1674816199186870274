@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1674816199186870274",
+        "timestamp": "2023-06-30 00:00:00",
+        "original_content": "This is a typical untrusted input issue. Users should only transfer their\napproved LP tokens and ensure token0 and token1 are the underlying tokens of\nthe LP Token. Stay Vigilant!"
+    }
+}
