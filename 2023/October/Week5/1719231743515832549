@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1719231743515832549",
+        "timestamp": "2023-10-31 00:00:00",
+        "original_content": "Unibot\n\n[@TeamUnibot](/TeamUnibot)\n\nwas reported to be hacked. As the code is not open-sourced, we suspect that\nthere is a lack of input validation of the function 0xb2bd16ab in the 0x126c\ncontract, which allows an arbitrary call. Therefore, an attacker could invoke\n'transferFrom' to transfer out tokens approved to the contract. DO revoke the\napprovals ASAP.\n[https://x.com/CryptoEthan/st/CryptoEthan/status/1719217980133802430\u2026](/CryptoEthan/status/1719217980133802430)"
+    }
+}
