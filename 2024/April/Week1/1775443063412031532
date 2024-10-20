@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1775443063412031532",
+        "timestamp": "2024-04-03 00:00:00",
+        "original_content": "14/ If we have a public key and the generator point, or signature and the\nmultiplier, it is computationally impossible to define the private key. But,\ndue to isomorphism, we can define that the public key and signature come from\nthe same private key."
+    }
+}
