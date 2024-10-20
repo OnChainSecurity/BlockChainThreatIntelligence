@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1773382401655271527",
+        "timestamp": "2024-03-29 00:00:00",
+        "original_content": "The use of functions like memcpy() and strcpy() can exacerbate these issues if\nnot handled carefully. While Rust offers a safer alternative for writing smart\ncontracts, its current verbosity and underutilized immutability features\npresent challenges. The situation calls for enhanced security measures,\nincluding thorough code reviews."
+    }
+}
