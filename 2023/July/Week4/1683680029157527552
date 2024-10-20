@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1683680029157527552",
+        "timestamp": "2023-07-25 00:00:00",
+        "original_content": "3/ Specifically, the attacker first staked 1,000,000\n[$USDT] to mint approximately 996,324\n[$PLP], and then called the buyUSDP\nfunction to raise the price of [$PIP].\nSubsequently, the attacker unstaked all\n[$PLP] in the PLPManager contract using an\nincorrect exchange rate to profit."
+    }
+}
