@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1776167001314017474",
+        "timestamp": "2024-04-05 00:00:00",
+        "original_content": "1/ Signature Malleability is quite a complex Vulnerability, so we created a\nthread for you to understand it! Simply put, an attacker can get another\nuser\u2019s signature, copy it and, for example, double-spend the amount,\nessentially stealing from the protocol. Follow the\nthread?"
+    }
+}
