@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1735283682707972456",
+        "timestamp": "2023-12-14 00:00:00",
+        "original_content": "? MAJOR SECURITY ALERT\n? Commonly used\nweb3connector is compromised which can target potentially many dApps Allegedly\n\n[@SushiSwap](/SushiSwap)\n\n[@RevokeCash](/RevokeCash)\n\n[@zapper_fi](/zapper_fi)\n\nUIs were affected \u26a0\ufe0f DO NOT\ninteract with Ledger, as ledger library was maliciously accessed and replaced\nwith a drainer"
+    }
+}
