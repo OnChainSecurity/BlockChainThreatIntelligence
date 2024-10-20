@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1670145829204819969",
+        "timestamp": "2023-06-18 00:00:00",
+        "original_content": ".@MidasCapitalXYZ has been exploited with losses ~$600K. The Midas is a fork\nof Compound and this attack is similar to\n\n[@HundredFinance](/HundredFinance)\n\nand\n\n[@SiloFinance](/SiloFinance)\n\n(the vulnerability disclosed today). Here's an attack transaction:\n[https://explorer.phalcon.xyz/tx/bsc/0x4a304ff08851106691f626045b0f55d403e3a0958363bdf82b96e8ce7209c3a6\u2026](https://t.co/2Yy0F25Ukc)"
+    }
+}
