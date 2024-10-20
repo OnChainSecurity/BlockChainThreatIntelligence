@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1673897093101158400",
+        "timestamp": "2023-06-28 00:00:00",
+        "original_content": "2/ Specifically, the LP token price is determined by aggregating the total\nvalue of all tokens in the pool. In this case, the attacker managed to\nmanipulate the oracle by exchanging tokens within the Balancer pool, leading\nto the hack."
+    }
+}
