@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1723229393529835972",
+        "timestamp": "2023-11-11 00:00:00",
+        "original_content": ".\n\n[@raft_fi](/raft_fi)\n\nprotocol on Ethereum was attacked due to a precision loss issue. The loss\namounted to ~1577 Ether. However, the attacker mistakenly burnt 1570 of them,\nultimately resulting in a net profit of -4 Ether after accounting for costs\nsuch as gas fees. The attacker initially donated 1,061 cbETH into the IRPM\ncontract and subsequently liquidated his position (created in this\ntransaction:\n[https://explorer.phalcon.xyz/tx/eth/0xa1378a4d61e81339daaf2c7c8bb669be42002919f10379c616d0aee34047794e\u2026](https://t.co/lQRvNxTZIp)),\nwhich resulted in manipulation of the collateralIndex. Following this\n([https://explorer.phalcon.xyz/tx/eth/0xfeedbf51b4e2338e38171f6e19501327294ab1907ab44cfd2d7e7336c975ace7\u2026](https://t.co/h9U3UsqfdT)),\nthe attacker repeatedly increased his position by 1 collateral, receiving 1\nshare each time. It's important to note that the mint function in the rcbETH-c\ncontract uses rounding up to calculate the number of shares to be minted. Due\nto this precision loss issue, the attacker received 1 share instead of the\nexpected 0 shares when minting. The attacker subsequently redeemed all the\ncbETH he had paid. Finally, the attacker borrowed an extra 6,705,028 R tokens\nas profit."
+    }
+}
