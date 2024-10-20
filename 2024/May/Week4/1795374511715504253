@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1795374511715504253",
+        "timestamp": "2024-05-28 00:00:00",
+        "original_content": "One of the potential fixes is retaining only one of the Multicall or\nERC2771Context contracts wherever both are present. Depending on how users\ninteract with your contract, one might affect the usability of your system\nmore than the other, which can guide you in choosing which contract to keep to\nminimize user impact. If you use a forwarder that includes a batching\nmechanism, you might want to remove Multicall in favour of the ERC-2771-based\nbatching solution. This change will affect what your users need to sign\n(EIP-712 typed data plus the relaying transaction)."
+    }
+}
