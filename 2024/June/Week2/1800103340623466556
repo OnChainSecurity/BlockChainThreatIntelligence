@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1800103340623466556",
+        "timestamp": "2024-06-10 00:00:00",
+        "original_content": "4/ This key difference means that while Solidity developers must implement\nspecific checks and patterns to prevent reentrancy, Rust's design inherently\navoids these vulnerabilities, which means Rust devs have more time to play wii\nbowling)."
+    }
+}
