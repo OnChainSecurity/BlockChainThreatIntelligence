@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1778706238894686500",
+        "timestamp": "2024-04-12 00:00:00",
+        "original_content": "What do you think will happen if we call selfDestruct in this contract? Will\nit fail? Will revert? Or will it get destroyed and funds disappear? Or will it\ngo through and all the funds from this contract be split along other\naddresses?"
+    }
+}
