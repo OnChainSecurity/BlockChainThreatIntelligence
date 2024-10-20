@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1704837678418763915",
+        "timestamp": "2023-09-21 00:00:00",
+        "original_content": "Private Key Compromise\uff1f In a transaction 6 days ago, the attacker was granted\nISSUE_ASSET_ROLE, enabling them to mint lAAVE; subsequently, lAAVE was simply\nexchanged for lUSD.\n[https://explorer.phalcon.xyz/tx/bsc/0x5a4dbca85cd2b523e83b9fd4d913b6e904e40c3e12e1213f0f34b3a2a2826847\u2026](https://t.co/c9OBhe8ixA)"
+    }
+}
