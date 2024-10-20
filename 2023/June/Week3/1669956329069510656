@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1669956329069510656",
+        "timestamp": "2023-06-17 00:00:00",
+        "original_content": "2/ Specifically, the attacker exploited the contract by borrowing APE tokens\nusing the NFT already staked in the APE Staking Pool. The borrowed APE tokens\nwere then transferred and held within the project contract. Subsequently, the\nattacker reinvoked the depositAndBorrowApeAndStake() function, causing the\ncontract to stake the APE tokens in the APE Staking Pool. At this point, the\ncontract mistakenly recognized the newly staked funds as being deposited by\nthe attacker. As a result, the attacker was able to directly invoke the\nwithdrawApeCoin() function to withdraw the APE tokens for profits."
+    }
+}
