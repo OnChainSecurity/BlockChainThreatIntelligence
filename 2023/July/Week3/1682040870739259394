@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1682040870739259394",
+        "timestamp": "2023-07-20 00:00:00",
+        "original_content": "Why a token contract (0xafe43213b206539f826b1e713bba996aae601f01) can hardcode\nthe approval logic in the contract? A rug or intentional functionality?\n[https://explorer.phalcon.xyz/tx/eth/0x14d8465f4f61cd732322703d625362516651e4e065c67d2d568c8b26328606b2?line=0\u2026](https://t.co/Jszp9vbbAq)"
+    }
+}
