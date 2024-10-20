@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1662006183467810822",
+        "timestamp": "2023-05-26 00:00:00",
+        "original_content": "Some suspicious logic in the code: 1) the isContract function returns a\nhardcode address (0x87b10a6c270960fba3825e67283ba3ccafabe33b) 2) a backdoor\nthat allows 0x60c94ce88937ea7104fb374ce9f275033dc7ebd0 to transfer out others'\nassets without approving any allowance."
+    }
+}
