@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1690931115052122112",
+        "timestamp": "2023-08-14 00:00:00",
+        "original_content": "2/ There are two attack txs:\n[https://explorer.phalcon.xyz/tx/eth/0x2aec4fdb2a09ad4269a410f2c770737626fb62c54e0fa8ac25e8582d4b690cca\u2026](https://t.co/QR9ROQhnWT)\n[https://explorer.phalcon.xyz/tx/eth/0x0788ba222970c7c68a738b0e08fb197e669e61f9b226ceec4cab9b85abe8cceb\u2026](https://t.co/GkBQuJK0M3)\nTake the second attack, which yielded the most profit (i.e., ~1152 ETH), as an\nexample. This involved 6 key attack steps."
+    }
+}
