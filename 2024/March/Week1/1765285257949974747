@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1765285257949974747",
+        "timestamp": "2024-03-06 00:00:00",
+        "original_content": "ALERT! Our system has detected an attack targeting\n[#TGBS] token on BSC, the corresponding pool\nhas been drained and the loss is ~$150K. Here is an interesting transaction\nmade by the contract owner one hour ago:\n[https://bscscan.com/tx/0x8f568ebeb63deaa705b9341c5ebcc9532683ef4d24cdbb95ff60ea633e57af4d\u2026](https://t.co/K8bCOEOmMP)\nAs there is no direct method available to contact the respective project,\nplease reach out to us if you have any questions.\n\n[![Image](https://pbs.twimg.com/media/GH-L6NaXwAAlw6Q?format=jpg&name=medium)](/Phalcon_xyz/status/1765285257949974747/photo/1)"
+    }
+}
