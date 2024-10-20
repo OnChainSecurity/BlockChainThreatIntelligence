@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1781605162471309721",
+        "timestamp": "2024-04-20 00:00:00",
+        "original_content": "The last thing to note here is that not every contract can receive ERC1155\ntokens. If you want your smart contract to receive them, it must inherit from\nthe ERC1155Holder contract. Otherwise, all the transfers to the contract will\nrevert."
+    }
+}
