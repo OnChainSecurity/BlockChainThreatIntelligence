@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1694992017946820844",
+        "timestamp": "2023-08-25 00:00:00",
+        "original_content": "Here is how the Magnate Finance scam on Base happens: change the provider of a\nprice oracle and then directly manipulate the price.\n\n[@Phalcon_xyz](/Phalcon_xyz)\n\ncan facilitate analysis of this tx by showing a comprehensive invocation flow\n[https://basescan.org/tx/0x39555e75d76b294248a434fdfe9640e0cfe3f22bd7fceb675fd4ef4b5e02f719\u2026](https://t.co/g6fp7WdyMk)"
+    }
+}
