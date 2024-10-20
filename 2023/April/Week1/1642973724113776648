@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1642973724113776648",
+        "timestamp": "2023-04-04 00:00:00",
+        "original_content": "8/ In summary, this attack is a well-planned one that exploited a zero-day\nvulnerability in the mev-boost-relay, and used a honeypot tx to lure MEV bots.\nBesides, the self-protection in the honeypot tx shows the well-designed\nstrategy used in this attack!"
+    }
+}
