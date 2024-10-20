@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1677315832756445184",
+        "timestamp": "2023-07-07 00:00:00",
+        "original_content": "? On Mar 5, 2022, at\n04:35:19 PM (UTC), [#Phalcon] detected a\npending attack initiated by an attacker\n(0xC711374BaC07Df9bB9dbAC596451517cEcBf0F0f). Another component of our system\nautomatically triggered the construction of a countering transaction."
+    }
+}
