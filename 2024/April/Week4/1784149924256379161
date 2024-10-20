@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1784149924256379161",
+        "timestamp": "2024-04-27 00:00:00",
+        "original_content": "We want to share the Critical vulnerability we've found during the security\nreview. The protocol implemented an interesting strategy with different fee\ntiers depending on the number of tokens in the pool. However, this\nvulnerability allowed users to lose all LP shares.\n?"
+    }
+}
