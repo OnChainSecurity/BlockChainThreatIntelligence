@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1638796080795234305",
+        "timestamp": "2023-03-23 00:00:00",
+        "original_content": "A new phishing method, which combines the fake token and zero value transfer\nscam, was discovered. If you see the exact amount of the token transfer and a\nsimilar address to your previous transaction in the transaction history, be\ncareful. Do not just copy and paste the address!"
+    }
+}
