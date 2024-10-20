@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1678270672911605760",
+        "timestamp": "2023-07-10 00:00:00",
+        "original_content": "The root cause is that in function vaultManagementAction, the attacker can\nfirst transfer all the asset to his own controlled contract and re-entry the\nfunction liquidateVault to liquidiate the vault. In this case, the global\nvariable \"isTrustedCreditorSet\" will be set as false and the Collateral check\ncan be bypassed."
+    }
+}
