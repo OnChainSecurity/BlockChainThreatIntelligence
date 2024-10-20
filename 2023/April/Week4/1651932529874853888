@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1651932529874853888",
+        "timestamp": "2023-04-28 00:00:00",
+        "original_content": "In summary, the debt value(i.e., ovGHST) is calculated based on the balance of\nthe GHST in contract vGHST. Exploiters can manipulate the price by directly\ntransferring tokens to tampering BalanceOf(). p.s: Our further investigation\nshows that the LP token is not deflationary."
+    }
+}
