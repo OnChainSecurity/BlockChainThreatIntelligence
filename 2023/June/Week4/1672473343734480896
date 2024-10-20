@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1672473343734480896",
+        "timestamp": "2023-06-24 00:00:00",
+        "original_content": "1/\n\n[@ShidoGlobal](/ShidoGlobal)\n\non BSC was exploited through a flash loan, taking advantage of the lock and\nclaim mechanism, as well as the price difference between the two pools.\nConsequently, the attacker managed to steal 977 WBNB from the pool."
+    }
+}
