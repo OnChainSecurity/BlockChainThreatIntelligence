@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1669262923758456833",
+        "timestamp": "2023-06-15 00:00:00",
+        "original_content": "[$CFC] token was exploited, leading to a\nloss of more than $16K. The attacker repeatedly transferred\n[$CFC] tokens to the pair and then invoked\nfunction skim(), leveraging the swapTokensForTokens() that lacks slippage\nprotection to gain profit."
+    }
+}
