@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1660214667396935681",
+        "timestamp": "2023-05-21 00:00:00",
+        "original_content": "2/ The attack is a sophisticatedly designed one. 1) The attacker used the name\nemergencyStop to hide the intent; 2) the attacker used a trick of combining\nCREATE/CREATE2 to create a contract with the same address with different\nbytecode."
+    }
+}
