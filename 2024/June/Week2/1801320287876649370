@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1801320287876649370",
+        "timestamp": "2024-06-14 00:00:00",
+        "original_content": "The user has to set slippage for both operations: swap via 1inch and calculate\nhow much liquidity should be added. One of the factors for this issue happens\nduring 1inch swap. It doesn't spend all the amount sent by the user, and non-\nused tokens are refunded."
+    }
+}
