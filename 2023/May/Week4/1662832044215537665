@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1662832044215537665",
+        "timestamp": "2023-05-28 00:00:00",
+        "original_content": "Day 5 >> Presenting Invocation Flow: Phlacon provides a tree-structured\nsequence of function calls in transactions. We've developed many tools to\nboost analysis efficiency for developers and security researchers. Let's Dive\ninto the details"
+    }
+}
