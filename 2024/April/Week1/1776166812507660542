@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1776166812507660542",
+        "timestamp": "2024-04-05 00:00:00",
+        "original_content": "12/ Here\u2019s an answer to the question of how an attacker can calculate the S\nvalue for the second public key. They should just deduct the known S value\nfrom the N value, this way they get the second S."
+    }
+}
