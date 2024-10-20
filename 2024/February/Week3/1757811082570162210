@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1757811082570162210",
+        "timestamp": "2024-02-15 00:00:00",
+        "original_content": "3/5 Refrain from placing private or sensitive information in storage slots\nsince they are accessible to blockchain viewers."
+    }
+}
