@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1653604672975015936",
+        "timestamp": "2023-05-03 00:00:00",
+        "original_content": "2/ When invoking the sell function, the liquidity to be removed will be\ncalculated based on the token balance of the pair. By borrowing flashloan and\ndoing a large swap on the pair, the hacker tricks the contract to burn a large\namount of liquidity and return to the hacker."
+    }
+}
