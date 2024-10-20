@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1619157448841109507",
+        "timestamp": "2023-01-28 00:00:00",
+        "original_content": "2/ Specifically, the attacker\n([https://bscscan.com/address/0x80d98aa244e95172c682b6711b91427944e495e7\u2026](https://t.co/YtWN9tvOuz))\nfirst created a valueless BUSD/FakeToken(0x890a) pair in Pancakeswap, then\nforced phxProxy to buy the FakeToken with BUSD, and finally removed all\nliquidities to make profits."
+    }
+}
