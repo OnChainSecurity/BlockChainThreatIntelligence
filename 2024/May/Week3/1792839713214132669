@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1792839713214132669",
+        "timestamp": "2024-05-21 00:00:00",
+        "original_content": "Here's a short list of exploits that happened in Web3 this month: 1\\. OSN lost\n$109k by incorrect reward distribution. 2\\. SATURN lost $65k (15 BNB) due to\nprice manipulation. 3\\. GPU lost $34k with safe transfer. 4\\. Saturn suffered\na loss of $140k due to isufficient validation. 5\\. Lack of access controls led\nto a loss of $330k for GFOX. 6\\. Predy Finance suffered a loss of $464k due to\nreentrancy last week. As of now, protocols lost over $1.1M this month, which\nis significantly less than in April (>$50M), can we hold it till the end of\nthe month?"
+    }
+}
