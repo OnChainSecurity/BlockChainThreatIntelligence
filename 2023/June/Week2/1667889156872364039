@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1667889156872364039",
+        "timestamp": "2023-06-11 00:00:00",
+        "original_content": ".\n\n[@TrustTheTrident](/TrustTheTrident)\n\nsuffered a price manipulation attack. The exploit led to a loss of 446 WBNB\n(~$100K). The root cause was a flaw in the spot price calculation for rewards."
+    }
+}
