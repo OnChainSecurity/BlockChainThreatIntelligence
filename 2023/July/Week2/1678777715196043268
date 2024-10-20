@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1678777715196043268",
+        "timestamp": "2023-07-11 00:00:00",
+        "original_content": "5/6 Decompiling the contract, we identified a withdraw function that could be\nused to retrieve the funds. Then we executed a transaction, successfully\ntransferring the funds to our secure account. A few hours later, our system\ndetected another attack on\n[#TransitSwap]."
+    }
+}
