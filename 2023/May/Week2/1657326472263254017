@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1657326472263254017",
+        "timestamp": "2023-05-13 00:00:00",
+        "original_content": "Using one of the exploitation transactions as an example:\n[https://explorer.phalcon.xyz/tx/bsc/0x7d04e953dad4c880ad72b655a9f56bc5638bf4908213ee9e74360e56fa8d7c6a\u2026](https://t.co/VChy2EavTU)\nThere are 6 key attack steps: 1\\. Borrow 1,902 WBNB via flashloan. 2\\.\nExchange 400 WBNB for 4,975,497 SELLC on PancakeSwap. 3\\. Short SELLC on\nSellToken.Router (with 13.37 BNB). 4\\. Swap 4,975,497 SELLC for 408 WBNB on\nPancakeSwap. 5\\. Withdraw 39.2 WBNB from SellToken.Router as the profit of\nshorting. 6\\. Repay the flash loan."
+    }
+}
