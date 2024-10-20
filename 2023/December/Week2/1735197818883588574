@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1735197818883588574",
+        "timestamp": "2023-12-14 00:00:00",
+        "original_content": "Yesterday, our system detected an attack on the\n\n[@hypr_network](/hypr_network)\n\n's OP Stack Bridge. We promptly reached out to their team to share our\nfindings. As always, we are glad to help:) Now that the team has taken actions\nand disclosed it publicly, we'd like to provide some insight into the\nvulnerability. The root cause was that the attacker managed to circumvent the\n'finalizeERC20Withdrawal' function check by reinitializing the contract, due\nto the existence of the 'clearLegacySlot' modifier. Attack Tx:\n[https://explorer.phalcon.xyz/tx/eth/0x51ce3d9cfc85c1f6a532b908bb2debb16c7569eb8b76effe614016aac6635f65\u2026](https://t.co/gABZgHlpxE)\nNote that the vulnerability was patched by the OP team after the contract had\nbeen deployed: [https://github.com/ethereum-\noptimism/optimism/commit/f4a234c29b90f2a86e61fc897db343bda651202c\u2026](https://t.co/1j6a8ykW9f).\nThis incident underscores the importance of the community working\ncollaboratively to refine the process for releasing security patches, which\nwill undoubtedly benefit us all."
+    }
+}
