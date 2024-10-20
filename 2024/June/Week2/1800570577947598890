@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1800570577947598890",
+        "timestamp": "2024-06-12 00:00:00",
+        "original_content": "7/ It\u2019s easy to get screwed if you don\u2019t plan your proxy implementation well.\nYou could brick your contract. Or you might lose a lot of money. In Feb 2022,\na critical bug was responsibly disclosed in Wormhole's core bridge contract\ndue to an uninitialized proxy. The disclosure led to the largest ever bug\nbounty payout of $10M\u200b, as it could have led to the theft of potentially $1bn+\nof funds on the bridge\u200b. Thankfully it was never exploited. But still, it cost\nthe devs a whopping $10M."
+    }
+}
