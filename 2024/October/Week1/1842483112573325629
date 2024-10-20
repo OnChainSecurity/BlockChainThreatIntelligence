@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1842483112573325629",
+        "timestamp": "2024-10-05 00:00:00",
+        "original_content": "Top 10 DeFi Security Best Practices Every Alpha Auditor Should Know!\n?\n?Be Aware of Reentrancy\nAttacks ?Using DEX or AMM\nReserves as a Price Oracle Will Result in an Exploit\n?Don\u2019t Use Keccak256 or\nBlockhash as a Source of Randomness\n?Avoid Common Glitches\n?Function Visibility and\nRestrictions ?Always Get an\nExternal Audit Before Deploying to Mainnet\n?Put in Place Testing and\nUse a Static Analysis Tool\n![?](https://abs-0.twimg.com/emoji/v2/svg/1f4a5.svg)View Security as a Whole\nLifecycle Effort ![?](https://abs-0.twimg.com/emoji/v2/svg/1f4a5.svg)Put\nTogether a Disaster Recovery Plan\n![?](https://abs-0.twimg.com/emoji/v2/svg/1f4a5.svg)Protect Against\nFrontrunning [https://blog.chain.link/defi-security-best-\npractices/\u2026](https://t.co/hIYoM9rkPC)"
+    }
+}
