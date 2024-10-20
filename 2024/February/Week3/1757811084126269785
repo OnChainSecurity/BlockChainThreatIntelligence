@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1757811084126269785",
+        "timestamp": "2024-02-15 00:00:00",
+        "original_content": "4/5 Exercise caution with external contracts that alter storage, which might\ninadvertently alter your contract\u2019s data."
+    }
+}
