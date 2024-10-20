@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1745128597067534793",
+        "timestamp": "2024-01-11 00:00:00",
+        "original_content": "10/ ?\ufe0f Best Practices: To\nmitigate these risks, projects should prioritize accurate gas fee logic,\nrobust signature verification, protection against signature reuse and front-\nrunning, strict ERC4337 compliance, and secure implementation practices."
+    }
+}
