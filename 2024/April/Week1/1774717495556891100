@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1774717495556891100",
+        "timestamp": "2024-04-01 00:00:00",
+        "original_content": "4/ Subsequently, in the second transaction, the attacker took advantage of\nthis situation using the payoffTrade function, which allowed them to\ncircumvent the health check and extract all the collateral from the margin\npositions."
+    }
+}
