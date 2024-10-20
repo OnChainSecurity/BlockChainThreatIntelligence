@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/samczsun_/status/1709510018742050934",
+        "timestamp": "2023-08-12 00:00:00",
+        "original_content": "Had an amazing chat with BlockSec Team on the nuances around attack alerts. We\nboth agreed that, generally, alerts should only contain info users need to\ntake action. However, links or screenshots of the specific tx are typically\nunnecessary or misleading and so should be avoided"
+    }
+}
