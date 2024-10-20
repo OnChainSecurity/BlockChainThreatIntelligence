@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1801320289642365020",
+        "timestamp": "2024-06-14 00:00:00",
+        "original_content": "The problem is that it doesn't happen when the user calls the\n`sellPortalEnergy` function. The unspent amount of PSM tokens is not refunded\nbut used when the contract calculates how many PSM tokens will be added as\nliquidity, i.e. larger than the user expects."
+    }
+}
