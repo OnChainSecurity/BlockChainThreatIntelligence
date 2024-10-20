@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1725022425786532036",
+        "timestamp": "2023-11-16 00:00:00",
+        "original_content": "Our system detected that the ICO project of\n[$SHIBA] on BSC was attacked due to an\nimproper lock mechanism. Specifically, the attacker purchased 507.7M locked\n[$SHIBA] with 20\n[$BNB]. However, the locked\n[$SHIBA] could be transferred to\nPancakePair using the batchTransferLockToken function, which allowed the\nattacker to bypass the specified lock period. In this case, the attacker was\nable to immediately swap out the BNB from PancakePair, leading to a profit of\n101.7 BNB.\n[https://explorer.phalcon.xyz/tx/bsc/0x75a26224da9faf37c2b3a4a634a096af7fec561f631a02c93e11e4a19d159477\u2026](https://t.co/YOvKA4jd4M)"
+    }
+}
