@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1656176781601411073",
+        "timestamp": "2023-05-10 00:00:00",
+        "original_content": "3/,SNKMiner depends on SNK balance of staking accounts' children to calculate\nthe amount of reward(SNK) distributing to staking accounts. As a result, the\nattacker leverages flashloan to increase the SNK balance of children, which\ncan further lift their parents' staking rewards."
+    }
+}
