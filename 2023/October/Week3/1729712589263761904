@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1729712589263761904",
+        "timestamp": "2023-10-19 00:00:00",
+        "original_content": "Our system detected that an unknown project on\n[#Arbitrum] was attacked, resulting in a\nloss of $40K+. This is similar to the\n\n[@Hope_money_](/Hope_money_)\n\nincident that occurred in Oct. The attacker (0x9e1f13) launched a series of\nattack transactions, e.g.,:\n[https://explorer.phalcon.xyz/tx/arbitrum/0x27f13eaa3d72dbd32bda5d758e0ecbd689f6d23f60ec7b0c27a4042a6c68fa20\u2026](https://t.co/aMtLxlZhZH)"
+    }
+}
