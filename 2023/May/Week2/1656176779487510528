@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1656176779487510528",
+        "timestamp": "2023-05-10 00:00:00",
+        "original_content": "2/ The attacker exploits the `bindParent` function in contract SNKMiner to\namplify his staking rewards. Specifically, this function binds one account as\na staking account's child."
+    }
+}
