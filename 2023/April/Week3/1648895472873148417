@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1648895472873148417",
+        "timestamp": "2023-04-20 00:00:00",
+        "original_content": "Looks like the private key of\n\n[@TalesofElleria](/TalesofElleria)\n\nis compromised. The attacker (0xf2cbf39e7668ebb113f2c609bbd6ea1dfce5d376) can\nmint a large amount of [$ELM] tokens with\nlegally signed messages.\n[https://explorer.phalcon.xyz/tx/arbitrum/0xe6c31cf2377cdcedf2e28571bbe3451e36756e8d293385f64cf99300064c4b97\u2026](https://t.co/Oi6is0HcFk)"
+    }
+}
