@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1833463628911030445",
+        "timestamp": "2024-09-10 00:00:00",
+        "original_content": "How Beanstalk Nearly Lost $3.1 Million from Improper Input Validation\n? In 2023, Beanstalk nearly\nlost $3.1 Million in funds due to a vulnerability in their smart contract. The\nroot cause was found to be an undiscovered edge case in improper input\nvalidation. How did this"
+    }
+}
