@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1732967384774746408",
+        "timestamp": "2023-12-08 00:00:00",
+        "original_content": "Since OZ has publicly disclosed the details of the problematic integration\nbetween two specific standards \u2013 ERC-2771 and Multicall \u2013 we now re-share our\nanalysis of the related exploit. The interesting aspect of this exploit stems\nfrom the way the public burn issue was taken advantage of, specifically the\ninconsistency between the Forwarder.execute() function and the\nTokenERC20.multicall() function. Notably, the attacker persistently targeted\ntokens vulnerable to this inconsistency. Specifically, the Forwarder appends\n'req.from' at the end of '[http://req.data](https://t.co/V3O55570QZ)'.\nHowever, when the multicall() function processes the parameters, it excludes\n'req.from' before executing the actual call. Consequently, when the burn()\nfunction invokes _msgSender(), it extracts 'req.from' from the end of the\ncalldata for TrustedForwarder. Due to the earlier processing by multicall(),\n'req.from' has already been discarded. As a result, the last 20 bits of\n'[http://req.data](https://t.co/V3O55570QZ)', which can be manipulated by the\nattacker, are used. Our analysis is based on this attack TX:\n[https://explorer.phalcon.xyz/tx/eth/0xecdd111a60debfadc6533de30fb7f55dc5ceed01dfadd30e4a7ebdb416d2f6b6\u2026](https://t.co/gpON29xMtF)"
+    }
+}
