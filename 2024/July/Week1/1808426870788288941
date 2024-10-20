@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1808426870788288941",
+        "timestamp": "2024-07-03 00:00:00",
+        "original_content": "?Tip 1: Reentrancy can\ndrain your protocol faster than When a contract calls another contract before\nupdating its state, you're opening the door for a reentrancy attack. Use the\nchecks-effects-interactions pattern to slam that door shut."
+    }
+}
