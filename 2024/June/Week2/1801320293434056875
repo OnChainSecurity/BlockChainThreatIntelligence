@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1801320293434056875",
+        "timestamp": "2024-06-14 00:00:00",
+        "original_content": "Firstly, Alice calls \"sellPortalTokens\" with 200 PSM tokens. Half of it she\nwants to swap for 1 WETH, and the other half to supply as liquidity (100 PSM &\n1 WETH). But 1inch uses only 50 PSM and swaps to 1 WETH. The other 50 PSMs are\nnot refunded to the user and will be used to add liquidity."
+    }
+}
