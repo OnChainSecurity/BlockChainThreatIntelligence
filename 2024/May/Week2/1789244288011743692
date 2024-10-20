@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1789244288011743692",
+        "timestamp": "2024-05-11 00:00:00",
+        "original_content": "ALERT! Our system has detected series of suspicious transactions targeting\nsimilar vulnerable unknown contracts across different chains, resulting in a\nloss of $375K. The victim contracts were deployed by the same address (0x4265)\nbut are not open-source. We suspect that the root cause is due to unverified\ninput. Subscribe to Phalcon to monitor attacks and take automatic actions:\n[https://blocksec.com/phalcon](https://t.co/5cGK9A1psv)"
+    }
+}
