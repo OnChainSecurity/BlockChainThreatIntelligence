@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1670702199897473024",
+        "timestamp": "2023-06-19 00:00:00",
+        "original_content": "Note that, the first attack failed due to gas insufficiency which was front-\nrun by the bot. Using Phalcon, you can directly modify the original attack\ntransaction for re-simulation."
+    }
+}
