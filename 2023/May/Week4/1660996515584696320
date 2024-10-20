@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1660996515584696320",
+        "timestamp": "2023-05-23 00:00:00",
+        "original_content": "1/ We are living in a public\nworld? LCT contract has\nbeen hacked due to a public function that can change the admin of the contract\n(0xb5863c10). Then the attacker (0xd771....6dd7) changed the token price."
+    }
+}
