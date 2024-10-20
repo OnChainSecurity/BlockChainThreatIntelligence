@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1786691087710498873",
+        "timestamp": "2024-05-04 00:00:00",
+        "original_content": "Recently we released the results of our recent ion protocol with only *one*\nissue found by\n\n[@MarioPoneder](/MarioPoneder)\n\nThe problem was in unsafe casting from int256 to int24 leading to the variable\nsilently truncating and proceeding with incorrect data. If you want to see the\ndetails, check our report here: [https://github.com/shieldify-security/audits-\nportfolio/blob/main/reports/Ion-Security-Review.pdf\u2026](https://t.co/R2HsWWDLKs)"
+    }
+}
