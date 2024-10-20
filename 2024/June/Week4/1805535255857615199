@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1805535255857615199",
+        "timestamp": "2024-06-25 00:00:00",
+        "original_content": "1/ Basic arithmetic operations are a given: addition, subtraction,\nmultiplication, and division. But beware of overflows and underflows! Use the\nSafeMath library from OpenZeppelin to ensure these operations are safe,\npreventing critical bugs."
+    }
+}
