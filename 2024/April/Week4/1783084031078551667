@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1783084031078551667",
+        "timestamp": "2024-04-24 00:00:00",
+        "original_content": "Being creative as a security researcher can often differentiate a mediocre\nauditor from a good one. For example, protocols are often protected against\nslippage. Still, this critical edge case in SteakHut\u2019s code allowed an\nattacker to front-run deposits by manipulating the fees."
+    }
+}
