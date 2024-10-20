@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1628320826696077312",
+        "timestamp": "2023-02-22 00:00:00",
+        "original_content": "3/ Thus, attackers could: 1) open a new vault and deposit a few\n[$DYNA] at time A; 2) after a while (at\ntime B), borrow a large amount of [$DYNA]\nby flashloan and deposit them; 3) redeem the deposit, the profit is calculated\nas k * (borrowAmount * (B - A)); 4) repay the flashloan."
+    }
+}
