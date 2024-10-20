@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1635865894252412928",
+        "timestamp": "2023-03-15 00:00:00",
+        "original_content": ".\n\n[@Poolz__](/Poolz__)\n\nwas just attacked\n([https://phalcon.xyz/tx/eth/0x118a617bddd1c14810113be81ce336f28cc1ee7a7b538a07184b93e7c51bdc00\u2026](https://t.co/aqFEU7Wvks))\nThe root cause is due to an integer overflow vulnerability, very old-school...[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1845773940867686404/brbh5G3b?format=jpg&name=small)](https://t.co/iwUs6sXRKM)\n"
+    }
+}
