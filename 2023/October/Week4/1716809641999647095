@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1716809641999647095",
+        "timestamp": "2023-10-24 00:00:00",
+        "original_content": "2/ What's interesting,\n\n[@DeDotFi](/dedotfi)\n\nScanner found out that the token supply is inaccurate and is lesser than the\nsum of actual circulating tokens - which is already a red flag. As well,\nTransfer Fee function was detected, which can be increased up to 10%.\nLiquidity Removal txs?"
+    }
+}
