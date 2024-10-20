@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1624077078852210691",
+        "timestamp": "2023-02-10 00:00:00",
+        "original_content": "We detected 15 attack transactions (so far) on both Eth and BSC for this same\nvulnerability. For the tokens which have a similar issue, please check your\ncode! We shared all the detected attack tx in gdoc.\n[https://docs.google.com/spreadsheets/d/1alMly4Qk0AuCCj2KX02ss3EO9ol7sNwjVtBMaqfhle4/edit?usp=sharing\u2026](https://t.co/PNe9hf0qUv)"
+    }
+}
