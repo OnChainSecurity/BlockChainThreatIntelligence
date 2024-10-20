@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1760335171188936987",
+        "timestamp": "2024-02-22 00:00:00",
+        "original_content": "2/5 Validate External Calls: Ensure external smart contracts interacting with\nflash loan functionalities are authentic. Limit interactions to trusted\ncontracts only."
+    }
+}
