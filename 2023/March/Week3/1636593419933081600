@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1636593419933081600",
+        "timestamp": "2023-03-17 00:00:00",
+        "original_content": ".\n\n[@DefinixOfficial](/DefinixOfficial)\n\nhas suffered an indirect price manipulation attack with ~17k USD loss. Due to\nthe low liquidity on Definix, the exploiter first makes swaps to unbalance the\nprice. Then invoke RebalancePool.rebalance() to enforce bringing the price\nback. Finally, swap back to complete the arbitrage.\n[https://bscscan.com/tx/0x5de8b8ac186116ea7d887b3366de953f9facb77ef694ddcd4a3e4641c57217c0\u2026](https://t.co/jrCm9Z36Dm)[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1843238056868110336/c82e46is?format=jpg&name=small)](https://t.co/CKbooF7ocb)\n"
+    }
+}
