@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1615521061617172480",
+        "timestamp": "2023-01-18 00:00:00",
+        "original_content": "4/ 2) the attacker transfers zero UPStkn to himself for triggering the\ninternal function releasePressure that further burns the pool's 573,300.39\nUPStkn, which lifts the UPStkn's price. 3) the attacker sells the 136,299.97\nUPStkn for 24.877 Ether at a manipulated price."
+    }
+}
