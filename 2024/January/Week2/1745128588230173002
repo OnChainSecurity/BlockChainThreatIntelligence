@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1745128588230173002",
+        "timestamp": "2024-01-11 00:00:00",
+        "original_content": "5/ Reuse of Signatures: Reusing signatures can deplete Paymaster funds and\nreduce system usability. ERC4337 projects must implement robust checks against\nsignature reuse to avoid such exploitation."
+    }
+}
