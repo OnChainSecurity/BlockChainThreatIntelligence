@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1779843813151739918",
+        "timestamp": "2024-04-15 00:00:00",
+        "original_content": "ALERT! Our system has detected a series of attack transactions targeting an\nunknown contract (0x80a0) on [#BSC]. Revoke\napprovals to 0x80a0d7a6fd2a22982ce282933b384568e5c852bf ASAP!\n[https://app.blocksec.com/explorer/tx/bsc/0x051276afa96f2a2bd2ac224339793d82f6076f76ffa8d1b9e6febd49a4ec11b2\u2026](https://t.co/GQoFVlxuoS)\n[https://app.blocksec.com/explorer/tx/bsc/0x407e09faabf7072cd10dc86b7fa3180ccc1701f52f7fdca29464568498c30997\u2026](https://t.co/Mz4itk6PmL)\n[https://app.blocksec.com/explorer/tx/bsc/0x21d8b164f0cb8beb1ed27d164ed986c3fc26b33655ce18226b05b9cfcf6cd93c\u2026](https://t.co/Ay0rBf9m0k)\nSubscribe to Phalcon to monitor attacks and take automatic actions:\n[https://blocksec.com/phalcon](https://t.co/5cGK9A1psv)"
+    }
+}
