@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1664511700178018308",
+        "timestamp": "2023-06-01 00:00:00",
+        "original_content": "Thanks for the info. We found and reported this in early April and posted this\nafter being patched in later May. We looked at the code of Tether on Ethereum\nat that time, which is not vulnerable. Things have different angles; please do\nnot criticize others only from one angle."
+    }
+}
