@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1725821910989099160",
+        "timestamp": "2023-11-18 00:00:00",
+        "original_content": "1/ Questions you should ask yourself while reviewing liquidation\nfunctionality: \\- If add collateral is paused, can the user get liquidated\neven if he wants to deposit more? \\- Is the eligibility for liquidation\ncalculated consistently everywhere?"
+    }
+}
