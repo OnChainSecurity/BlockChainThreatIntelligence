@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1653267431127920641",
+        "timestamp": "2023-05-02 00:00:00",
+        "original_content": "1/\n\n[@Level__Finance](/Level__Finance)\n\nwas reported to be hacked due to the lack of checks of repeated items for the\narray argument of the vulnerable function. Note that the hacker first tried to\nmake a preparation but failed several times 7 days ago, and finally made it\nbefore launching the attacks."
+    }
+}
