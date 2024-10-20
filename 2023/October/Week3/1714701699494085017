@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1714701699494085017",
+        "timestamp": "2023-10-19 00:00:00",
+        "original_content": "Attack tx:\n[https://explorer.phalcon.xyz/tx/eth/0x1a7ee0a7efc70ed7429edef069a1dd001fbff378748d91f17ab1876dc6d10392\u2026](https://t.co/o3WLJHhS5S)\nFirst, the attacker opened a position in HopeLend, borrowing 2,000 WBTC via\nflashloan. The flashloan function in the Pool contract added flash loan fees\ninto the reserve's liquidityIndex."
+    }
+}
