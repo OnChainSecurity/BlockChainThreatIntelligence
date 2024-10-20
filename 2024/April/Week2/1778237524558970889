@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xNickLFranklin/status/1778237524558970889",
+        "timestamp": "2024-04-10 00:00:00",
+        "original_content": "This is arbitrage, not hacking.\n[https://app.blocksec.com/explorer/tx/bsc/0x05aca126a6a6588e33f4236ab017f10ca87a47a7a2631393c48bf71b1e6a4055\u2026](https://t.co/WQEYVb0HK1).\nAs you can see, price of USDT at pancake pair is much higher than BigBang\npair. He couldn't call swap function of BigBangSwap because unlike other\nuniswap v2 fork projects, swap function can't be called by anone, checks"
+    }
+}
