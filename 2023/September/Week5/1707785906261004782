@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1707785906261004782",
+        "timestamp": "2023-09-29 00:00:00",
+        "original_content": "2/ The vulnerability is due to a public function that anyone can directly\ntransfer the token in the contract out."
+    }
+}
