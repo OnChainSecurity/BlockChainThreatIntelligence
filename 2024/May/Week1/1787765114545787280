@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1787765114545787280",
+        "timestamp": "2024-05-07 00:00:00",
+        "original_content": "Unfortunately, Uniswap's TWAP doesn't eliminate the possibility of price\nmanipulation. For our convenience, Uniswap calculated how much funds it would\ntake to manipulate the TWAP. Simply put, it requires 709 billion to manipulate\nthe WETH price by only 20% for two blocks."
+    }
+}
