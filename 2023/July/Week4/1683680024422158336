@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1683680024422158336",
+        "timestamp": "2023-07-25 00:00:00",
+        "original_content": "1/ @Palmswaporg on the BSC was recently exploited due to price manipulation.\nIt is worth noting that although there is a cooldown mechanism in @Palmswaporg\nto prevent such scenarios, the exploit was able to bypass this protection as\nthe cooldownDuration was initialized to zero."
+    }
+}
