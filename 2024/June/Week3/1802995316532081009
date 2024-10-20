@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1802995316532081009",
+        "timestamp": "2024-06-18 00:00:00",
+        "original_content": "Always sanitize inputs in Solidity smart contracts to prevent vulnerabilities,\nas demonstrated by the Sovryn incident where insufficient input validation\nenabled collateral theft. Thorough input validation significantly boosts\ncontract security and reliability. Learn more\n?"
+    }
+}
