@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1772457760535240958",
+        "timestamp": "2024-03-26 00:00:00",
+        "original_content": "ALERT! Our system has detected a suspicious transaction harvesting tokens that\nwere approved to 0x0f77002b33b7f3473d3329fab2acb2ab05006f43. Please revoke any\napprovals on this address ASAP.\n[https://phalcon.blocksec.com/explorer/tx/eth/0x40b40592dbcf103840315b6144bdafcdd50604242626c770cc9569db0657fd53\u2026](https://t.co/e3aiYrOJO1)"
+    }
+}
