@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1792480713477902342",
+        "timestamp": "2024-05-20 00:00:00",
+        "original_content": "Code Quiz Day! Let's look at a very simple liquidation function in a perpetual\ntrading protocol. Firstly, we check if the user is liquidatable, then we get\ntheir collateral and current PnL. If the collateral is larger than losses, we\nreturn the difference back to the user. If the collateral is smaller or equal,\nthen the position is insolvent and there is no collateral to return. Lastly,\nwe pay out the liquidation bonus. For example, the protocol uses ETH, WETH,\nwBTC, USDT and USDC as tokens. What vulnerabilities exist in this function?"
+    }
+}
