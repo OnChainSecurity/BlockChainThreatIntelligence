@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1730172896746872844",
+        "timestamp": "2023-11-30 00:00:00",
+        "original_content": "At the renowned ACM CCS\n\n[@acm_ccs](/acm_ccs)\n\nconference in Copenhagen, Denmark, our CEO Andy Zhou\n\n[@yajinzhou](/yajinzhou)\n\ndelivered an enlightening tutorial on \"DeFi Protocol Security\"\n?\ufe0f. Prof. Zhou shed light\non the different types of vulnerabilities in smart contracts, including non-\nreentrancy issues, reentrancy issues, and DEX-specific issues, their root\ncauses, and mitigation\nstrategies?. He concluded\nby sharing some useful tools for development and security analysis, equipping\ndevelopers with the resources they need to improve their security practices.\nIn recognition of the critical importance of DeFi protocol security, we're\nproud to share that our attack-blocking product, Phalcon Block, is now live!\n? The system can\nautomatically take action in a security incident to pause your protocol and\neven front-run the hacks. Book a demo now at\n[https://phalcon.xyz/bookDemo](https://t.co/RYXWyS2pzH). We will show you how\nthe system works and answer any questions you may have. Together, let's\nadvance towards a more secure [#DeFi]\nlandscape! ?\ufe0f"
+    }
+}
