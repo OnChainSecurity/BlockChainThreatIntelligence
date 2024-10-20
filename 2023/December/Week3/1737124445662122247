@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1737124445662122247",
+        "timestamp": "2023-12-19 00:00:00",
+        "original_content": "? OKX WALLET CRUCIAL UPDATE\n? All users of OKX Wallet\nshould urgently update their IOS Apps to the latest version OKX team has\nreleased an important update to fix a critical Remote Code Execution (RCE)\nvulnerability, which might end in the private info compromising"
+    }
+}
