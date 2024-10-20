@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1778341002840834435",
+        "timestamp": "2024-04-11 00:00:00",
+        "original_content": "What will happen if we mint 1000 TestTokens to Executor and then try to call\n`withdrawFrom()` in the Initiator contract? address executor = Executor\ncontract with 1000 tokens. address token = Token\u2019s address. Find out the\nanswer below ?"
+    }
+}
