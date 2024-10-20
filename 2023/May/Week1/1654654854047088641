@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1654654854047088641",
+        "timestamp": "2023-05-06 00:00:00",
+        "original_content": "1/ DEI on Arbitrum and BSC was attacked, and the loss is over $6M...A simple\nbut classic issue: the bad implementation of allowances makes this function\nbecome a 'public' burn to manipulate the token price.\n[https://explorer.phalcon.xyz/tx/arbitrum/0xb1141785b7b94eb37c39c37f0272744c6e79ca1517529fec3f4af59d4c3c37ef\u2026](https://t.co/rioDQffVxk)\n[https://explorer.phalcon.xyz/tx/bsc/0xde2c8718a9efd8db0eaf9d8141089a22a89bca7d1415d04c05ba107dc1a190c3\u2026](https://t.co/FV5iusiwZH)"
+    }
+}
