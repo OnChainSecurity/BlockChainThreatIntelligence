@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1681150028440809472",
+        "timestamp": "2023-07-18 00:00:00",
+        "original_content": "[$BNO] on BSC was attacked. Total loss is\n~ $500K. The root cause is due to incorrect reward calculation. Specifically,\nthe pool supports both NFT and ERC20 stakes. However, there is a\nemergencyWithdraw function that allows users to withdraw their ERC20 stakes\nwhile it doesn't process the NFT stake records. The attacker deposits NFT and\nERC20 to the pool and emergencyWithdraws his ERC20. In this step, the\nemergencyWithdraw clears the rewardDebt of the user, making the attacker\nbypass the reward calculation check.\n[https://explorer.phalcon.xyz/tx/bsc/0x33fed54de490797b99b2fc7a159e43af57e9e6bdefc2c2d052dc814cfe0096b9\u2026](https://t.co/0ASlJY3vXG)"
+    }
+}
