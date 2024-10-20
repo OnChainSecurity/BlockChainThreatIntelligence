@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1717014871836098663",
+        "timestamp": "2023-10-25 00:00:00",
+        "original_content": ".\n\n[@MaestroBots](/MaestroBots)\n\nhas suffered an attack, resulting in a loss of ~260 Ether. The root cause of\nthe explanation was an *arbitrary call issue*. Revoke the approval for\n0x80a64c6D7f12C47B7c66c5B4E20E72bc1FCd5d9e now! Below is one of the attack tx:\n[https://explorer.phalcon.xyz/tx/eth/0xc087fbd68b9349b71838982e789e204454bfd00eebf9c8e101574376eb990d92\u2026](https://t.co/jPFawzfB3n)"
+    }
+}
