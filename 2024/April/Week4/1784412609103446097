@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1784412609103446097",
+        "timestamp": "2024-04-28 00:00:00",
+        "original_content": "ALERT! Our system has detected some suspicious transactions targeting on an\nunknown contract on [#BSC] and a contract of\n\n[@PlayEmberSword](/PlayEmberSword)\n\non [#Polygon] , resulting in a loss of\n$240K. Please revoke any approvals to\n0x389a9ae29fbe53cca7bc8b7a4d9d0a04078e1c24 on\n[#BSC] and\n0x6f7b4c0121e68c06a22f46b3f7f3004c76c7d8ff on\n[#Ploygon] ASAP. As there is no direct\nmethod available to contact the respective project, please reach out to us if\nyou have any questions. Subscribe to Phalcon to monitor attacks and take\nautomatic actions: [https://blocksec.com/phalcon](https://t.co/5cGK9A1psv)"
+    }
+}
