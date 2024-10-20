@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1615625897671004161",
+        "timestamp": "2023-01-18 00:00:00",
+        "original_content": "1/ QTN token has an inflation mechanism: all QTN holders' balanceOf will\nincrease for each QTN's sale in Uniswap. However, the QTN's developer uses\n\u201cfrom == UniswapPair\u201d to judge if there is a QTN's sale. The incorrect\ncondition is the root cause of this attack."
+    }
+}
