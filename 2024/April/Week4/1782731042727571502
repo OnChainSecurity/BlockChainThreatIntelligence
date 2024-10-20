@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1782731042727571502",
+        "timestamp": "2024-04-23 00:00:00",
+        "original_content": "?Exploit\nAlert?\n\n[@magpieprotocol](/magpieprotocol)\n\nalerted users that the protocol was exploited and asked users to revoke\napprovals to their contracts ASAP Contracts to revoke:\n[$ETH]:\n0xcf32c5bb41f7a302298a2d2072155800871baad3\n[$MATIC]:\n0xcf32c5bb41f7a302298a2d2072155800871baad3\n[$BSC]:\n0xcf32c5bb41f7a302298a2d2072155800871baad3\n[$AVAX]:\n0x746b0ca3762e229d4dcbd22b4a10906aa788d396\n[$ARB]:\n0xcf32c5bb41f7a302298a2d2072155800871baad3\n[$OP]:\n0xcf32c5bb41f7a302298a2d2072155800871baad3\n[$MATIC] zkEVM:\n0x59b37ed62599f3d2f9a593be0153ef08702cb370\n[$BASE]:\n0x6a1431bb23e08e3209dae3130b441863855fc14b\n[$ZK]:\n0x5fe556bcf5fc7db6e075ca6f4cd4f8bbee2a3e54\n[$BLAST]:\n0x956df8424b556f0076e8abf5481605f5a791cc7f\n\u26a0\ufe0fRevoke via\n\n[@DeFi](/DeFi)\n\nShield >\n[http://de.fi/shield](https://t.co/grjFeleeSw)\u26a0\ufe0f"
+    }
+}
