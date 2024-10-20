@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1644978419606724609",
+        "timestamp": "2023-04-09 00:00:00",
+        "original_content": "2/ BlockSec always believes in responsible disclosure and only shares the\ndetails after the affected protocol is safe. Our system monitored an attack tx\nin the mempool of block 17007838 and successfully rescued 100 Ether in block\n17007839.\n[https://phalcon.xyz/tx/eth/0x3610d3e3f2381c73f4bd128df9be90de87482802f30712dd555619b8bf3462a4\u2026](https://t.co/s8H9AWPBAc)"
+    }
+}
