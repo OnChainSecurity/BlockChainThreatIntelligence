@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1789841292203102454",
+        "timestamp": "2024-05-13 00:00:00",
+        "original_content": "ALERT! Our system has detected an attack targeting an unknown contract on\n[#Optimism]. Please revoke any approvals\nto 0x00dd464dba9fc0c20c4cc4d470e8bf965788c150 ASAP. Subscribe to Phalcon to\nmonitor attacks and take automatic actions:"
+    }
+}
