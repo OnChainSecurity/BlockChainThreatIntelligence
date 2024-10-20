@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xNickLFranklin/status/1777589021058728214",
+        "timestamp": "2024-04-09 00:00:00",
+        "original_content": "UPS token exploited.\n[https://app.blocksec.com/explorer/tx/bsc/0xd03702e17171a32464ce748b8797008d59e2dbcecd3b3847d5138414566c886d\u2026](https://t.co/9wqVx7dgUs).\nUPS token has an awful transfer implementation. When transferring tokens to\npancake pair, it burns tokens at the pair, and calls \"sync\" function. Using\nthat hacker could reduce UPS reserve of pancake pair. He repeated transferring"
+    }
+}
