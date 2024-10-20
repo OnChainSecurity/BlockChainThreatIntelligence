@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1626429280786989056",
+        "timestamp": "2023-02-17 00:00:00",
+        "original_content": "4/ As another piece of evidence, we found the third attack tx:\n[https://phalcon.blocksec.com/tx/avax/0x919266aa66d7c9a6af02dead5effc1cc68ab7b87890b52e5fc1e20a7041aa84d\u2026](https://t.co/DbM9fWRVwX).\nThis one happened between the first and the second. It has an improved attack\nlogic while the profits are transferred to AAVE."
+    }
+}
