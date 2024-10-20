@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1767953846372835574",
+        "timestamp": "2024-03-14 00:00:00",
+        "original_content": "? To mitigate such issues,\nit's crucial for Bundlers to ensure accurate gas estimation that aligns with\nthe on-chain execution environment, particularly in the design of the\nEntryPoint."
+    }
+}
