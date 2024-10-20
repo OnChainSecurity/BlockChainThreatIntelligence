@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1657324561577435136",
+        "timestamp": "2023-05-13 00:00:00",
+        "original_content": ".\n\n[@TrustTheTrident](/TrustTheTrident)\n\non BSC was exploited with a loss of ~279 BNB. It's a price manipulation attack\nand the root cause is a flawed calculation of the token price.\n\n[@TrustTheTrident](/TrustTheTrident)\n\nallows users to short tokens, but the token price relies on the pair and can\nbe easily manipulated."
+    }
+}
