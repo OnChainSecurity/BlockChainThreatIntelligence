@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1622529967858024448",
+        "timestamp": "2023-02-03 00:00:00",
+        "original_content": "Actually, we reported this issue (found from a project we were auditing at\nthat time) and proposed the corresponding mitigation to\n\n[@OpenZeppelin](/OpenZeppelin)\n\nlast Oct but got no response. Anyway, better late than never. Good to see this\nissue has been addressed."
+    }
+}
