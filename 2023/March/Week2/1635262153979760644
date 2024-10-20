@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1635262153979760644",
+        "timestamp": "2023-03-13 00:00:00",
+        "original_content": "2/ Here is the key steps a. Attacker flashloaned 30M DAI in AAVE b. Attacker\ndeposited 20M DAI and got back 20M eDAI c. Since Euler Finance provides the\ncapability of leverage borrow\n([https://docs.euler.finance/app/ui/mint](https://t.co/d6U0wkisDs)), the\nattacker can mint 195M eDAI and 200M dDAI."
+    }
+}
