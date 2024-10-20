@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1677722208893022210",
+        "timestamp": "2023-07-09 00:00:00",
+        "original_content": "?CIVNFT on\n[#Ethereum] suffered an 'Approve Attack'.\nThe root cause of this issue was a lack of access controls for a function\n(presumably intended to be privileged) with the signature 0x7ca06d68. This\noversight allowed attackers to manipulate the value of _uniswapV3MintCallback\nand directly invoke the attack contract. As a result, tokens (such as\n[$CIV] and\n[$USDC]) approved for CIVNFT were stolen\nand sent to the attacker.\n\n[@RevokeCash](/RevokeCash)\n\n[@MetaDockTeam](/MetaDockTeam)\n\nThe vulnerable CIVNFT contract address:\n0xf169bd68ed72b2fdc3c9234833197171aa000580. Attacker:\n0xbf9df575670c739d9bf1424d4913e7244ed3ff66 Here is one of the attacks tx:\n[https://explorer.phalcon.xyz/tx/eth/0x93a033917fcdbd5fe8ae24e9fe22f002949cba2f621a1c43a54f6519479caceb\u2026](https://t.co/8GH7mQvkiG)"
+    }
+}
