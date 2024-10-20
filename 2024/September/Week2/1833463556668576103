@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1833463556668576103",
+        "timestamp": "2024-09-10 00:00:00",
+        "original_content": "8/ Symbolic execution analyzes smart contracts by treating inputs as symbolic\nvalues. Tools like Mythril are great for this; it simulates all possible\nexecution paths by exploring different input scenarios, detecting\nvulnerabilities such as overflows or reentrancy issues."
+    }
+}
