@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1690931111776358400",
+        "timestamp": "2023-08-14 00:00:00",
+        "original_content": "1/\n\n[@ZunamiProtocol](/ZunamiProtocol)\n\nwas hacked, and the loss is over $2M. It is a price manipulation attack that\ndues to the flawed calculation of the LP price, i.e., within the totalHoldings\nfunction of strategies like MIMCurveStakeDao where sdt and sdtPrice were\nartificially inflated."
+    }
+}
