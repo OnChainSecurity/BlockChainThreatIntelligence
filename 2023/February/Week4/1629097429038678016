@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1629097429038678016",
+        "timestamp": "2023-02-24 00:00:00",
+        "original_content": "2/ Specifically, Users can deposit the $CloudNFT and claim\n[$Cloud] as rewards. According to the\ndesign, one $CloudNFT can be deposited only once for claiming the reward.\nHowever, the staking contract does not check the staking status of the first\ndeposited token (tokenIds[0])."
+    }
+}
