@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1760719063943205221",
+        "timestamp": "2024-02-23 00:00:00",
+        "original_content": "2/ The same pattern was used to exploit ERC-404 tokens, as well as in this\ncase: with 'transfer to self' as a root cause Malicious tx:\n[https://etherscan.io/tx/0xbeefd8faba2aa82704afe821fd41b670319203dd9090f7af8affdf6bcfec2d61\u2026](https://t.co/whLk7ZQKbV)\nAttacker's wallet:[![](https://pbs.twimg.com/card_img/1845596302580854784/JPPaysE6?format=jpg&name=360x360)](https://t.co/bWZwMe6fcV)\n"
+    }
+}
