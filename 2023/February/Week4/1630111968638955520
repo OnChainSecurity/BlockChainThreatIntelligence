@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1630111968638955520",
+        "timestamp": "2023-02-27 00:00:00",
+        "original_content": "2/ The attacker first bought DND with BNB: ~0.06 BNB -> 1M DND\n([https://phalcon.blocksec.com/tx/bsc/0xf3a5d378a7c5184a75f8a1783733ce5816836ef716c4d56214439e25ec744e75\u2026](https://t.co/BZRpVztDqN)).\nThen repeatedly invoked this function (0x4f1f05bc) to manipulate the price of\nthe DND token by enforcing the swap (BUSD -> WBNB -> DND)."
+    }
+}
