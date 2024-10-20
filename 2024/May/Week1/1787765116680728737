@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1787765116680728737",
+        "timestamp": "2024-05-07 00:00:00",
+        "original_content": "To sum up, Uniswap's TWAP doesn't mute the possibility of manipulating their\noracle but makes the attack almost infeasible. If you plan to implement TWAP\nas an oracle for your protocol, then send us a DM to check that it's\nimplemented correctly."
+    }
+}
