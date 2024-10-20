@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1831299592480080152",
+        "timestamp": "2024-09-04 00:00:00",
+        "original_content": "Common ERC20 token Vulnerabilities: \\- ERC20: Fee on transfer \\- ERC20:\nrebasing tokens \\- ERC20: ERC777 in ERC20 clothing \\- ERC20: Not all ERC20\ntokens return true \\- ERC20: Address Poisoning \\- ERC20: Just flat out rugged\nWhat will you add?"
+    }
+}
