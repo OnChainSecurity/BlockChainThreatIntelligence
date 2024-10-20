@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaDockTeam/status/1709226259405029417",
+        "timestamp": "2023-10-03 00:00:00",
+        "original_content": "MetaDock supports the view of contract upgrade log and diff. The following\nshows the upgrade log of\n\n[@level__finance](/Level__Finance)\n\nLevel Finance's contract, which was explored this May. This feature uses the\nupgradehub API provided by\n\n[@cergyk1337](/cergyk1337)\n\n. Thanks for the efforts.\n[#MetaDockTips]"
+    }
+}
