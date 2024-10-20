@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1770483952693776622",
+        "timestamp": "2024-03-21 00:00:00",
+        "original_content": "6/ Front-Running Attacks In a front-running attack, malicious actors could\nmanipulate transaction order to profit from bridge transfers. Solutions\ninclude privacy enhancements and transaction ordering protections."
+    }
+}
