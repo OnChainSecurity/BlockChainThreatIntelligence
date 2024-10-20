@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1773382398224343177",
+        "timestamp": "2024-03-29 00:00:00",
+        "original_content": "Wasm smart contracts, similar to Ethereum's, have vulnerabilities identified\nin a study of 4,616 smart contracts on EOS, including 13 real-world vulnerable\nones."
+    }
+}
