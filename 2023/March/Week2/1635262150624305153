@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1635262150624305153",
+        "timestamp": "2023-03-13 00:00:00",
+        "original_content": "1/\n\n[@eulerfinance](/eulerfinance)\n\nis attacked. The root cause is due to the lack of liquidity check in the\nfunction donateToReserves()\n[https://phalcon.xyz/tx/eth/0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d?line=471&debugLine=471\u2026](https://t.co/stWtPWK900)\nSee the detailed attack steps below."
+    }
+}
