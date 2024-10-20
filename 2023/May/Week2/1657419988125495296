@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1657419988125495296",
+        "timestamp": "2023-05-13 00:00:00",
+        "original_content": "Phalcon's debug feature allows you to view internal function calls of a\ncontract and debug them side-by-side with the code, which can be very helpful\nduring analysis. For example, in this attack, when debugging the withdraw(),\nyou can see that the check is whether end_time is greater than or equal to the\ncurrent block.timestamp. By comparing this with the logic of Lock_Token(),\nit's easy to point the root cause. Additionally, it's worth noting that the\ndefault debug code provided by Phalcon shows the function's call_site. In\ncases where the attacked contract is unverified, you can click \"Go To\nLock_Token Implementation\" to view the specific implementation logic, or use\nthe \"Step In\" feature to examine the detailed logic."
+    }
+}
