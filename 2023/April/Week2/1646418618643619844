@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1646418618643619844",
+        "timestamp": "2023-04-13 00:00:00",
+        "original_content": "1/\n\n[@iearnfinance](/iearnfinance)\n\nwas hacked with two consecutive attack transactions. The root cause is due to\nan (on-purpose?) misconfiguration which makes the rebalance of the pools rely\non an incorrect underlying token. This misconfiguration has been there for\nmore than three years."
+    }
+}
