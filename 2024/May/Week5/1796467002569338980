@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1796467002569338980",
+        "timestamp": "2024-05-31 00:00:00",
+        "original_content": "If someone had access to the secret randomness used to generate these\nparameters, they would be able to create false proofs that would look valid to\nthe verifier. For example, they could even create bogus tokens."
+    }
+}
