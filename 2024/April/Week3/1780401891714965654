@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xNickLFranklin/status/1780401891714965654",
+        "timestamp": "2024-04-17 00:00:00",
+        "original_content": "[https://app.blocksec.com/explorer/tx/bsc/0x7e02ee7242a672fb84458d12198fae4122d7029ba64f3673e7800d811a8de93f\u2026](https://t.co/9FfHROBARz).\nSo many token exploits. SATX token exploited again. In \"transfer\" function, if\nfrom address is uniswapV2Pair, SATX tokens are transferred to \"_tokenOwner\"\naddress when USDT balance and reserve is the same. Because of this, in \"skim\"\nfunction, much more"
+    }
+}
