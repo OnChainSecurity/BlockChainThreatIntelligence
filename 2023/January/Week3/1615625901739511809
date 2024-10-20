@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1615625901739511809",
+        "timestamp": "2023-01-18 00:00:00",
+        "original_content": "2/ Specifically, Uniswap pair has a function named skim that can cheat QTN, so\nthe attack contract increases his QTN's balance via 3 steps: 1) transfer x QTN\nto Uniswap pair; 2\uff09invoke the skim function to a created contract; 3) transfer\ny QTN back to the attack contract (y > x)."
+    }
+}
