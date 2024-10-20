@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1775805652532891963",
+        "timestamp": "2024-04-04 00:00:00",
+        "original_content": "Look at the code below, `msg.sender` is indeed a checker and should be able to\ncall this function, but can he?\n? What\u2019s more interesting\nis that one of the recent contest protocols indeed implemented such a check,\ndo you know which one? ?"
+    }
+}
