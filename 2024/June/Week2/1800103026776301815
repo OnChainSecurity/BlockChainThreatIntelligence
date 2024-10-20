@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1800103026776301815",
+        "timestamp": "2024-06-10 00:00:00",
+        "original_content": "Re-entrancy in Rust & Solidity\n? Explore the contrasting\nmechanisms of reentrancy handling in Rust and Solidity, and discover how these\ndifferences impact smart contract security.\n?"
+    }
+}
