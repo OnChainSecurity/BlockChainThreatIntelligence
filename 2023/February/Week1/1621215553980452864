@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1621215553980452864",
+        "timestamp": "2023-02-03 00:00:00",
+        "original_content": "Besides the attack on the vulnerability in\n\n[@orion_protocol](/orion_protocol)\n\n, there exists a phishing campaign towards\n\n[@orion_protocol](/orion_protocol)\n\n. A fake Twitter account\n\n[@orioin_protocol](/orioin_protocol)\n\nwill redirect users to the phishing website\n[http://xxionprotocol.app](https://t.co/9xH2beH7CJ) (do not click) and trick\nusers into signing a raw tx."
+    }
+}
