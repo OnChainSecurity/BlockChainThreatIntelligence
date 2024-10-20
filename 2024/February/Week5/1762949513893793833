@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1762949513893793833",
+        "timestamp": "2024-02-29 00:00:00",
+        "original_content": "? Seneca Protocol Hacked\nfor Over $3M ? Today,\n\n[@SenecaUSD](/SenecaUSD)\n\nhas experienced an exploit caused by the approval bug in several contracts\n\u26a0\ufe0f Revoke approvals ASAP on\n[http://de.fi/shield](https://t.co/grjFeleeSw):\n[$ETH]:\n0x529eBB6D157dFE5AE2AA7199a6f9E0e9830E6Dc1\n0xD837321Fc7fabA9af2f37EFFA08d4973A9BaCe34\n0xBC83F2711D0749D7454e4A9D53d8594DF0377c05\n0x65c210c59B43EB68112b7a4f75C8393C36491F06\n[$ARB]:\n0x11446bbb511e4ea8B0622CB7d1437C23C2f3489b\n0x7C160FfE3741a28e754E018DCcBD25dB04B313AC\n0x4D7b1A1900b74ea4b843a5747740F483152cbA5C\n0x2d99E1116E73110B88C468189aa6AF8Bb4675ec9\n0x2216E32006BB80d20f7906b88876964F9AF68aFb"
+    }
+}
