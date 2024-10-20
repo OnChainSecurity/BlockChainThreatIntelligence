@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1644977808450396160",
+        "timestamp": "2023-04-09 00:00:00",
+        "original_content": "1/ RouteProcessor2\n\n[@SushiSwap](/SushiSwap)\n\nhas a vulnerability that can drain accounts that approved to this contract.\nOur system immediately detected the attack attempt to\n\n[@0xsifu](/0xSifu)\n\nand rescued some funds. Unfortunately, some other funds cannot be rescued.\n[https://docs.google.com/spreadsheets/d/1T8lT_qZbF90Kw1xaGbeZHEalpI62bxVNw8epbJ19GtU/edit?usp=sharing\u2026](https://t.co/Fky1kgGmvA)"
+    }
+}
