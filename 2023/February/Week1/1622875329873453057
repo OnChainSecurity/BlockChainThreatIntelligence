@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1622875329873453057",
+        "timestamp": "2023-02-07 00:00:00",
+        "original_content": "4/ A lesson learned. A contract with the interface of arbitrary call should\nnot have any allowance, 0x55a37a2e5e5973510ac9d9c723aec213fa161919 made the\nmistake and approved the maximum value of DAI to SwapGuard, which is the root\ncause of the attack."
+    }
+}
