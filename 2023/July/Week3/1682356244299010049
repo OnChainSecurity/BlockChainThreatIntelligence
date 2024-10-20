@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1682356244299010049",
+        "timestamp": "2023-07-21 00:00:00",
+        "original_content": "The root cause is the price manipulation caused by the read-only reentrancy.\n\n[@ConicFinance](/ConicFinance)"
+    }
+}
