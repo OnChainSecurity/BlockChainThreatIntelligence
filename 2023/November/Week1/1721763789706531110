@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1721763789706531110",
+        "timestamp": "2023-11-07 00:00:00",
+        "original_content": "In the receiveUpPool function of the LaunchpadLockableStaking contract, if the\naccount is not locked, the depositLockStart time will be set. Then the\nattacker manipulated it to immediately deposit (via the receiveUpPool\nfunction) and withdraw to accumulate the pending rewards."
+    }
+}
