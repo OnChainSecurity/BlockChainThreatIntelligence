@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1686654241111429120",
+        "timestamp": "2023-08-02 00:00:00",
+        "original_content": "?@Neutrafinance on Arbitrum\nwas attacked, and the loss is ~23.5 ETH. The root cause of this issue is tied\nto the spot price used by the convert function. Specifically, there are two\npools that share the same name for their LP tokens (CMLT-LP), which can be\nconverted from one (CMLT-LP-65eb) to another (CMLT-LP-2ea3) by invoking the\nconvert function. Here is the attack tx:\n[https://explorer.phalcon.xyz/tx/arbitrum/0x6301d4c9f7ac1c96a65e83be6ea2fff5000f0b1939ad24955e40890bd9fe6122\u2026](https://t.co/TfpKxESY2Z)[![](https://pbs.twimg.com/card_img/1846004923777122304/sSAAW0wL?format=jpg&name=360x360)](https://t.co/p6gwTMGFLz)\n"
+    }
+}
