@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1797930047233552557",
+        "timestamp": "2024-06-04 00:00:00",
+        "original_content": "1\\. Private Audits Cons: \\- limited number of people looking at your code. \\-\nprivate audits for large codebases may take too much time. \\- with the rise of\ndemand for audits, many auditors and firms will raise their quotes or have\nextremely long queues of other clients."
+    }
+}
