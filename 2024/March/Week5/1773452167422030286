@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Possum_Labs/status/1773452167422030286",
+        "timestamp": "2024-03-29 00:00:00",
+        "original_content": "Portals v2 Audit Stage 2 Status: \u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593 100%\n? Over 30 skilled White\nHats were part of our private PPV audit.\n? Result: \u2192 Identified\nissues have been fixed i.e. A safer Portals v2 experience for you We\nappreciate everyone who took part, with a special shoutout to\n\n[@carrotsmuggler](/carrotsmuggler)\n\n,\n\n[@MarioPoneder](/MarioPoneder)\n\n, and\n\n[@el_hajin](/el_hajin)\n\nfor uncovering the most significant issues. A big thanks to our friends at\n\n[@ShieldifySec](/ShieldifySec)\n\nfor coordinating this PPV audit. Next up is Stage 3 of our audits: Independent\nFuzz Testing & Formal Verification."
+    }
+}
