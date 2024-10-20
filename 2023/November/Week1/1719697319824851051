@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1719697319824851051",
+        "timestamp": "2023-11-01 00:00:00",
+        "original_content": "The\n\n[@OnyxProtocol](/OnyxProtocol)\n\nwas attacked due to *precision loss vulnerability*. In OnyxProtocol, the oPEPE\nmarket was initialized (by proposal 22) shortly before the attack. The\nattacker minted small shares and donated a large amount of PEPE to the oPEPE\nmarket, causing the exchange rate to be biased, and borrowed Ether. Then the\nPEPE was all redeemed back to the attacker due to the precision loss bug in\nthe redeemUnderlying function. Here is the attack tx:\n[https://explorer.phalcon.xyz/tx/eth/0xf7c21600452939a81b599017ee24ee0dfd92aaaccd0a55d02819a7658a6ef635\u2026](https://t.co/jku7Phbllz)"
+    }
+}
