@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1811307658084839914",
+        "timestamp": "2024-07-11 00:00:00",
+        "original_content": "Often protocols implement fees that users have to pay for executing\noperations. For example, decentralized trading platforms have such fees for\nopening/closing/updating positions. We managed to identify three issues with\nfees in one of our recent security reviews\n?"
+    }
+}
