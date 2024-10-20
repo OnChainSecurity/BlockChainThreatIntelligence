@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1791407073831334154",
+        "timestamp": "2024-05-17 00:00:00",
+        "original_content": "Today, we'd like to share a finding in our recent security review of Bastion\nWallet. The problem was in insufficient checks for valid tokens. The contract\nchecked whether it's address(0). If yes, the contract believed it's Ether, if\nnot, then it's an ERC20 token. It allowed users to add malicious tokens or any\nother address leading to unexpected behaviour."
+    }
+}
