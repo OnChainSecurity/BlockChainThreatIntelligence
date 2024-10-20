@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1623901011680333824",
+        "timestamp": "2023-02-10 00:00:00",
+        "original_content": "1/\n\n[@dForcenet](/dForcenet)\n\nattacked in both\n\n[@arbitrum](/arbitrum)\n\nand @optimismFND . The root cause is the well-known read-only reentrancy in\nthe curve pool."
+    }
+}
