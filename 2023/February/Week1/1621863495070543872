@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1621863495070543872",
+        "timestamp": "2023-02-04 00:00:00",
+        "original_content": "3/ The initial fund comes from [http://Tornado.Cash](https://t.co/0RNyFQ5ZYs),\nwhile part of the harvested tokens were transferred from the attack contract\nto the attacker\n([https://phalcon.blocksec.com/tx/bsc/0x4d910cf24567b1e01796908d496b68bd737b91d3fd0f985117c349ce19f741d9\u2026](https://t.co/l73qII50EW)).\nInterestingly, the attacker was busy handling those LP tokens."
+    }
+}
