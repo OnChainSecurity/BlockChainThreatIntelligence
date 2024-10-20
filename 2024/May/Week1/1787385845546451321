@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xNickLFranklin/status/1787385845546451321",
+        "timestamp": "2024-05-06 00:00:00",
+        "original_content": "This is not hacking due to vulnerability. Hacker created GNUS token on Fantom\nabout 30 hours ago and minted a huge amount of GNUS tokens to himself.\n[https://app.blocksec.com/explorer/tx/fantom/0xd7dbbf47e4454a94f30f0ff034e3fb0040895347a41d974d524f7af066b4677d\u2026](https://t.co/TzCt25uqIc).\nAnd then bridged some of them to Ethereum, drained Dex pool using that tokens.\n[https://app.blocksec.com/explorer/tx/eth/0xe8a5780cc89d9115acf307da9e6fae68e8b3634a8b41c77d81e95edb9085a407\u2026](https://t.co/eOW9bXudG2)."
+    }
+}
