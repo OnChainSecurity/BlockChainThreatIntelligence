@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1673907482773831681",
+        "timestamp": "2023-06-28 00:00:00",
+        "original_content": "Our system found a buggy contract, where multisendFrom function deduces the\nbalance of msg.sender instead of the \u201csender\u201d. Don\u2019t interact with this one\nsince it will make the contract caller loss.[](https://t.co/w7oYrBykSJ)\n"
+    }
+}
