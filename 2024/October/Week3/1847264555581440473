@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1847264555581440473",
+        "timestamp": "2024-10-18 00:00:00",
+        "original_content": "[#CertiKInsight]\n?\n\n[@tapioca_dao](/tapioca_dao)\n\nhas been exploited via private key compromise with around $4.7m of losses The\nattacker minted a large amount of USDO which they swapped for USDC, as well as\nwithdrew and sold TAP tokens from multiple vesting contracts Stolen funds were\nbridged to BSC 0x69D91e56Ca80F2a4D7b808b59053ea5c5505FFe2"
+    }
+}
