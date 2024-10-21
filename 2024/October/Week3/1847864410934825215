@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1847864410934825215",
+        "timestamp": "2024-10-20 00:00:00",
+        "original_content": "This Vesting contract claims to support both ERC20 tokens and ETH (using\naddress(1)). But there's a sneaky bug that makes ETH functionality impossible.\nCan you spot it? This bug was reported in\n\n[@ZapProtocol](/ZapProtocol)\n\ncontest on Sherlock."
+    }
+}
