@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://www.linkedin.com/posts/waqas-muhammad-5699419a_blockchain-ethereum-evm-activity-7186347903831990272-VT24",
+        "timestamp": "2023-12-01 00:00:00",
+        "original_content": "\n\nSequenzer Level Security (academic paper, 1st December 2023)\n\nCurrent \n#blockchains\n do not provide any security guarantees to the smart contracts and their users as far as the content of the transactions is concerned.\n\nIn the spirit of decentralization and censorship resistance, they follow the paradigm of including valid transactions in blocks without any further scrutiny.\n\nRollups are a special kind of \n#blockchains\n whose primary purpose is to scale the transaction throughput. Many of existing rollups operate through a centrally operated sequencing protocol.\n\nThe paper introduces Sequencer Level Security (SLS) protocol, an enhancement to sequencing protocols of rollups.\n\nThis contribution explores concept of sequencer\u2019s capability to identify and temporarily quarantine malicious transactions instead of including them in blocks immediately.\n\nIt describes mechanics of protocol for both transactions submitted to the rollup mempool, as well as transactions originating from L1.\n\nAuthor/Contributor: \nMartin Derka\n,\nJan Gorzny\n, \nDiego Siqueira \n, \nDonato Pellegrino\n, \nMarius G.\n, \nZhiyang Chen\n\n\n#FinTech\n \n#Blockchain\n\n\n\n"
+    }
+}
