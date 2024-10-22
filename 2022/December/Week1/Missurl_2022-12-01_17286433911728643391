@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://www.semanticscholar.org/paper/Suspicious-transaction-alert-and-blocking-system-in-G%C3%BCrfidan/70d903c588385cb87a8f5e05d604cffb699cc9b1",
+        "timestamp": "2022-12-01 00:00:00",
+        "original_content": "Suspicious transaction alert and blocking system for cryptocurrency exchanges in metaverse's social media universes: RG-guard\n@article{Grfidan2024SuspiciousTA,\n  title={Suspicious transaction alert and blocking system for cryptocurrency exchanges in metaverse's social media universes: RG-guard},\n  author={Remzi G{\\\"u}rfidan},\n  journal={Neural Comput. Appl.},\n  year={2024},\n  volume={36},\n  pages={18825-18840},\n  url={https://api.semanticscholar.org/CorpusID:271654295}\n}\nIt is aimed to detect and prevent instant potential suspicious transactions with the RG-Guard engine in money transfers, which have the greatest risk in cryptocurrency transactions and are the target of fraud.\nExpand\nSave to Library\nSave\nCreate Alert\nAlert\nCite"
+    }
+}
