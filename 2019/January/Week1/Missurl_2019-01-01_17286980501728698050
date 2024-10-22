@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://www.semanticscholar.org/paper/Detection-of-Vulnerabilities-of-Blockchain-Smart-He-Wu/4d603fff96085235aa3ee158c1ca79df14513557",
+        "timestamp": "2019-01-01 00:00:00",
+        "original_content": "Detection of Vulnerabilities of Blockchain Smart Contracts\n@article{He2023DetectionOV,\n  title={Detection of Vulnerabilities of Blockchain Smart Contracts},\n  author={Daojing He and Rui Wu and Xinji Li and Sammy Chan and Mohsen Guizani},\n  journal={IEEE Internet of Things Journal},\n  year={2023},\n  volume={10},\n  pages={12178-12185},\n  url={https://api.semanticscholar.org/CorpusID:256534402}\n}\nIt is concluded that most of the current vulnerability detection tools can only detect vulnerabilities in a single and old version of smart contracts, and the combination of static and dynamic detection methods, including the fuzzy testing method, to detect more types of vulnerabilities in multi-version smart contracts to achieve higher accuracy is a direction worthy of research in the future.\nExpand\nSave to Library\nSave\nCreate Alert\nAlert\nCite"
+    }
+}
