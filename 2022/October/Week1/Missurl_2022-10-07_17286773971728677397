@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://www.nytimes.com/2022/10/07/business/binance-hack.html",
+        "timestamp": "2022-10-07 00:00:00",
+        "original_content": "Binance, the world\u2019s biggest cryptocurrency exchange, confirmed on Friday that $570 million had been stolen in a hack of a blockchain it runs that serves as a bridge for asset transfers between networks. The attack on the Binance Smart Chain network highlighted weaknesses in decentralized finance, or DeFi, where transactions are controlled by code.\n\u201cSoftware code is never bug free,\u201d Binance\u2019s chief executive, Changpeng Zhao, said in an \ninterview with CNBC\n. He emphasized that no users had lost money in the hack but said that so-called cross-chain bridges were particularly vulnerable to hacks and the industry needed to get better at learning from them.\n\u201cWe have seen a series of attacks on targeting vulnerabilities in cross-chain bridges,\u201d Binance Smart Chain wrote in a blog post \napologizing to users\n. \u201cWe will openly share the details of the postmortem and all lessons on how to implement more advanced security measures to shore-up these vulnerabilities.\u201d\nSubscribe to The Times\n to read as many articles as you like."
+    }
+}
