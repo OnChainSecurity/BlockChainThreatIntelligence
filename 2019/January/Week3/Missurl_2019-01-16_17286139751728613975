@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://blog.ethereum.org/category/security",
+        "timestamp": "2019-01-16 00:00:00",
+        "original_content": "\nThe Ethereum Core Developers and the Ethereum Security Community were made aware of the potential Constantinople-related issues identified by ChainSecurity on January 15, 2019. We are investigating any potential vulnerabilities and will follow with updates in this blog post and across social media channels.\n\nOut of an abundance of caution, key stakeholders around the Ethereum community have determined that the best course of action will be to delay the planned Constantinople fork that would have occurred at block 7,080,000 on January 16, 2019.\n\nThis will require anyone running a node (node operators, exchanges, miners, wallet services, etc...) to update to a new version of Geth or Parity before block 7,080,000. Block 7,080,000 will occur in approximately 32 hours from the time of this publishing or at approximately"
+    }
+}
