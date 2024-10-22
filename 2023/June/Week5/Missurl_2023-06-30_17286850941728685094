@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://seedsecuritylabs.org/Labs_20.04/Blockchain/Reentrancy_Attack/",
+        "timestamp": "2023-06-30 00:00:00",
+        "original_content": "\n\n\n\nOverview\n\n\n\n\n\nThe DAO (Decentralized Autonomous Organization) attack was one of the major hacks that\noccurred in the early development of Ethereum. At the time, the contract held over $150\nmillion. Reentrancy played a major role in the attack, which ultimately led to the \nhard fork that created Ethereum Classic (ETC). \nAs of 2022, the reentrancy attack is still a common attack on Ethereum.\n\n\n\n\nThe purpose of this lab is to give students a hands-on experience on\nthe reentrancy attack. Students are given two smart contracts,\na vulnerable one (the victim contract) and an attack contract.\nStudents will go through the entire attack process\nto see how exactly the attack works. They will see in person how such an\nattack can steal all the money inside the victim contract.  The\nattack will be conducted on the SEED emulator, with\nan Ethereum blockchain deployed inside.\n\n\n\n \n   Tasks \n   \n      (\nPDF\n) \n   \n   \n\n\n\n Time (Suggested)\n\n\n\n\n Supervised (closely-guided lab session): \n2 hours\n\n\n Unsupervised (take-home project): \n1 week\n\n\n\n\n\n\n Additional Materials\n\n\n\nOpen Source\n\n\n\n\n\n"
+    }
+}
