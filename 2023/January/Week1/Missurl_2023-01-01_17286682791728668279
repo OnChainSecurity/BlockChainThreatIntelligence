@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://www.semanticscholar.org/paper/Smart-contract-vulnerability-detection-based-on-and-Chen-Feng/a08675eb57799bc1d7ee3502da43791c00a3e8fe",
+        "timestamp": "2023-01-01 00:00:00",
+        "original_content": "Smart contract vulnerability detection based on semantic graph and residual graph convolutional networks with edge attention\n@article{Chen2023SmartCV,\n  title={Smart contract vulnerability detection based on semantic graph and residual graph convolutional networks with edge attention},\n  author={Da Chen and Lin Feng and Yuqi Fan and Siyuan Shang and Zhenchun Wei},\n  journal={J. Syst. Softw.},\n  year={2023},\n  volume={202},\n  pages={111705},\n  url={https://api.semanticscholar.org/CorpusID:252236350}\n}\nSave to Library\nSave\nCreate Alert\nAlert\nCite"
+    }
+}
