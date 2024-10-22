@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1847226650456715441",
+        "timestamp": "2024-10-18 00:00:00",
+        "original_content": "?Our\nsystem has just detected that someone lost around 804K worth of\n[$mETH] signing a malicious phishing\ncontract! Victim 0x84b....42E43 has approved malicious contract around 14 min\nago! We advise to revoke all your approvals for phisher contract! Funds are\ncurrently sitting at phisher's address! Want to secure your assets and prevent\nfuture attacks? Book a Demo today! [https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZVtqz)\n[#CyversAlert]"
+    }
+}
