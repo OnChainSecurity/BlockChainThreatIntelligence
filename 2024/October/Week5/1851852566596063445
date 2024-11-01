@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1851852566596063445",
+        "timestamp": "2024-10-31 00:00:00",
+        "original_content": "Can you spot the critical vulnerability in this Auction protocol? This bug was\nfound in a Sherlock contest and makes the entire auction system unusable in\ncertain conditions. Hint: Pay attention to the collateral requirements First\nperson to correctly identify the bug wins!"
+    }
+}
