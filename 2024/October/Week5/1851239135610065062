@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1851239135610065062",
+        "timestamp": "2024-10-29 00:00:00",
+        "original_content": "? Stolen Funds on the Move:\nWazirX Hacker Launders Stolen [$ETH] Amid\nrecovery efforts, the WazirX hacker has laundered nearly all stolen funds as\nthe exchange enters its restructuring process. Starting Sept. 3, the hacker\nused a straightforward two-step method: transferring batches of 5,000\n[#ETH] (about $11.6 million) to new addresses\nbefore funneling them through\n[#TornadoCash] in smaller amounts.\n?\nBy the end of September, most of the stolen assets were moved through Tornado\nCash\u2014a popular mixing service that obscures transactions, making it difficult\nto trace the flow of funds. At Cyvers, our tools monitor these movements in\nreal-time, helping to track assets and bring accountability even as hackers\ntry to hide their tracks. Tracking such flows is key for recovery efforts and\nmaintaining transparency in the space. 16/17"
+    }
+}
