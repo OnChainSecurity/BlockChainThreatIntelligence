@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1851694573694947522",
+        "timestamp": "2024-10-31 00:00:00",
+        "original_content": "?Our\nsystem has detected suspicious activity involving\n[#SUN] on the\n[#ARB] chain. The attacker upgraded a\nmalicious contract, allowing them to mint approximately 200 trillion\n[#SUN], resulting in a $2.8M loss. Funding\noriginated from a [#ChangeNow] hot\nwallet on the [#ETH] chain and was\nsubsequently bridged to the [#ARB] chain. The\nattacker then transferred the funds to a new EOA, which currently holds around\n$2.8M in [$USDT] Want to secure your\nassets and prevent future attacks? Book a Demo today!\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZVtqz)\n[#CyversAlert]"
+    }
+}
