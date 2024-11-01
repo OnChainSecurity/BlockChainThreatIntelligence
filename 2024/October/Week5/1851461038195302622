@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1851461038195302622",
+        "timestamp": "2024-10-30 00:00:00",
+        "original_content": "The phishing site would connect to the wallet and sign a malicious transaction\nto drain your account! The scam-as-a-service drainer address is at\n0xf244a12fcf3dbcede0183e41b78e12b04d292654 which is only active across\nmultiple chains since 10/25."
+    }
+}
