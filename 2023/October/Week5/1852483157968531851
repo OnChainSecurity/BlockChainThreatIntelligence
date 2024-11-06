@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ibcgroupio/status/1852483157968531851",
+        "timestamp": "2023-10-31 00:00:00",
+        "original_content": "UAE Exchange Hit with $13.7M Hack - A Wake-Up Call for DeFi The recent $13.7M\nhack on UAE-based M2 Crypto Exchange hits close to home for companies trying\nto scale in Web3. Despite their rapid response, M2 lost major assets across\nBTC, ETH, and Solana hot wallets in an October 31 breach. Cyvers tracked a\nlarge portion of the stolen funds, finding $10M still on the Ethereum network,\nwhile M2 reimbursed affected users immediately. This incident underscores the\nreal security gaps in centralized exchanges (CEXs), especially with crypto\nhack incidents on CEXs spiking nearly 1,000% YoY. Source: CoinGape"
+    }
+}
