@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1855986174143173115",
+        "timestamp": "2024-10-16 00:00:00",
+        "original_content": "?Radiant Capital Hack -\nCurrent Situation & Updates\n? On October 16, Cyvers\ndetected a security incident on Radiant Capital, which resulted in an\nestimated $50M loss across [#Arbitrum]\nand [#BNB] Chain. The attacker gained control\nby compromising the devices of core contributors, tricking them into signing\nmalicious transactions. Despite best practices, the malware allowed hidden\napprovals and asset drains. Here\u2019s the breakdown\n?"
+    }
+}
