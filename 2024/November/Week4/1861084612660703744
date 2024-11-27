@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1861084612660703744",
+        "timestamp": "2024-11-26 00:00:00",
+        "original_content": "Solana(Rust) Program - Security Course\n?\n1/ Signer Authorization: 2/ Owner Checks: 3/ Account Data Matching: 4/\nReinitialization Attacks 5/ Duplicate Mutable Accounts 6/ Type Cosplay 7/\nArbitrary CPI 8/ Bump Seed Canonicalization 9/ Closing Accounts and Revival\nAttacks 10/ PDA Sharing [https://solana.com/developers/courses/program-\nsecurity\u2026](https://t.co/phGVG6sGBv)"
+    }
+}
