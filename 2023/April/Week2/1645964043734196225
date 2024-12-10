@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1645964043734196225",
+        "timestamp": "2023-04-12 00:00:00",
+        "original_content": "An interesting bug. Looks like the tokens held by some contracts can be\npublically approved to others."
+    }
+}

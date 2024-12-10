@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://ethereum.stackexchange.com/questions/154144/if-dos-a-single-function-solidity-will-other-functions-not-work",
+        "timestamp": "2023-09-05 00:00:00",
+        "original_content": "If dos a single function solidity, will other functions not work?\nAsked 1 year ago\nModified 1 year ago\nViewed 41 times\n1\n\nI read lots of articles about dos causing a Denial Of Service.\n\nLet say that a contract has 2 functions, if called one of them repeatedly, will the other function works?\n\nContract ABC {\n\nfunction one() external{\n   // code logic\n  }\nfunction two() external{\n   // code logic\n  }\n}"
+    }
+}

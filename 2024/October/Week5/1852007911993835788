@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1852007911993835788",
+        "timestamp": "2024-10-30 00:00:00",
+        "original_content": "On Oct 30, 9:12 PM - 11:22 PM CET, 1inch dApp users may have encountered a\nmalicious wallet connect and signature request. This signature allows an\nattacker to drain user's funds. Only the 1inch web dApp was affected; the\n1inch Wallet, API, and protocols were never compromised."
+    }
+}

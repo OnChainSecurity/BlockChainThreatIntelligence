@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/etherscan/status/1788550675993174409",
+        "timestamp": "2024-05-03 19:53:20",
+        "original_content": "?Are\nwe mistaken, or has someone truly lost $68M worth of\n[$WBTC]? Our system has detected another\naddress falling victim to address poisoning, losing 1155\n[$WBTC].\n? Victim:\n[https://etherscan.io/address/0x1e227979f0b5bc691a70deaed2e0f39a6f538fd5\u2026](https://t.co/5NKlOFnepJ)\nAddress poisoner:\n[https://etherscan.io/address/0xd9a1c3788d81257612e2581a6ea0ada244853a91\u2026](https://t.co/R6fF0QipBH)\nPoison transaction:"
+    }
+}

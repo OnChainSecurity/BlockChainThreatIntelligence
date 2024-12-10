@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1803784804359672211",
+        "timestamp": "2024-06-20 21:21:19",
+        "original_content": ".\n\n[@Phalcon_xyz](/Phalcon_xyz)\n\nexplorer marks the reverted internal transaction as (reverted), which\ninformation can not be got from the RPC node :) See this tx on base:\n[https://app.blocksec.com/explorer/tx/base/0xfbf6b17a9de7f9e1e97eb48dc68a993f7663d4b9530a3cd6cc262e554549e59d\u2026](https://t.co/wvUm7tB8Ww)"
+    }
+}

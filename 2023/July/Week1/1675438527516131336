@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1675438527516131336",
+        "timestamp": "2023-07-02 13:28:16",
+        "original_content": "PolyNetwork attack update. We have now completed the profit statistics of the\nattacker on ETH and BSC. The profit on ETH is approximately $5.3 million, of\nwhich $4.3 million exists in the form of ETH. The profit on BSC is\napproximately $232 million based on the price at the time of transfer, but the\nmajority of it has not been swapped yet. There should not exist enough\nliquidity in dex pools, so the real profit should be much smaller. Please\nrefer to the table for detailed profit data.\n[https://docs.google.com/spreadsheets/d/1X5QF_ipMm8YnYj86Qvy8XXFvao3HwYgrEoOHBRBvZVM/edit#gid=1366236481\u2026](https://t.co/pKEiLe4dTZ)"
+    }
+}

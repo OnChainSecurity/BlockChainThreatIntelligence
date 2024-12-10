@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1852797934368407657",
+        "timestamp": "2024-11-03 00:00:00",
+        "original_content": "Spot the Bug This contract claims to implement ERC5095. There's a critical\ncompliance issue in the withdraw() function. Can you find why it fails? Winner\nwill be chosen in 48 hours!\n?"
+    }
+}

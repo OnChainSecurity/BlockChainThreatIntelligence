@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1719690524603425113",
+        "timestamp": "2023-11-01 00:00:00",
+        "original_content": "?\n\n[@OnyxProtocol](/OnyxProtocol)\n\nExploited for 1,164  [$ETH] (~$2.1M)\n? The attacker exploited a\ncritical vulnerability in CompoundV2 forks. On-chain details\n? To execute the exploit,\nthe attacker took out a substantial flash loan in ETH, swiftly converting it\nto PEPE tokens and contributing PEPE tokens to a specific pool. Due to the\nprecision loss, fewer shares were burned, enabling the withdrawal of assets.\n\n[![Image](https://pbs.twimg.com/media/F92QX3cWsAAUnhB?format=png&name=medium)](/De_FiSecurity/status/1719690524603425113/photo/1)\n\nThe malicious contract was funded from TornadoCash. Malicious Tx:\n[https://etherscan.io/tx/0x27a3788d504af542681436bfdecf1823f7a8a691d04309ad33e6d3825e899746\u2026](https://t.co/OAE20CmviW)\nExploiter addresses: 0x085bdff2c522e8637d4154039db8746bb8642bff\n0x4c9c8661243e9e9a15a35b8873317eb881330c98\n\n[![Image](https://pbs.twimg.com/media/F92RJciXUAAeviJ?format=png&name=medium)](/De_FiSecurity/status/1719690524603425113/photo/2)\n\nThe attacker has already laundered ~1,140 ETH (equivalent to $1.25 million) to\nthe crypto mixing service Tornado Cash\n\n[![Image](https://pbs.twimg.com/media/F92RUz-\nWYAEIYSJ?format=png&name=medium)](/De_FiSecurity/status/1719690524603425113/photo/3)\n\nStay Safe ?"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1692533205109547202",
+        "timestamp": "2023-08-18 00:00:00",
+        "original_content": "The\n\n[@ExactlyProtocol](/ExactlyProtocol)\n\nhas been paused. It's time to review the attack. The root cause is\n[#insufficient_check]. The\nattacker was able to bypass the permit check in the leverage function of the\nDebtManager contract by directly passing a fake market address without\nvalidation, and changing the _msgSender to the victim address. Then, in the\nuntrusted external call, the attacker reentered the crossDeleverage function\nin the DebtManager contract and steal the collaterals from the _msgSender.\n[#BlockSec_AttackAnalysis]\nHere is one of the attack tx:\n[https://explorer.phalcon.xyz/tx/optimism/0x3d6367de5c191204b44b8a5cf975f257472087a9aadc59b5d744ffdef33a520e\u2026](https://t.co/5NKGJEEKox)"
+    }
+}

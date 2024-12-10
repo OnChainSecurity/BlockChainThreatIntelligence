@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1661202338290487296",
+        "timestamp": "2023-05-24 10:47:55",
+        "original_content": "[$CS] token was exploited for $714K in tx\n[https://bscscan.com/tx/0x906394b2ee093720955a7d55bff1666f6cf6239e46bea8af99d6352b9687baa4\u2026](https://t.co/8mJLcPQXM6)\nThe root cause is that the sellAmount in the _transfer function is not updated\nin time. Attack Flow: 1/ The attacker borrows BSC-USD via flashloan and swap\ninto [$CS]."
+    }
+}

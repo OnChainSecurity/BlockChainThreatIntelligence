@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1784523042531819733",
+        "timestamp": "2024-04-27 00:00:00",
+        "original_content": "? Our system has detected\nan attack transaction targeting an\n\n[@PikeFinance](/PikeFinance)\n\nbridge contract on [#Arbitrum], resulting\nin a loss of ~$300K. Since the victim has confirmed the attack and taken some\nactions. We can disclose one of the attack transactions:\n[https://app.blocksec.com/explorer/tx/arbitrum/0x979ad9b7f5331ea8034305a83b5cd50aea88adec395fff8298dd90eb1b87667f\u2026](https://t.co/6sSZf2onK3)\nPlease reach out to us if you have any issues. Subscribe to Phalcon to monitor\nattacks and take automatic actions:\n[https://blocksec.com/phalcon](https://t.co/5cGK9A1Xi3)"
+    }
+}

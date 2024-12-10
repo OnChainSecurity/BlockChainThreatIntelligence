@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1675854975078105088",
+        "timestamp": "2023-07-02 17:37:27",
+        "original_content": "PolyNetwork attack update. In Ethereum, we have identified three new attacker\naddresses that have profited 2.6 million USDT, 3.5 million COW, and 3 million\nUSDC respectively. All USDC and USDT have been swapped for 2929 Ether\n(currently worth ~$5.7M) and transferred to the addresses 0x3d66 and 0x2f6c.\n[https://metasleuth.io/result/eth/0x2f6c25e3c93c0fc7fdde2ece8e370ae152a57b82?source=177c31f6-83f9-4c5e-83e5-104c164350ec\u2026](https://t.co/WPTAtX2aUh)"
+    }
+}

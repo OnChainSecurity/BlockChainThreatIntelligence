@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1766274000534004187",
+        "timestamp": "2024-03-09 09:25:12",
+        "original_content": "ALERT! Our system has detected a series of attack transactions (probably\nlaunched by 4 different attackers) lasting for hours, targeting\n\n[@unizen_io](/unizen_io)\n\n, and resulting in a loss of over $2.6 million. Token approvals for the\ncorresponding contracts (e.g., 0xd3f64baa732061f8b3626ee44bab354f854877ac)\nneed to be revoked ASAP."
+    }
+}

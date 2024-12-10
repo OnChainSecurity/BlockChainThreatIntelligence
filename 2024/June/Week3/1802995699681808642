@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1802995699681808642",
+        "timestamp": "2024-06-18 00:00:00",
+        "original_content": "8/ Sovryn quickly fixed this by adding checks to ensure that the sender of the\nrequest matched the borrower or trader. This prevented any unauthorized use of\ncollateral, keeping funds safe."
+    }
+}

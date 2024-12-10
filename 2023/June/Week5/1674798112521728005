@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1674798112521728005",
+        "timestamp": "2023-06-30 00:00:00",
+        "original_content": "1/ Two migrations to get profit! The\n\n[@Biswap_Dex](/Biswap_Dex)\n\nmigrator has a vulnerability that can be exploited. The attacker used a real\ntoken pair but fake token0/1 to migrate the victim's token into the migrator's\ncontract (the first migration) and then used a fake token pair but real\ntoken0/1 to drain the contract (the second migration).[![](https://pbs.twimg.com/card_img/1846004923777122304/sSAAW0wL?format=jpg&name=360x360)](https://t.co/p6gwTMGFLz)\n"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1642971478458249227",
+        "timestamp": "2023-04-03 00:00:00",
+        "original_content": "1/\n\n[@samczsun](/samczsun)\n\nexplained that the attacker exploited the vulnerability in mev-boost-relay to\ndrain MEV bots. After digging into the attack, we have two more findings.\nFirst, the attacker used a honeypot tx to lure MEV bots. Second, the honeypot\ntx has a self-protected mechanism."
+    }
+}

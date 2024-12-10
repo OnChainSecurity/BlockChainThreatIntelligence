@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1805535265529725233",
+        "timestamp": "2024-06-25 00:00:00",
+        "original_content": "6/ Random number generation is tricky due to Solidity\u2019s deterministic nature.\nUse oracles like Chainlink VRF for secure and verifiable randomness. This\nprevents exploitation and ensures fairness in your contract\u2019s random-dependent\noperations."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1779465606242120148",
+        "timestamp": "2024-04-14 00:00:00",
+        "original_content": "Poor access controls were one of the most popular reasons for lost funds last\nyear. Therefore, there must be checks in place for all the functions.\n? For example, in our\nrecent audit for Bastion Wallet, we managed to prevent such vulnerability.\nThis protocol manages subscriptions and there\u2019s a specific flow of how they\nshould be created."
+    }
+}

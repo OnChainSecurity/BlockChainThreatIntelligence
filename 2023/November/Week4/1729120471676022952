@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1729120471676022952",
+        "timestamp": "2023-11-27 00:00:00",
+        "original_content": "?Thrilling update! We had\nan incredible time at ACM CCS 2023\n\n[@acm_ccs](/acm_ccs)\n\nin the picturesque city of Copenhagen!\n??At this premier\nconference within the realm of computer security, BlockSec revealed the\npioneering research on Ethereum phishing websites and introduced TxPhishScope,\nour innovative system that not only powers all of our products but also serves\n\n[@MetaMask](/MetaMask)\n\n,\n\n[@FortaNetwork](/FortaNetwork)\n\n, and\n\n[@etherscan](/etherscan)\n\n. ? Our team member, Bowen\nHe (\n\n[@bowen_os](/bowen_os)\n\n), captivated the audience with his compelling presentation:\"TxPhishScope:\nTowards Detecting and Understanding Transaction-based Phishing on Ethereum\",\ndetailing our year-long success in identifying and reporting 33,130 phishing\nwebsites and 3,981 phishing accounts.\n?\ufe0fStay\ntuned for more thrilling updates!\n?\n[#ACMCCS2023]\n[#BlockSec]"
+    }
+}

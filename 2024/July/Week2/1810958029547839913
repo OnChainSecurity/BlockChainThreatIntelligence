@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1810958029547839913",
+        "timestamp": "2024-07-10 00:00:00",
+        "original_content": "We have completed our two security reviews for\n\n[@pear_protocol](/pear_protocol)\n\n? Helping the team resolve\n38 issues: Critical/High: 7 Medium: 18 Low: 13 You can check the results by\nthe following links:\n?\nV0.9 link: [https://github.com/shieldify-security/audits-\nportfolio/blob/main/reports/PearLabs-V0.9-Security-\nReview.pdf\u2026](https://t.co/e2mj4O6aPr) V1 link: [https://github.com/shieldify-\nsecurity/audits-portfolio/blob/main/reports/PearLabs-V1-Security-\nReview.pdf\u2026](https://t.co/z9Uno3rjtf)"
+    }
+}

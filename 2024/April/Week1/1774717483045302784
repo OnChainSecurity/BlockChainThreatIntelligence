@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1774717483045302784",
+        "timestamp": "2024-04-01 00:00:00",
+        "original_content": "2/ The root cause of the attack was an inconsistency in the accounting\nprocess. Each attack comprised two separate transactions. Here we take the\nfollowing two TXs:\n[https://phalcon.blocksec.com/explorer/tx/bsc/0xf08b6d36dc6f650c030344b6307ae94528f77a01db11d1284ed966e7e44337d3and\u2026](https://t.co/P0i4uXpcVE)\n[https://phalcon.blocksec.com/explorer/tx/bsc/0x0434bf08a63d70b84fad033d38d8b645498016b3931af4d13f6c11e86848876bfor\u2026](https://t.co/HgP45N9fas)\nas an example. In the first transaction, the attacker established a \"margin\nposition\" within the OpenLevV1 contract using the marginTrade function."
+    }
+}

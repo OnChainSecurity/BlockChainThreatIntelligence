@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1691285787101569024",
+        "timestamp": "2023-08-15 07:25:46",
+        "original_content": "RocketSwap on BASE was exploited for 472\n[$ETH] (~$869k) due to the deployer's\nprivate key compromise, resulting in assets in the farm contracts being\ntransferred to the attacker's account. The project has now shut down the farm\ncontracts. The attacker has swapped the stolen assets into 472\n[$ETH], and bridged to Ethereum via the\nStargate bridge. The funds are currently held in the attacker's address and a\nuniswap V2 LoveRCKT pool he created."
+    }
+}

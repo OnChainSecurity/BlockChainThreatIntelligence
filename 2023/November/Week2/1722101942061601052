@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1722101942061601052",
+        "timestamp": "2023-11-08 00:00:00",
+        "original_content": "A bot was attacked due to the lack of access control of a public function\n0xf6ebebbb, which could be exploited to manipulate swaps in Curve pools. The\nloss was ~$2M. Hence the attacker could first abuse the flawed function to\npump the asset price (e.g., WETH) and then make a reverse swap to make a\nprofit.\n[https://explorer.phalcon.xyz/tx/eth/0xbc08860cd0a08289c41033bdc84b2bb2b0c54a51ceae59620ed9904384287a38\u2026](https://t.co/FW0GitQiNh)"
+    }
+}

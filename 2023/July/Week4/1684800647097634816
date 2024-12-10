@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1684800647097634816",
+        "timestamp": "2023-07-28 09:45:48",
+        "original_content": "Another rug pull network that requires in-depth investigation. 0xd1a9 (Rug\nPull Executor) increased the rug pull token balance out of thin air and used\nthem to drain the pools. The profits flowed into 0x5735 (Capital deployer),\nand were then distributed to specific rug pull deployers for deploying tokens\nand pools. It should be noted that we have not mapped out all the rug pulls\nsurrounding 0x5735. Furthermore, starting from the ultimate funding source of\nthese addresses, 0x0f21, other Capital deployers can also be found.\n[https://metasleuth.io/result/eth/0x21c639f40ae75602bbef49968ee9519e11c994e8808dfd9eefd7a93271eda025?source=5440951a-76fa-4ac9-9391-c411a96e2b00\u2026](https://t.co/J9YrpTIE3W)"
+    }
+}

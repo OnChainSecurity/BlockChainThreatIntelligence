@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1675424494058364928",
+        "timestamp": "2023-07-02 14:03:35",
+        "original_content": "Our initial analysis of the Poly Network\nattack?: On Ethereum, the\nattacker has utilized multiple addresses to withdraw funds from cross-chain\nbridge contracts. Many of these addresses have performed cross-chain\noperations two months ago. Each cross-chain protocol by the attacker was\ndirected towards a chain ID of 6. However, we have not found any activity by\nthe attacker on the chain ID 6. This implies that the attacker only needs to\nstake assets on the Ethereum to withdraw funds. In some instances, the\nattacker performed one lock operation but called verifyHeaderAndExecuteTx\nfunction twice to withdraw different funds. This suggests that the proofs can\nbe forged."
+    }
+}

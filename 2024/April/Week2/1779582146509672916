@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1779582146509672916",
+        "timestamp": "2024-04-12 04:27:40",
+        "original_content": "?? ??? ??? ??????. Great answer by\n\n[@Xerath2333](/Xerath2333)\n\nexplaining how a DOS can occur.\n[https://x.com/Xerath2333/status/1779070116367614281\u2026](/Xerath2333/status/1779070116367614281)\nPrior to solidity version 0.8.0, there was no such check in place. However,\nafter version 0.8.0, a validation process was introduced to ensure that the\nreturn value adheres to the limits of the interface. Due to a mismatch in the\ninterface, any user can send in 3 Wei or more ether, leading to a complete\ndenial of service for the function."
+    }
+}

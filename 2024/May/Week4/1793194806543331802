@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1793194806543331802",
+        "timestamp": "2024-05-22 00:00:00",
+        "original_content": "Unfortunately, after our yesterday's exploits digest,\n\n[@GoGalaGames](/GoGalaGames)\n\nhas been hacked for $212M, which is several times more than the entire April.\nThe problem was in inappropriate access control. The Mint function in the Gala\nToken contract has a Minter Role check and was exploited by one of the\nminters. Apparently, they've just called `mint()` function with the amount of\n5B [$GALA]. See the transaction hash:\n[https://etherscan.io/tx/0xa6d90abe17d17743a9cecab84bcefb0fd0bbfa0c61bba60fd2f680b0a2f077fe?s=09\u2026](https://t.co/YxLk7PV1CT)\nAttackers address:\n[https://etherscan.io/address/0xe2ca471124b124831e231fb835778840ad100f97#internaltx\u2026](https://t.co/WXhAs8a6M4)"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1678302683676164096",
+        "timestamp": "2023-07-10 15:18:32",
+        "original_content": "5/ Since the contract will check whether the funds are normal after\ntransferring, the attacker needs to re-enter the leveraged contract to perform\nliquidation to bypass the check."
+    }
+}

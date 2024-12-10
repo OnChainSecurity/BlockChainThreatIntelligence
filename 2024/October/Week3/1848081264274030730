@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1848081264274030730",
+        "timestamp": "2024-10-21 00:00:00",
+        "original_content": "Can you spot the critical vulnerability in this TokenSwapper contract? This\nbug could allow an attacker to manipulate token swaps and potentially drain\nfunds. Comment down in which recent Sherlock contest this bug was reported."
+    }
+}

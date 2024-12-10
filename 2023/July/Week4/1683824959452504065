@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1683824959452504065",
+        "timestamp": "2023-07-25 00:00:00",
+        "original_content": "We are assisting\n\n[@Era_Lend](/Era_Lend)\n\nto this issue, and the root cause has been identified. The total loss is\n~$3.4M. Specifically, this is a read-only re-entrancy attack. Another attack\ntx is:\n[https://explorer.zksync.io/tx/0x7ac4da1ea1b0903dfabda56f713ea5e4a960a3fc34467a844d037f86ee8bfe98\u2026](https://t.co/H4A2suVLai)\nAttacker address: 0xf1D076c9Be4533086f967e14EE6aFf204D5ECE7a"
+    }
+}

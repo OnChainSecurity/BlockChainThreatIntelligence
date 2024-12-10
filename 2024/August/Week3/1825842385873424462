@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1825842385873424462",
+        "timestamp": "2024-08-20 00:00:00",
+        "original_content": "If you're doing an audit of Liquid Staking protocol you must read:\n?\n?1\\. Staking withdrawals\n?:\n[https://ethereum.org/en/staking/withdrawals/\u2026](https://t.co/tU2pLYK70f)\n?2\\. How Do Ethereum\nWithdrawals Work ?:\n[https://youtu.be/RwwU3P9n3uo?si=QV04aMHQ7LRGcxoB\u2026](https://t.co/fh2KOQIPGQ)\n?3\\. EIP-4895: Beacon chain\npush withdrawals as operations\n?:\n[https://eips.ethereum.org/EIPS/eip-4895](https://t.co/akS9HNBBgp)\n?4\\. Ethereum Distributed\nValidator Specification ![?](https://abs-0.twimg.com/emoji/v2/svg/1f517.svg):\n[https://github.com/ethereum/distributed-validator-\nspecs\u2026](https://t.co/v9eGigyluM)\n![?](https://abs-0.twimg.com/emoji/v2/svg/1f4cd.svg)5\\. Maximal extractable\nvalue (MEV) ![?](https://abs-0.twimg.com/emoji/v2/svg/1f517.svg):\n[https://ethereum.org/en/developers/docs/mev/\u2026](https://t.co/oZydC1oHuA)[](https://t.co/Oi3ap6MGu2)\n"
+    }
+}

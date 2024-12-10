@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/pcaversaccio/status/1848303346421047743",
+        "timestamp": "2024-10-21 00:00:00",
+        "original_content": "In light of the recent incident at Radiant and the clear challenges of\nverifying multisig transactions on a Ledger device, I've built a simple Bash\nscript designed to simplify the process. This script generates the domain,\nmessage, and Safe transaction hashes, making it easier to cross-check them\nwith the values displayed on your Ledger hardware wallet. All you need to\nprovide are the network name, multisig address, and transaction nonce. It\nsupports all Safe networks, and I hope it will serve as a useful tool to\ntemporarily ease the burden of blind signing verification for multisig\ntransactions. Eventually, make sure to check out the trust assumptions laid\nout in the README for this script. [https://github.com/pcaversaccio/safe-tx-\nhashes-util\u2026](https://t.co/ry3Iz8aIRb)[![](https://pbs.twimg.com/card_img/1848308508732579840/GKqvNMm-?format=png&name=240x240)](https://t.co/wv2lanmTpS)\n"
+    }
+}

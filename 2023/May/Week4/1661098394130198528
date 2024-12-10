@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1661098394130198528",
+        "timestamp": "2023-05-24 00:00:00",
+        "original_content": "The root cause is that in _transfer(), the burnAmount is calculated from\nSellAmount, but the issue is that SellAmount is not updated!"
+    }
+}

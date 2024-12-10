@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1678596733503406081",
+        "timestamp": "2023-07-11 00:00:00",
+        "original_content": "(1/2) BankContractBug's addBanks function exhibits an incorrect usage of the\nreturn statement within a inner loop iteration, resulting in unintended\ntermination of the loop. (2/2) Mitigation: Use break instead of return"
+    }
+}

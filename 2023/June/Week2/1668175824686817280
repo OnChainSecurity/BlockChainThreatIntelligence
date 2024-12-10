@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1668175824686817280",
+        "timestamp": "2023-06-12 00:00:00",
+        "original_content": "7) Same bug found in blueberry, reported on sherlock. BalancerPairOracle can\nbe manipulated using read-only reentrancy"
+    }
+}

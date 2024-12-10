@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1784846931379749164",
+        "timestamp": "2024-04-29 00:00:00",
+        "original_content": "Here are some threat models to look for in an EIP-3074 protocol: 1\\. Signing a\nmalicious tx \\- EOA \\- Smart Contract Wallet \\- EIP-3074 2\\. Compromised\ncomputer \\- EOA (hardware wallet) \\- EOA (hot wallet 3\\. Smart Contract Bug[![EIP-3074 Threat Models -\nHackMD](https://pbs.twimg.com/card_img/1846269394587938816/xiJBIB9C?format=png&name=240x240)](https://t.co/sAZeIQUDAH)\n"
+    }
+}

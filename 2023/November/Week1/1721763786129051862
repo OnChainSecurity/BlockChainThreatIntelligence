@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1721763786129051862",
+        "timestamp": "2023-11-07 00:00:00",
+        "original_content": ".\n\n[@TrustPad](/TrustPad)\n\nprotocol was exploited due to several design flaws in the staking logic, i.e.,\nharvesting pending reward by manipulating lock period via the untrusted\nexternal call."
+    }
+}

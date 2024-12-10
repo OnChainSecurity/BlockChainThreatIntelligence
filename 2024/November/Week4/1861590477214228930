@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1861590477214228930",
+        "timestamp": "2024-11-25 00:00:00",
+        "original_content": "Can you identify the high-severity bug from a recent contest? The token is\nstETH. Even though you specify _amount, the actual amount transferred will\ndiffer, and stETH is not a fee-on-transfer token. Hint: Look into how the\nstETH transfer method works."
+    }
+}

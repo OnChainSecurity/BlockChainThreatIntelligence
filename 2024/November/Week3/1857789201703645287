@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1857789201703645287",
+        "timestamp": "2024-11-16 00:00:00",
+        "original_content": "The earliest transfer time should be 2024-11-16 04:47:23. There are\ncharacteristics of multi-threaded token transfers, it is likely the same\nhacker. It is speculated that the hacker conducted the transfers based on the\nvictim's token balance, ranked by value in descending order."
+    }
+}

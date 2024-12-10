@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1706933174708883829",
+        "timestamp": "2023-09-27 15:25:56",
+        "original_content": "ERC-7520 Proposal by Beosin: zk-SNARK Public Inputs Overflow Protection\nPreviously, a common vulnerability was discovered by Beosin: if the input\nvalue range is not properly checked in the verify function of ZKP projects,\nattackers can forge multiple fake inputs to pass verification and cause\ndouble-spending attacks. However, Beosin researchers found there is not yet a\nunified solution, that's why Beosin proposed EIP-7520 to mitigate these\nsecurity risks. Read our proposal:\n[https://beosin.com/resources/erc-7520-proposal-zk-snark-public-inputs-\noverflow?lang=en-US\u2026](https://t.co/PdFLMGlKpi)\n?Welcome to discuss the\nEIP-7520 with us: [https://ethereum-magicians.org/t/eip-7520-zk-snark-public-\ninputs-overflow-protection/15618\u2026](https://t.co/M0bFtkf0tO)"
+    }
+}

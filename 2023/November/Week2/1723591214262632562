@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1723591214262632562",
+        "timestamp": "2023-11-12 00:00:00",
+        "original_content": "Our system detected a group of unverified contracts (possibly pools or MEV\nbots) created by 0x3904ef that were attacked, resulting in profits of ~$150K.\nThe root cause was a flawed function (0xe7d25975) that was shared by all the\nvulnerable contracts. This function could be used to set _removeAdmin without\nproper access control. By abusing this, the attacker was able to harvest all\ntokens from the vulnerable contracts. Let's take one such vulnerable contract,\n0xa24734, as an example. The attacker first triggered the 0xe7d25975 function\nin the bot to become the _removeAdmin. The attacker then withdrew all\nliquidity (~100,406 RAIL tokens) via the 0x90fb9dca function and swapped them\nfor roughly 13 ETH. Attack TXs:\n[https://explorer.phalcon.xyz/tx/eth/0x53eeab4447db331dbb47f93fd58a95d6faa230d559acde0687f8b5f5829e7a45\u2026](https://t.co/XheI1xcu1Y)\n[https://explorer.phalcon.xyz/tx/eth/0x573199feba92ab6577847f2baa634ec84845d96474af31ca81a6b82ab3a4178f\u2026](https://t.co/6KcL5OMqoJ)\n[https://explorer.phalcon.xyz/tx/eth/0xb56e984a866afed36ccf28c2a659845f5529d7de3f609d67c16c20e337c106fc\u2026](https://t.co/2nnjKSbIOJ)\n[https://explorer.phalcon.xyz/tx/eth/0xdfbfb0387129541c65934e71deee404ea70de6629258ae49d9f24bcf6e866ea6\u2026](https://t.co/85ueRdaNSZ)"
+    }
+}

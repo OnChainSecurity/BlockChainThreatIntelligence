@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://arxiv.org/abs/2203.12363",
+        "timestamp": "2023-03-23 00:00:00",
+        "original_content": "Ethereum Fraud Detection with Heterogeneous Graph Neural Networks\nHiroki Kanezashi,Toyotaro Suzumura,Xin Liu,Takahiro Hirofuchi\nWhile transactions with cryptocurrencies such as Ethereum are becoming more prevalent, fraud and other criminal transactions are not uncommon. Graph analysis algorithms and machine learning techniques detect suspicious transactions that lead to phishing in large transaction networks. Many graph neural network (GNN) models have been proposed to apply deep learning techniques to graph structures. Although there is research on phishing detection using GNN models in the Ethereum transaction network, models that address the scale of the number of vertices and edges and the imbalance of labels have not yet been studied. In this paper, we compared the model performance of GNN models on the actual Ethereum transaction network dataset and phishing reported label data to exhaustively compare and verify which GNN models and hyperparameters produce the best accuracy. Specifically, we evaluated the model performance of representative homogeneous GNN models which consider single-type nodes and edges and heterogeneous GNN models which support different types of nodes and edges. We showed that heterogeneous models had better model performance than homogeneous models. In particular, the RGCN model achieved the best performance in the overall metrics."
+    }
+}

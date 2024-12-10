@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1682361535296057344",
+        "timestamp": "2023-07-21 19:45:59",
+        "original_content": ".\n\n[@ConicFinance](/ConicFinance)\n\nwas exploited and the exploiter made $3.26M. All 1727 Ether was sent to\n0x3d32c (Conic Finance Exploiter 2) and remains there. The initial funds came\nfrom\n\n[@TornadoCash](/TornadoCash)\n\n. It is worth noting that the exploiter has also exploited other tokens in the\npast two days. See detail:\n[https://metasleuth.io/result/eth/0x8D67db0b205E32A5Dd96145F022Fa18Aae7DC8Aa?source=4ff57ccb-5411-4bfa-a48b-3de85248cb75\u2026](https://t.co/IVNvL7NhP3)"
+    }
+}

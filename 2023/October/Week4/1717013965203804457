@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1717013965203804457",
+        "timestamp": "2023-10-25 09:50:52",
+        "original_content": "?The 0x9239127f function in\nMaestro Router 2 contract has an external call vulnerability. Currently the\nattacker has stolen over 280 [$ETH].\nVulnerable contract: 0x80a64c6D7f12C47B7c66c5B4E20E72bc1FCd5d9e Attackers can\npass in a token address, fill in the called function as transferfrom, with\nparameters as the victim's address and their own address, so they can transfer\nthe victim's tokens to their own address through transferfrom. Meastro has\nissued a statement that the issue has been fixed."
+    }
+}

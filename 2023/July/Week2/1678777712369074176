@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1678777712369074176",
+        "timestamp": "2023-07-11 00:00:00",
+        "original_content": "4/6 By 16:10 UTC, our tool swiftly recovered the bot's private key in just 20\nmin. We promptly transferred the funds to a secure account, as per our\nstandard rescue procedure. However, we faced a hurdle: the funds were in the\ncontract deployed by the bot, not its EOA account."
+    }
+}

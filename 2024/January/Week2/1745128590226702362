@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1745128590226702362",
+        "timestamp": "2024-01-11 00:00:00",
+        "original_content": "6/ Front-running Risks: AA systems can be vulnerable to front-running attacks.\nMeasures against such attacks include utilizing MEV-boost or ensuring Bundlers\nare block miners to control transaction ordering."
+    }
+}

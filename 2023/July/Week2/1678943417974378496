@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1678943417974378496",
+        "timestamp": "2023-07-12 09:44:38",
+        "original_content": "Platypus was exploited for ~$51k. The root cause is an issue with the\nliquidity conversion calculation for LP-USDC, and the quantity calculation of\nUSDC.e is too large when swapping USDC for USDC.e. Tx:\n[https://snowtrace.io/tx/0x5e785b87e62252b1fff3283ce260d74cb5b3efc4588d7a0297f505482cbab388\u2026](https://t.co/yv7p6URKNX)\nPlatypus was previously attacked for $8.5M in Feb, 2023."
+    }
+}

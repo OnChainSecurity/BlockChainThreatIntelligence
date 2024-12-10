@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1658000784943124480",
+        "timestamp": "2023-05-15 14:46:05",
+        "original_content": "[$land] was exploited with a loss of\n149,616 [$BUSD] in tx:\n[https://bscscan.com/tx/0xe4db1550e3aa78a05e93bfd8fbe21b6eba5cce50dc06688949ab479ebed18048\u2026](https://t.co/9KCPXZ4IdU)\nThe root cause is the lack of permission control on mint."
+    }
+}

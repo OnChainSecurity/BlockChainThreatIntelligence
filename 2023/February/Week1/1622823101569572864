@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1622823101569572864",
+        "timestamp": "2023-02-07 00:00:00",
+        "original_content": "1/ Looks like 0x55a37a2e5e5973510ac9d9c723aec213fa161919 was added as a\n\"solver\" of\n\n[@CoWSwap](/CoWSwap)\n\nby the multisig in this tx:\n[https://phalcon.blocksec.com/tx/eth/0x7374b8157267b0c6d8cc05e812e68ddff045c5bdb5ca915c32193e9f752d5947\u2026](https://t.co/7jXhh2vBKh)\nThen 0x55a invokes the tx to approve DAI to SwapGuard\n[https://phalcon.blocksec.com/tx/eth/0x92f906bce94bab417cccc87ae046448d7fb8c2c0350b7ed911545577acb3bfc1\u2026](https://t.co/VjlfXHn5GF)"
+    }
+}

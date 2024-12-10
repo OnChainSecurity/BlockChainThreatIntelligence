@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1659618729997795328",
+        "timestamp": "2023-05-20 00:00:00",
+        "original_content": "A classic issue arising from contract upgrades, which was tough to test in the\npast, but now can easily be spotted with Phalcon Fork! Issues like these can\nbe identified by forking your own test chain from the mainnet using Phalcon\nFork, adjusting the time, executing the upgrade tx, and then running your test\ncases."
+    }
+}

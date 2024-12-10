@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1722920106051907974",
+        "timestamp": "2023-11-10 00:00:00",
+        "original_content": "??Meet\n\n[@BlockSecTeam](/BlockSecTeam)\n\nin Istanbul! Nov.13th, Our CEO\n\n[@yajinzhou](/yajinzhou)\n\nwill present our work finding blockchain VM flaws using Differential Fuzzing\nat [#SecureumTrustX] This is the\nsecret weapon that helped us identify many critical EVM chains' bugs and gain\nhigh-value bounties."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1760843882227798355",
+        "timestamp": "2024-02-23 09:47:51",
+        "original_content": "Two addresses on\n\n[@Ronin_Network](/Ronin_Network)\n\nsuffered a possible private key compromise, resulting in multiple tokens being\ntransferred to 0x39f817976c51a91b60145febad81067e69713105. The total loss is\nover $10M, which was bridged to Ethereum and then sent to Tornado Cash. Two\ncompromised wallets: 0x121ad060686848b196df8ca5c5e24722efe57115; jihoz.ron\n(0xa09a9b6f90ab23fcdcd6c3d087c1dfb65dddfb05)"
+    }
+}

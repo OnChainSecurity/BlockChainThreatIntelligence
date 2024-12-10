@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1761363000416502086",
+        "timestamp": "2024-02-24 00:00:00",
+        "original_content": "Common Attack Vectors/Smart Contract Vulnerabilities\n? 1/5 \\- Reentrancy \\-\nReentrancy via Modifier \\- Read-Only Reentrancy \\- Cross-Function Reentrancy\n\\- Cross-Contract Reentrancy \\- Front-Running \\- Front-Running - Unprotected\nwithdraw \\- Front-Running - Sandwich attack"
+    }
+}

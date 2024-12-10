@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1719697640827539459",
+        "timestamp": "2023-11-01 00:00:00",
+        "original_content": "?Security Considerations\nfor Compound Fork protocols: 1\\. Be careful for extreme situations, e.g.\nmarket initialization and market illiquidity. 2\\. Markets should reserve a\nsmall amount of shares upon market initialization to prevent manipulation. 3\\.\nConduct strict auditing for the proposals to prevent malicious proposals. 4\\.\nSetup proper monitoring and block system for potential attacks."
+    }
+}

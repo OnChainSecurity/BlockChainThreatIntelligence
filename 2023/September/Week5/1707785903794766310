@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1707785903794766310",
+        "timestamp": "2023-09-29 00:00:00",
+        "original_content": "1/ We are glad that the vulnerable xRAM Token of\n\n[@RamsesExchange](/RamsesExchange)\n\nhas been upgraded. We identified the vulnerability several hours after the\ncontract was deployed and contacted the team to disclose it. The team fixed\nthe vulnerability, and no assets were affected."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1669288074784718849",
+        "timestamp": "2023-06-15 18:17:45",
+        "original_content": "$DEPUSDT and $LEVUSDC were exploited by the attacker:\n[https://etherscan.io/address/0x7021c1b142eb634fa0749cda270c7aff74dc3b7f\u2026](https://t.co/IFueprowiT)\nThe total loss is 69,961 [$USDT] and\n36,142 [$USDC]. The attacker can transfer\nfunds from arbitrary authorization via approveToken."
+    }
+}

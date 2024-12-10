@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1697195406323859624",
+        "timestamp": "2023-08-31 18:31:31",
+        "original_content": "[#MetaSleuthTips]\n? Edge List Panel Click on\nan edge to expand the Edge List panel and view all obtained asset transfers\nbetween nodes. The panel highlights selected edges, while the canvas mirrors\nyour selection."
+    }
+}

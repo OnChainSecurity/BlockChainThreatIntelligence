@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1799536953072992402",
+        "timestamp": "2024-06-07 02:11:34",
+        "original_content": "The overflow in this case is intentional, but compiler versions above 0.8 do\nnot permit it, which introduces the bug. The best and the rare answer is\nalready in the comments. Can you come up with an even better answer? You have\n24 hours."
+    }
+}

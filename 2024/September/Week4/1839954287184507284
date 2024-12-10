@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1839954287184507284",
+        "timestamp": "2024-09-28 17:04:21",
+        "original_content": "[#CertiKInsight]\n? Recently, EOA\n0xaa1582084c4f588ef9be86f5ea1a919f86a3ee57 was drained of 12,083 spWETH\n(~$32M). 10k spWETH (~$26M) were sent to address 0x471c, then transferred to 4\nwallets: \\- 0x105c = 1.75K ETH \\- 0x278d = 2.613K ETH \\- 0x408d = 3.73K ETH \\-\n0xfaf2 = 1.865K ETH"
+    }
+}

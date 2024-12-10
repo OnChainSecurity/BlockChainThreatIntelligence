@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1820914091801686110",
+        "timestamp": "2024-08-01 16:41:32",
+        "original_content": "Breakdown Part 2: Another bug in the following snippet that most people were\nnot able to guess is that Lido has a minimum and maximum withdrawal limit.\nIssues are: 1\\. The code snippet doesn't let the user break down the\nwithdrawal into multiple chunks, hence causing a DOS in case the deposit is\ngreater than the maximum withdrawal limit. 2\\. The deposit function has no\nminimum deposit check, hence a user can deposit a small amount that will be\npermanently stuck."
+    }
+}

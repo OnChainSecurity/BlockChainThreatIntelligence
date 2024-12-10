@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1753296923451125912",
+        "timestamp": "2024-02-02 00:00:00",
+        "original_content": "Recently, our system has consistently detected attacks targeting smart\ncontracts that have been inactive for months. The losses from such attacks\nhave been relatively small, typically under $10K or $50K. Below is the latest\none probably due to the lack of access control."
+    }
+}

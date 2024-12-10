@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1861327738608460032",
+        "timestamp": "2024-11-21 00:00:00",
+        "original_content": "Following a conversation with the\n[#FireBlocks] team, here is their\ncomment on the [#CoinPoker] incident:\n\"There was absolutely no weakness in the Fireblocks system to lead to this\nhack. CoinPoker's configuration of the account, which relied on another\nprovider for its deposits and reconciliation process, left them vulnerable to\na fake deposit attack. This allowed the attacker to trick the payments\ngateway, gain substantial unbacked balance on their CoinPoker account, and\nwithdraw the funds.\" We will publish a new version of our analysis with new\ninteresting information regarding this incident. Stay tuned!"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1669239913655697408",
+        "timestamp": "2023-06-15 15:06:23",
+        "original_content": "?MetaSleuth supports multi-\nchain analysis, and we have parsed some cross-chain transactions on third-\nparty bridges on 7 EVM-compatible chains. The supported cross-chain bridges\ninclude Across, Multichain, Celer, Hop, Ren, Stargate, Synapse, and Wormhole.\n[#CrossChain]\n[#Bridge]"
+    }
+}

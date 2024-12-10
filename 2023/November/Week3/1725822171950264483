@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1725822171950264483",
+        "timestamp": "2023-11-18 00:00:00",
+        "original_content": "3/ \\- If there's the possibility for partial liquidation, does the burning\nfunctionality account for that? \\- Can the liquidator receive less than\nexpected? \\- Can the liquidator liquidate more than the liquidated amount? \\-\nIf repayments are paused, are liquidations paused too?"
+    }
+}

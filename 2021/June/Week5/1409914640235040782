@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xPaladinSec/status/1409914640235040782",
+        "timestamp": "2021-06-30 00:00:00",
+        "original_content": "4) When the time to rug came, the admin called the mint() function to generate\na huge amount of tokens and dumped them."
+    }
+}

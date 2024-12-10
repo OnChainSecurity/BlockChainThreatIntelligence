@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1847246656061739184",
+        "timestamp": "2024-10-18 00:00:00",
+        "original_content": "?Our\nsystem has flagged multiple suspicous transactions involving\n\n[@tapioca_dao](/tapioca_dao)\n\n! It might be possible that\n\n[@tapioca_dao](/tapioca_dao)\n\n's deployer address has been compromised and owner of the vesting contract has\nbeen changed! New owner has withdrawn around more than 21M\n[$TAP] token using emergency rescue!\nSuspicous address has swapped all [$TAP]\ntoken for 591 [$ETH] which led 93% drop to\n[$TAP] token. Suspicous address then\nbridged funds to [$BNB] chain using\nstargate! Address on [$BNB] has around\n$4.7M worth of BSC-USD and USDC! Want to secure your assets and prevent future\nattacks? Book a Demo today! [https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZUVB1)\n[#CyversAlert]"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1628319536117153794",
+        "timestamp": "2023-02-22 00:00:00",
+        "original_content": "1/ @fi_dynamic [$DYNA] on\n[#BSC] was hacked\n([https://bscscan.com/tx/0xc09678fec49c643a30fc8e4dec36d0507dae7e9123c270e1f073d335deab6cf0\u2026](https://t.co/n1UwiHb9sK))\nand the loss is ~73 BNB. The root cause is that the StakingDYNA contract\n([https://bscscan.com/address/0xa7B5eabC3Ee82c585f5F4ccC26b81c3Bd62Ff3a9\u2026](https://t.co/uB2l6cTqqV))\ndoes not handle the deposit time correctly."
+    }
+}

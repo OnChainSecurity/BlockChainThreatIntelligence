@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1812778085806207132",
+        "timestamp": "2024-07-15 00:00:00",
+        "original_content": "One of the reasons for vulnerabilities can be developers just forgetting to\nimplement a method or call it at an appropriate place. For example, during the\nPearLabs security review, we discovered and successfully mitigated such an\nissue. While closing the position there\u2019s a fee that has to be transferred\nfrom one contract to another. The problem is that the function to transfer\nthem wasn\u2019t called, while the mapping for the user\u2019s fee was incremented.\nTherefore, users would withdraw tokens that weren\u2019t in the contract allowing\nmalicious actors to drain the funds. Important to note here, that such\nvulnerabilities when there\u2019s something forgotten/missed are often found after\nan additional walk through the code when you already understand how it works.\nThe complete report for PearLabs can be found here: Link:\n[https://github.com/shieldify-security/audits-\nportfolio/blob/main/reports/PearLabs-V0.9-Security-\nReview.pdf\u2026](https://t.co/e2mj4O6aPr) Ultimately, we aim to emphasize that\nthis concern has been effectively mitigated and extend our gratitude to the\nPearLabs team for their courteousness and prompt responses. Working with them\nwas a delight as they readily assisted us with any queries regarding the code\nand swiftly addressed and resolved all issues with great efficiency."
+    }
+}

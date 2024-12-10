@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1674611474348773376",
+        "timestamp": "2023-06-30 00:00:00",
+        "original_content": "(2/2) Mitigation: latestAnswer function is deprecated. Instead, use the\nlatestRoundData function to retrieve the price and make sure to add checks for\nstale data."
+    }
+}

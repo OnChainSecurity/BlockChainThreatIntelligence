@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/shoucccc/status/1815981585637990899",
+        "timestamp": "2024-07-24 00:00:00",
+        "original_content": "Spectra was hacked => $550K loss The root cause is an arbitrary call in their\nrouter contract, which allows the attacker to drain all tokens approved to\nthat contract.\n[https://app.blocksec.com/explorer/tx/eth/0x491cf8b2a5753fdbf3096b42e0a16bc109b957dc112d6537b1ed306e483d0744?line=7\u2026](https://t.co/4PTqnp1s1Y)"
+    }
+}

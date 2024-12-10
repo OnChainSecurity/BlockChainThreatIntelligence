@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/00xSEV/status/1808793119959495173",
+        "timestamp": "2024-07-04 17:21:00",
+        "original_content": "M at\n\n[@exactlyprotocol](/ExactlyProtocol)\n\non\n\n[@sherlockdefi](/sherlockdefi)\n\n: \\- Bug: if collateralAsset == borrowAsset and vault.liquidAssets <\npaymentForLiquidator => can't liquidate \\- Tip: check logic when collateral ==\nliability and no liquid funds are left [https://github.com/sherlock-\naudit/2024-04-interest-rate-model-\njudging/issues/162\u2026](https://t.co/Sg402CMTQ9) By\n\n[@0xSimao](/0xSimao)[](https://t.co/Sg402CMTQ9)\n"
+    }
+}

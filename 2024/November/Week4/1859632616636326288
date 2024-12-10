@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1859632616636326288",
+        "timestamp": "2024-11-22 00:00:00",
+        "original_content": "Rust/Solana Reinitialization Attack \\- Resources:\n? Reinitialization Attack\nby\n\n[@solana](/solana)\n\n:\n?[https://solana.com/developers/courses/program-\nsecurity/reinitialization-attacks\u2026](https://t.co/VTeEiniJZI)\n``Init_if_needed`` in Anchor and the Reinitialization Attack by\n\n[@RareSkills_io](/RareSkills_io)\n\n:\n?[https://rareskills.io/post/init-\nif-needed-anchor\u2026](https://t.co/WV9exaeDqF)"
+    }
+}

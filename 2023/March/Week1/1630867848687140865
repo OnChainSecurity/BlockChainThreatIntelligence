@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1630867848687140865",
+        "timestamp": "2023-03-01 00:00:00",
+        "original_content": "6/ So the Oasis multisig wallet first disables the delayed execution of the\nOasis Service Registry contract and changes the configuration in the Oasis\nService Registry contract to set the AUTOMATION_EXECUTOR role as itself\n(multisig wallet). The change is immediately effective.[](https://t.co/tIJbG2NDZq)\n"
+    }
+}

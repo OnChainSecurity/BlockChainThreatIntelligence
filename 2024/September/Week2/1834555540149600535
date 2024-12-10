@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1834555540149600535",
+        "timestamp": "2024-09-12 00:00:00",
+        "original_content": "The High Severity Finding is: Title: Failed withdrawals from\nUSD.processWithdrawals() will be lost forever Summary: When withdrawals fail\ninside USD.processWithdrawals() they are permanently passed over and cannot be\nretried. The result is that any failed withdrawal will be lost forever. If the\ncall to withdrawal.usr fails the contract will simply emit an event and\ncontinue on with its cycle. Since there is no way to retry withdrawals, these\nfunds will be permanently lost. Impact: Withdrawals that fail will be\npermanently locked. Recommendation: Cache failed withdrawals and allow them to\nbe retried or simply send USD to the user if it fails."
+    }
+}

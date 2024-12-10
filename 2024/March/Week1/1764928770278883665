@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1764928770278883665",
+        "timestamp": "2024-03-05 00:00:00",
+        "original_content": "Shieldify team completed another audit of ERC-4337, Account Abstraction. Two\nadditional researchers from Shieldify's newly formed fuzzing team conducted\nFuzz tests, leveraging Halmos and Echidna\n\u2705 Findings Summary:\nCritical/High issues: 2 Medium issues: 3 Low issues: 5"
+    }
+}

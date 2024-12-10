@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1659482292614725635",
+        "timestamp": "2023-05-19 16:53:03",
+        "original_content": "3/ The backdoor function add() will transfer LP tokens from the contract to\nthe _devadd address. By querying the _devadd address, it will return the\n\u2018Swaprum:Deployer\u2019 address."
+    }
+}

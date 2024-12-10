@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1691751481484194049",
+        "timestamp": "2023-08-16 17:59:19",
+        "original_content": "SwirlLend on [#BASE] and\n[#Linea] rug pulled, resulting in over\n$500,000 in losses. The project owning privileged addresses borrowed over 230\n[$ETH] from the lending pools, and also\nswapped out 47 [$ETH] from the trading\npools using [$SWI] tokens. The profits\nwere bridged to Ethereum via Stargate. Currently over 250\n[$ETH] was deposited into Tornado Cash."
+    }
+}

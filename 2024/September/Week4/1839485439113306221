@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1839485439113306221",
+        "timestamp": "2024-09-27 10:01:19",
+        "original_content": "A security exploit of\n\n[@Bedrock_DeFi](/Bedrock_DeFi)\n\ncontract resulted in a loss of approximately $1.7 million. The root cause of\nthe attack is that the mint function in the project will cast the staked ETH\ninto the same number of uniBTC. The price difference is not taken into\naccount."
+    }
+}

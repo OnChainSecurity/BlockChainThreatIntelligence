@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/bax1337/status/1808180351690314109",
+        "timestamp": "2024-07-03 00:46:04",
+        "original_content": "Address poisoners have started sending real money in order to evade Etherscan\nand some wallets' blocking measures. Some users are baiting the address\npoisoners for profit. The normal flow is: 1\\. Victim address with large\nUSDC/USDT balance sends a test transaction (usually $1, $5, or $10). 2\\.\nAddress poisoner generates vanity address similar to the address that the\nvictim address sent funds to. 3\\. Poisoner transfers USDC/USDT to vanity\naddress, and then on to victim address. 4\\. Victim accidentally copy and\npastes the incoming poisoner address, then sends full amount to it. Antidoters\ncan bait this simply by sending a $10 test transaction from an address with a\nlarge balance. In the example below, an antidoter sent out 3x$10 and received\n$90 from poisoners. Poisoners started setting limits to how many poison\ntransactions they will send to the same address, but antidoters can easily\nevade this by transferring funds to a new address. Example poisoner addresses:\n0x05c7f56228d433f6af799a49d509d4cb1ebc110e\n0x0ceacf797861133ca9a64b5a80f8abe05d6efcf2"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xPaladinSec/status/1774080614939103676",
+        "timestamp": "2024-03-30 00:00:00",
+        "original_content": "The issue was within the buy function where the balance of ETH in the contract\nwas used to account for the fees when computing the corresponding token\namount."
+    }
+}

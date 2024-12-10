@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1668175800989016064",
+        "timestamp": "2023-06-12 00:00:00",
+        "original_content": "[@SturdyFinance](/SturdyFinance)\n\nhacked today, lost ~442 ETH The root caseus: Get LP Token Price() _get()\nincorrectly in SturdyFinance. Exploit: Price manipulation over Balancer's\nread-only reentrancy and manipulation of the price of B-stETH-STABLE\n?Analysis\n[https://explorer.phalcon.xyz/tx/eth/0xeb87ebc0a18aca7d2a9ffcabf61aa69c9e8d3c6efade9e2303f8857717fb9eb7?line=420&debugLine=420\u2026](https://t.co/C5OytJTmFI)"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1681869807698984961",
+        "timestamp": "2023-07-20 00:00:00",
+        "original_content": "?A series of similar tokens\non BSC have been attacked (e.g.,\n[$FFIST]), with total losses amounting\nto ~$110k. The root cause is a vulnerability in the random airdropAddress\ngenerator. Attackers manipulate the _airdrop() to set the balance of the pair\naddress to 1. Then the attacker can use a small amount of tokens to drain the\npair. Here is one of the attack tx:\n[https://explorer.phalcon.xyz/tx/bsc/0x199c4b88cab6b4b495b9d91af98e746811dd8f82f43117c48205e6332db9f0e0?line=45&debugLine=45\u2026](https://t.co/YKkIYgmiHt)"
+    }
+}

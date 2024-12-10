@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1707308379755147677",
+        "timestamp": "2023-09-28 16:16:52",
+        "original_content": "[#MetaSleuthTutorials]\nAdvanced Analysis: Lightweight Fund Tracking Track outgoing funds from an\naddress using MetaSleuth. See a real example: tracking the phishing victim,\nryanwould.eth (0xc6D330E5B7Deb31824B837Aa77771178bD8e6713), to demonstrate\nthis feature."
+    }
+}

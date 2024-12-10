@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1803267300734230726",
+        "timestamp": "2024-06-19 00:00:00",
+        "original_content": "ALERT! Our system has detected a series of suspicious transactions targeting\nan unknown contract (0x80df) on BSC, resulting in a loss of ~$60K. These\ntransactions began a few hours ago and lasted for 20 minutes. Subscribe to\nBlockSec Phalcon today to get alerted in realtime and take automatic actions\nto protect your assets.\n[https://blocksec.com/phalcon](https://t.co/5cGK9A1psv)"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1813233024881901732",
+        "timestamp": "2024-07-16 23:23:35",
+        "original_content": "2/ The depositToGasZipERC20 function can swap specified tokens for platform\ntokens and deposit them into the GasZip contract. However, the code does not\nrestrict the data for the call invocation, allowing attackers to withdraw\nassets from users who have approved to the contract."
+    }
+}

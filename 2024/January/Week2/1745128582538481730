@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1745128582538481730",
+        "timestamp": "2024-01-11 00:00:00",
+        "original_content": "2/ Gas Fee Calculation Logic: A major risk in AA projects is the manipulation\nof gas fee calculations. For instance, Biconomy faced a vulnerability where\nattackers could inflate compensation by adding zero bytes to calldata."
+    }
+}

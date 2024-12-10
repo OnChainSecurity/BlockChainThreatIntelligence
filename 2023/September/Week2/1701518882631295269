@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1701518882631295269",
+        "timestamp": "2023-09-12 00:00:00",
+        "original_content": "[#RootCause]\n[$Banana] token's internal _transfer()\nhad a fee calculation error, not deducting fees from senders. This effectively\nminted fees to the contract, which can sells Banana when above a threshold,\nleading to abnormal token prices on UniswapV2"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1737369079361740930",
+        "timestamp": "2023-12-20 15:07:21",
+        "original_content": "[@TransitFinance](/TransitFinance)\n\nwas hacked for ~$110k due to the lack of valid input validation for pool. The\nattacker passed in a forged pool and WBNB/BUSD pool path, controlling the\nactualAmountIn in the first swap. This caused SwapRouter to take the forged\nactualAmountIn as the initial value for swap in the WBNB/BUSD pool."
+    }
+}

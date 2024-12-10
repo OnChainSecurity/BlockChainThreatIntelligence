@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1727640912459894857",
+        "timestamp": "2023-11-23 14:03:25",
+        "original_content": "Correction All attack transactions were launched by three addresses: 1\\.\n0x50275e0b7261559ce1644014d4b78d4aa63be836 2\\.\n0xae7e16caa7a4d572fff09924bf077a89485850cb 3\\.\n0xd01896e3d4f130ffd6f6a5a9d6780bbd7008d71d Upon further analysis prompted by\ncommunity members, we found that address 2 and address 3 belong to the same\nattacker. Similar attack contract codes and simultaneous fund withdrawals from\nBSC's\n\n[@TornadoCash](/TornadoCash)\n\n(around 190 days ago) support this conclusion. Thus, we can confirm the\ninvolvement of two distinct attackers in this event."
+    }
+}

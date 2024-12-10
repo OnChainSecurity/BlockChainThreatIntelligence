@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1626117213332860929",
+        "timestamp": "2023-02-16 00:00:00",
+        "original_content": "2/ The attack is due to the incorrect implementation of the mintFromStaking\nfunction. Anyone can mint an arbitrary number of tokens to certain accounts\n(including the PancakeSwap pair). The attacker minted a large number of tokens\nto the pair and swapped them to WBNB for profit."
+    }
+}

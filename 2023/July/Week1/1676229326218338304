@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1676229326218338304",
+        "timestamp": "2023-07-04 00:00:00",
+        "original_content": "Looks like the original attack tx\n([https://explorer.phalcon.xyz/tx/bsc/0x5abde3804002e3625dddb48407204d107eae65069df938489737eadcd79f282f\u2026](https://t.co/IkcV1GlWqe))\nwas front-run."
+    }
+}

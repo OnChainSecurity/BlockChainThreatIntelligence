@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1688710774368428032",
+        "timestamp": "2023-08-08 02:33:45",
+        "original_content": "?Steadifi was attacked for\n$1,140,000. The attacker gained control of the deployer's wallet and\ntransferred ownership of all vaults to his own wallet\n0x9cf71F2ff126B9743319B60d2D873F0E508810dc. Currently, the attacker has\ndrained all borrowable funds on Arbitrum and Avalanche and bridged assets to\nEthereum. Steadifi is now negotiating with the attacker, offering a 10%\nbounty."
+    }
+}

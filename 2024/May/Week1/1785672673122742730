@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1785672673122742730",
+        "timestamp": "2024-05-01 22:07:31",
+        "original_content": "The possible security issues in the whole ecosystem, including: * Malicious\nOperators * Malicious AVSs * Security of the EigenLayer Itself We advocate for\nimplementing specific security services and products to fortify the ecosystem,\nsuch as auditing EigenLayer and AVS. Additionally, a robust continuous\nsecurity monitoring and attack-blocking platform such as Phalcon\n\n[@Phalcon_xyz](/Phalcon_xyz)\n\nis crucial, capable of executing automatic actions upon detecting attacks."
+    }
+}

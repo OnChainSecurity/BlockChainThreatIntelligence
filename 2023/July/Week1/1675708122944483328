@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1675708122944483328",
+        "timestamp": "2023-07-03 11:28:44",
+        "original_content": "?\n\n[@PolyNetwork2](/PolyNetwork2)\n\nhave suffered a potential compromise of private keys or a multi-signature\nservice attack. The hacker has exploited forged proofs to initiate withdrawal\noperations on the cross-chain bridge contracts across multiple chains. An\nanalysis thread:?"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1621046393359179778",
+        "timestamp": "2023-02-02 00:00:00",
+        "original_content": "2/ After receiving the initial fund from Ethereum\n([https://phalcon.blocksec.com/tx/polygon/0xd276b1ddff1bea52a8839c37976f4accb4751ca3f70092e66f88e53090452898\u2026](https://t.co/uZAQDrUEug)),\nthe attacker: 1) borrowed more [$BEUR]\ntokens with a high token price:\n[https://phalcon.blocksec.com/tx/polygon/0x31957ecc43774d19f54d9968e95c69c882468b46860f921668f2c55fadd51b19\u2026](https://t.co/jxIipgWUeG)\n2) liquidated more [$WALBT] tokens with\na low token price:\n[https://phalcon.blocksec.com/tx/polygon/0xa02d0c3d16d6ee0e0b6a42c3cc91997c2b40c87d777136dedebe8ee0f47f32b1\u2026](https://t.co/01zoaPXJs4)"
+    }
+}

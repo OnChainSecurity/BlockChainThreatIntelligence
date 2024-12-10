@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1754130940618797260",
+        "timestamp": "2024-02-04 21:10:15",
+        "original_content": "This incident once again demonstrates that numerous attacks, even when\nbroadcast through private RPCs to protocols that cannot be monitored within\nthe public mempool's earshot, are seldom one-off events. Rather, they may\nencompass a series of steps or subsequent attack transactions. Phalcon Block\nproves invaluable in detecting and automatically countering such multifaceted\nthreats. Welcome to book a demo.\n[https://blocksec.com/phalcon/bookDemo\u2026](https://t.co/Zyi6sjQZhU)"
+    }
+}

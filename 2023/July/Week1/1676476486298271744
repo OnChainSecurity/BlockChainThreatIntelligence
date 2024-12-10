@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1676476486298271744",
+        "timestamp": "2023-07-05 00:00:00",
+        "original_content": "(4/5) Mitigation use of abi.encode() instead of abi.encodePacked()"
+    }
+}

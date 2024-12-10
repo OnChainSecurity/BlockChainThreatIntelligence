@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1736061227535847433",
+        "timestamp": "2023-12-17 00:30:25",
+        "original_content": "NftTrader suffered a reentrancy attack, with the attacker stealing 70 NFTs\nfrom over 40 users, including 38 BAYCs, 22 MAYCs and 10 other NFTs. Users need\nto revoke approvals for: 0x13d8faF4A690f5AE52E2D2C52938d1167057B9af\n0xC310e760778ECBca4C65B6C559874757A4c4Ece0 The attacker sent a message saying\nusers can transfer 10% of the NFT value to them as a bounty and the NFTs will\nbe returned. ? The\nauthenticity of this message is still unclear, be careful and stay alert!"
+    }
+}

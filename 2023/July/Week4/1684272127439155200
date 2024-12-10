@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1684272127439155200",
+        "timestamp": "2023-07-27 00:00:00",
+        "original_content": "1/ Looks like [$Carson] on BSC was\nattacked, and the loss is ~ $144K. We suspected that the root cause is due to\nthe deflation token issue, which cannot be confirmed as the code is not open-\nsourced."
+    }
+}

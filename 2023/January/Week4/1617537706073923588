@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/shabarkin/status/1617537706073923588",
+        "timestamp": "2023-01-23 00:00:00",
+        "original_content": "I found a couple vulnerabilities within the WalletConnect protocol that\nallowed submitting malicious transactions into a crypto wallet on behalf of\nany dApp The WC is integrated within 450+ dApps and 170+ crypto wallets\n[https://shabarkin.notion.site/Submitting-malicious-transactions-into-a-\ncrypto-wallet-on-behalf-of-any-\ndApp-a317f7f9f0a6459c8525bef71977f540\u2026](https://t.co/xqXtRuuRz7)\n[#blockchain]\n[#Security]\n[#Ethereum]"
+    }
+}

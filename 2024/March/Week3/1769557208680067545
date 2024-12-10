@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1769557208680067545",
+        "timestamp": "2024-03-18 10:03:31",
+        "original_content": "? fake accounts tried to\nuse Punycode in usernames to bypass detection.\n?\nturns out Punycode can also be used in Twitter usernames!\n?\ufe0f"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1668172979765927936",
+        "timestamp": "2023-06-12 00:00:00",
+        "original_content": ".\n\n[@thekeep3r](/thekeep3r)\n\nhas been attacked. Due to the governor's private key being compromised (Vanity\nAddress), the attacker reset the governor of several pools and launched a\nreentrancy attack, profiting 4084 KP3P (~ $200K)."
+    }
+}

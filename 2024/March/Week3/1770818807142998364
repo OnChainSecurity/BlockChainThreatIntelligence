@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/code4rena/status/1770818807142998364",
+        "timestamp": "2024-03-21 22:24:37",
+        "original_content": "? Findings Summary High\nrisk findings: 0 unique (0 total) Medium risk findings: 5 unique (14 total)\nGas reports: 2 (Best: oakcobalt) QA reports: 4 (Best: oakcobalt) Advanced\nanalysis reports: (Best: oakcobalt)"
+    }
+}

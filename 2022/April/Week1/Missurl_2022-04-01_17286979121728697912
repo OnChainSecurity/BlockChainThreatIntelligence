@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://www.semanticscholar.org/paper/Blockchain-Attack-Discovery-via-Anomaly-Detection-Scicchitano-Liguori/c0ac82c8cd3ad06d640c2db3bc41fcdfcc165b9a",
+        "timestamp": "2022-04-01 00:00:00",
+        "original_content": "Blockchain Attack Discovery via Anomaly Detection\n@inproceedings{Scicchitano2019BlockchainAD,\n  title={Blockchain Attack Discovery via Anomaly Detection},\n  author={Francesco Scicchitano and Angelica Liguori and Massimo Guarascio and Ettore and Ritacco and G. Manco},\n  year={2019},\n  url={https://api.semanticscholar.org/CorpusID:211106350}\n}\nThis work defines an anomaly detection system based on a encoder-decoder deep learning model, that is trained exploiting aggregate information extracted by monitoring blockchain activities, and is the first one that provides a comprehensive and feasible solution to monitor the security of blockchain transactions.\nExpand\nSave to Library\nSave\nCreate Alert\nAlert\nCite"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1855910524460159197",
+        "timestamp": "2024-11-11 00:00:00",
+        "original_content": "Today's\n\n[@DeltaPrimeDefi](/DeltaPrimeDefi)\n\nexploit leads to $4.8m loss. Since affected pools are now paused, we share our\ninitial analysis below. The exploit is made possible due to the lack of input\nvalidation in claiming possible rewards. Specifically, the exploiter provides\nan evil pair in order to change the collateral asset into reward asset. By\ndoing so, the initial collateral to borrow funds can be stolen out while\nleaving the debt unpaid. We also notice the exploiter has added liquidity\n(~$1.3M) to [#LFJ] (formerly Trader Joe) &\nfarmed [$USDC] on\n[#Stargate]"
+    }
+}

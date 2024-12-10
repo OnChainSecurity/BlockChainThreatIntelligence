@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1695285435671392504",
+        "timestamp": "2023-08-26 00:00:00",
+        "original_content": "Our system detected that [$STV] on BSC was\nattacked. The pool has been drained, and the loss is over $500K. The smart\ncontracts are not verified, and we suspect that this is a case of price\nmanipulation resulting from a flawed price calculation that relies on the\ntoken balance. The attacker launched several attacks, take one of the tx as an\nexample:\n[https://explorer.phalcon.xyz/tx/bsc/0xf2a0c957fef493af44f55b201fbc6d82db2e4a045c5c856bfe3d8cb80fa30c12\u2026](https://t.co/CfjDaBOZ0O)\nThe attacker made profits by repeatedly invoking the buy/sell functions."
+    }
+}

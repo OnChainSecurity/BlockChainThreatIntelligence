@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1767953844619616364",
+        "timestamp": "2024-03-14 00:00:00",
+        "original_content": "? This problem usually\nstems from differing gas usage between the simulation phase and the actual\nexecution, often linked to the way data storage access is managed (with cold\naccess during simulation versus warm access during execution)."
+    }
+}

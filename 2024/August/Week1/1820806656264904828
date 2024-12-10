@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1820806656264904828",
+        "timestamp": "2024-08-06 19:09:29",
+        "original_content": "The upgrade issue arises from performing the upgrade by directly invoking\ninitializeV4 without first calling initializeV3. Consequently,\n_totalOperatorWeight remains uninitialized, allowing the signature check to be\nbypassed. The upgrade tx:\n[https://app.blocksec.com/explorer/tx/eth/0x855dd3b1194e3b889f4667b6a0996220e350e034d35d3eab29b4f23bc205767e\u2026](https://t.co/hKchMzOHOC)"
+    }
+}

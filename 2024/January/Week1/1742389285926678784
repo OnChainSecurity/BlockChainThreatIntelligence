@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1742389285926678784",
+        "timestamp": "2024-01-03 11:35:52",
+        "original_content": "Radiant Capital\n\n[@RDNTCapital](/RDNTCapital)\n\nwas under a flash loan attack with a loss of $4.5M. Attacker:\n[https://arbiscan.io/address/0x826d5f4d8084980366f975e10db6c4cf1f9dde6d\u2026](https://t.co/fc2NZfneXN)\nThe attacker manipulated the index parameter (which later served as a\ndenominator) to become extremely large. The contract has a rounding issue in\nits calculations, which led to a cumulative precision error. Since the index\nparameter was dramatically inflated, this precision error was also magnified,\nultimately allowing the attacker to profit through repeated deposit() and\nwithdraw() operations."
+    }
+}

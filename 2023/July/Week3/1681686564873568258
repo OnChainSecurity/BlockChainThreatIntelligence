@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1681686564873568258",
+        "timestamp": "2023-07-19 23:24:55",
+        "original_content": "[$IPO] on BSC has rugged for $480k.\nContract: 0xb524a9a21702813f8Ea7A79c16aFCB5fb4660544 The scammer modified the\nrouter address of 0x1fc14c66348fbdf737186d8ed6d8084a9f222309 contract as the\nattack contract to bypass the judgment of burnToken ()."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1635262157029019648",
+        "timestamp": "2023-03-13 00:00:00",
+        "original_content": "3/ Continued above d. 10M debt is repaid so that the attacker can mint more\neDAI. Now the attacker holds 215M eDAI and 190M dDAI e. step b is repeated.\nNow the attacker holds 410M eDAI and 390M dDAI f. Attacker invoked the\nfunction donateToReserve() to donate 100M eDAI."
+    }
+}

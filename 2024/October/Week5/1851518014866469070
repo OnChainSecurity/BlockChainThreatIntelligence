@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1851518014866469070",
+        "timestamp": "2024-10-30 00:00:00",
+        "original_content": "[#CertiKInsight]\n? We have detected a\nTornado Cash deposit traced to Lazarus Group. After splitting funds from\nLazarus Group address 34VXK and 3Nbd on the BTC network, the money launderer\nbridged and swapped 4.1 BTC (~$300K) to Ethereum via Thorchain. Stay Vigilant!"
+    }
+}

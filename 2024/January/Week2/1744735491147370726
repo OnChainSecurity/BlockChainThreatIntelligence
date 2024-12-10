@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Cyvers_/status/1744735491147370726",
+        "timestamp": "2024-01-09 22:58:45",
+        "original_content": "7/9 Cyvers identified the attackers\u2019 address through a series of rugpull\ntransactions on\n\n[@arbitrum](/arbitrum)\n\n, unraveling the intricacies of the exploit. The attack\u2019s modus operandi\ninvolved the address executing multiple transactions, bridging 500K\n[$USDT] to\n[$ETH], conducting a swap to\n[$DAI], and eventually depositing the\nfunds into\n\n[@TornadoCash](/TornadoCash)\n\n. Read more from\n\n[@BhushanAkolkar](/BhushanAkolkar)\n\n? [https://crypto-news-\nflash.com/radiant-capital-hacked-4-4-million-loss-sends-shockwaves-through-\ndefi/#:~:text=Cyvers%2C%20a%20cybersecurity%20firm%20leveraging%20an%20AI%2Dpowered%20system%2C%20has%20uncovered%20a%20series%20of%20malicious%20activities%20targeting%20Radiant%20Capital%20(RNDTCApital)\u2026](https://t.co/CX1pMhIKN7)."
+    }
+}

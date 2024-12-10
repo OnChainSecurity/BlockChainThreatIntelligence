@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1861049525944906236",
+        "timestamp": "2024-11-24 00:00:00",
+        "original_content": "Can you spot this one? This snippet both has and doesn't have a bug at the\nsame time. How is that possible? Hint: The protocol is a Uniswap fork, and the\nbug depends on the Solidity version used."
+    }
+}

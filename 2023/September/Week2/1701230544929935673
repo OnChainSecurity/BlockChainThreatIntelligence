@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1701230544929935673",
+        "timestamp": "2023-09-11 00:00:00",
+        "original_content": "[#PhalconFork] Today, we're presenting\nthe Block Header Overridden panel in Phalcon Fork. In this panel, you can have\nfull control over various block header parameters. The timestamp is a crucial\nparameter. By controlling timestamp, you can test the contract's state and\nexecute specific transactions, such as proposals that can only be executed 14\ndays later and a particular transaction from 300 days ago (please note that we\nrecently standardized this time to UTC). For security researchers, some\nmalicious contracts might inspect key parameters in the block header, such as\nMix Digest to counteract inspections. For MEV operators, Coinbase is an\nessential parameter that cannot be overlooked. On Phalcon Fork, you'll find\nthese tools incredibly straightforward, allowing you to focus solely on\nbuilding your business. [#FeatureTip]"
+    }
+}

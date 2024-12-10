@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/code4rena/status/1813966156698656869",
+        "timestamp": "2024-07-18 23:56:47",
+        "original_content": "\\- Where to focus: While previous audits focused on system-wide safeguards,\nthis audit specifically examines the game and VM to ensure honest actors can\nalways prove the route and prevent dishonest actors from exploiting the game\n\\- Withdrawal Mechanism: How transactions store values and get verified \\-\nDispute Game Mechanism: How it allows permissionless actors to challenge and\nverify the validity of output roots \\- Fault Proof Program: How it functions\nwithin the dispute resolution process \\- Bisection details: How the movement\nrules and trace index calculations help narrow down the exact point of\ndivergence between honest and dishonest claims[![](https://pbs.twimg.com/card_img/1831473421500424192/771Zn9gM?format=jpg&name=360x360)](https://t.co/SQYDpNznar)\n"
+    }
+}

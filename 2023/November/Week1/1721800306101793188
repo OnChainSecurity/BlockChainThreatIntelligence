@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1721800306101793188",
+        "timestamp": "2023-11-07 04:38:00",
+        "original_content": "?\n\n[@TrustPad](/TrustPad)\n\nwas exploited for ~$155k. Root cause: The receiveUpPool function did not\nverify msg.sender, allowing the attacker to manipulate newlockstartTime. The\nattacker repeatedly called receiveUpPool() and withdraw() to collect rewards,\nthen called stakePendingRewards to convert the rewards into staking amounts.\nFinally, the attacker withdrew the rewards via withdraw()."
+    }
+}

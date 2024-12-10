@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1776033438425858231",
+        "timestamp": "2024-04-03 00:00:00",
+        "original_content": "Signature Malleability is a well-known but hard-to-understand vulnerability in\nsolidity. But, to talk about it, we need to understand what an elliptic curve\nis and how it works. We\u2019d appreciate a repost, spread the knowledge\n? Now follow the thread\n?"
+    }
+}

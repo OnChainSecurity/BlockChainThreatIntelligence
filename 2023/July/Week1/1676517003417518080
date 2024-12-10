@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1676517003417518080",
+        "timestamp": "2023-07-05 17:02:55",
+        "original_content": "The initial funding for the attack came from Tornado Cash, which was cross-\nlinked from Ethereum to Arbitrum via the Arbitrum Bridge. Currently, the\nprofit funds are still located at the address\n0x20de06dcf497911aca02529628383c7599dacfb9.\n[https://metasleuth.io/result/arbitrum/0xbc7070605e9052c8c2c8b04732fcb85199d8246b?source=f9da60f1-8725-45ad-8429-a656ce3c4095\u2026](https://t.co/VAFwEoY59v)"
+    }
+}

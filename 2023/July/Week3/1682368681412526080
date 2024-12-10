@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1682368681412526080",
+        "timestamp": "2023-07-21 19:14:20",
+        "original_content": "Root cause of the\n\n[@ConicFinance](/ConicFinance)\n\nattack: There's a read-only reentrancy vulnerability in CurveLPOracleV2.\nAttackers can exploit this vulnerability to manipulate the prices of tokens\nlike steCRV, cbETH/ETH-f, rETH-f, etc. This allows attackers to remove more\nliquidity tokens than they deposited."
+    }
+}

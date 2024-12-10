@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1615752230849609737",
+        "timestamp": "2023-01-19 00:00:00",
+        "original_content": "1/ Our team has discovered a Quaternion exploit. Investigation reveals initial\nfunding from address 0x3bc83b0a2e764447a676271ac380d766bb4fc71b, which can be\ntraced back to [http://Tornado.Cash](https://t.co/sR4MBCwS7X). With\nMetaSleuth, you can easily discover it.\n[https://metasleuth.io/result/eth/0x3bc83b0a2e764447a676271ac380d766bb4fc71b\u2026](https://t.co/4i4eRnvERX)"
+    }
+}

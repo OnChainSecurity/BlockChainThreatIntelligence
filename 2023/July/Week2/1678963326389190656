@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1678963326389190656",
+        "timestamp": "2023-07-12 09:44:38",
+        "original_content": "The call to asset.addLiability() in the _deposit function causes the\nasset.liability() parameter in withdrawFrom to increase, and thus the hacker\nwithdraws more USDC.e than the amount of USDC previously deposited."
+    }
+}

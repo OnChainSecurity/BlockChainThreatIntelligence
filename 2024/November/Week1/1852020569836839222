@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1852020569836839222",
+        "timestamp": "2024-11-01 00:00:00",
+        "original_content": "?Our\nsystem detected a phishing transaction where the victim approved a malicious\ncontract on [#AVAX] chain! Transaction:\n[https://snowscan.xyz/tx/0xdd2e5cfb6de4ca4f23adb6d2d36d4b94b306cd91b00bc237f1812f3af6b8136a\u2026](https://t.co/OP6UDZNZGq)\nThe victim approved a malicious contract, allowing the scammer to drain 9.9\n[$BTC.b] $705.6K. Currently, most of the\nstolen funds remain in the following wallet:\n[https://snowscan.xyz/address/0xccbbb02e819b6dd86f08eca72ef6e12ee3f06969\u2026](https://t.co/JeIVYd7hRL)\nWant to secure your assets and prevent future attacks? Book a Demo today!\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZUVB1)\n[#CyversAlert]"
+    }
+}

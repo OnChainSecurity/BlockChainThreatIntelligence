@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1642973567448133638",
+        "timestamp": "2023-04-04 00:00:00",
+        "original_content": "7/ Furthermore, the honeypot tx has a self-protection mechanism. What if there\nare no sandwich txs to attack the honeypot tx? Actually, the attacker checked\nthe status of the pool and will make a reverse swap to protect its 0.35 Ether\n(smart move)."
+    }
+}

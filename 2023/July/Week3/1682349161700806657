@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1682349161700806657",
+        "timestamp": "2023-07-21 00:00:00",
+        "original_content": "Looks like the original attack tx was front-ran by another one. The original\nattack tx:\n[https://etherscan.io/tx/0x97a8315e942dd180fb90a17b92f7dabd6e8a2e5b9fd5e4a95ee4049ff33d2f16\u2026](https://t.co/vwryF9AihH)"
+    }
+}

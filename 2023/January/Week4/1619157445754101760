@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1619157445754101760",
+        "timestamp": "2023-01-28 00:00:00",
+        "original_content": "1/ phyProxy on BSC\n([https://bscscan.com/address/0x66be80c796cba0844dace3e291632bfd397bd7a0\u2026](https://t.co/q5QyNLreX4))\nwas attacked:\n[https://phalcon.blocksec.com/tx/bsc/0x4fa408240472eba59140da0a11a6e1ab9d947a58ee96bc3a24af7952abd737eb\u2026](https://t.co/m1t0iAQIbx),\nand the loss is ~1.2K BUSD. The root cause is a forced investment due to the\nunverified input of the delegatecall in the public delegateCallSwap function."
+    }
+}

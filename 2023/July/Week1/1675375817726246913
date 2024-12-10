@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1675375817726246913",
+        "timestamp": "2023-07-02 13:28:16",
+        "original_content": "PolyNetwork was attacked, involving multiple chains. On Ethereum alone, the\nattacker withdrew over 40 tokens from the unlock proxy, with most of them\nbeing swapped for ETH. Currently, over $4.2 million has been transferred to\nother attacker addresses.\n[https://metasleuth.io/result/eth/0xe0Afadad1d93704761c8550F21A53DE3468Ba599?source=d38d662f-1573-4bd8-8ec1-88b4d83bddd4\u2026](https://t.co/h03xBKigSs)"
+    }
+}

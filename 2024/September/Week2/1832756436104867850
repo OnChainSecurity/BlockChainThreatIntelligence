@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1832756436104867850",
+        "timestamp": "2024-09-08 00:00:00",
+        "original_content": "Repository Reproduces ECDSA Signature Vulnerabilities: This repo contains\ndifferent chapters each focusing on one attack: \\- ECDSA signatures are\nmalleable. \\- ECDSA signatures are not unique. \\- ECDSA signatures can reveal\nyour private key if you use the same random number (aka nonce). Link:\n[https://github.com/0xbok/ecdsa-vuln-poc\u2026](https://t.co/cuNCjLUB9a)"
+    }
+}

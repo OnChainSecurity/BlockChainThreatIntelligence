@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1702579349432705519",
+        "timestamp": "2023-09-14 00:00:00",
+        "original_content": "We've updated our report in light of\n\n[@Balancer](/Balancer)\n\n's insightful official post-mortem, a valuable read brimming with lessons\nlearned. Specifically, it reveals two bugs involved in the attack: 1) A\nrounding down error inflating the token rate, key for profit; 2) A 'resets\nrate on 0 supply' bug balancing bb-a-tokens' debt, crucial for preventing\nattack failure from poor liquidity. In our update, we argue that both bugs\nhold equal significance, contrasting with Balancer's focus on the second.\n[https://blocksecteam.medium.com/yet-another-risk-posed-by-precision-loss-an-\nin-depth-analysis-of-the-recent-balancer-incident-\nfad93a3c75d4\u2026](https://t.co/9hkvlBNFE7)"
+    }
+}

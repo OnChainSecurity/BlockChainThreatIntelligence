@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1673930979348717570",
+        "timestamp": "2023-06-28 13:47:00",
+        "original_content": "Themis\n\n[@ThemisProtocol](/ThemisProtocol)\n\nwas exploited for $370K due to an oracle implementation flaw.\n[https://arbiscan.io/tx/0xff368294ccb3cd6e7e263526b5c820b22dea2b2fd8617119ba5c3ab8417403d8\u2026](https://t.co/ur0ncCjT5o)\nBefore borrowing, the attacker used a large amount of\n[$WETH] to swap for wstETH, manipulating\nthe oracle when obtaining the price, resulting in the attacker borrowing 317\nWETH with only 55 WETH. When the getAssetPrice function calls the Balancer:\nVault.getPoolTokens function, the quantities of wstETH and ETH were\nmanipulated from the normal 2,423 : 2,796 to 0.238 : 42,520, thus manipulating\nthe oracle."
+    }
+}

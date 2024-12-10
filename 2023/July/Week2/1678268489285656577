@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1678268489285656577",
+        "timestamp": "2023-07-10 00:00:00",
+        "original_content": "(2/2) Mitigation: To address this vulnerability, it is recommended to\nimplement safeguards such as using a gas oracle to obtain the average gas\nprice from a trusted source."
+    }
+}

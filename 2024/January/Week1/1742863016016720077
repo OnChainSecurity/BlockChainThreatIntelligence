@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CryptoAlgebra/status/1742863016016720077",
+        "timestamp": "2024-01-04 00:00:00",
+        "original_content": "? The Gamma Exploit Update:\nWe'd like to comment on the recent incident to bring clarity to the table. The\nAlgebra core protocol/smart contracts remain unaffected, ensuring the safety\nof all DEXes running on Algebra DEX Engine's codebase. Trading on Algebra-\npowered DEXes is secure. However, to our regret, the exploit seems to have\ntargeted the partnering ALM (Gamma Strategies) stable vaults, which have been\npromptly disabled. We are working closely with partnering DEXes to identify\nareas for potential improvements to prevent such incidents in the future.\nAdditionally, we are taking necessary measures with security specialists,\nstudying the cause together with them, and devising preventive strategies."
+    }
+}

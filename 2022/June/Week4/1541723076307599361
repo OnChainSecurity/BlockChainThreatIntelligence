@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xPaladinSec/status/1541723076307599361",
+        "timestamp": "2022-06-27 00:00:00",
+        "original_content": "Did you know\n\n[@UMAprotocol](/UMAprotocol)\n\nallows contracts to request any off-chain calculation imaginable? We had the\nchance to audit\n\n[@0xCovenant](/0xCovenant)\n\nwhich uses UMA's Optimistic Oracle to allow for conditional payouts with\ncomplex conditions. Covenant plans to be a generic DAO bribing platform!"
+    }
+}

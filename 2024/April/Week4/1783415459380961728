@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1783415459380961728",
+        "timestamp": "2024-04-25 00:00:00",
+        "original_content": "sqrtPriceX96 is the most recent price. The problem here is that any user could\nfront-run the call to slot0 by swapping tokens in that specific pool. This\nleads to all the calculations based on the price being incorrect and users\nsuffering a loss."
+    }
+}

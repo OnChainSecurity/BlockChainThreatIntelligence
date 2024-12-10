@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1687084394035720192",
+        "timestamp": "2023-08-03 20:53:58",
+        "original_content": "The unverified contract 0xd614927acfb9744441180c2525faf4cedb70207f on the\nArbitrum was attacked for ~$845k. Tx:\n[https://arbiscan.io/tx/0x864c8cfb8c54d3439613e6bd0d81a5ea2c5d0ad25c9af11afd190e5ea4dcfc1f\u2026](https://t.co/CUDzJja6aB)\nSeems that the victim contract approved assets to the attacker's contract in\nparams data of the flashloan function, allowing the attacker to transfer\nassets out by calling transferFrom(). Now the stolen assets are bridged to\nEthereum address 0x826b180cd3d6fd0a646875f920bb2cf52b7f0b0b"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jtriley_eth/status/1751004260270035221",
+        "timestamp": "2024-01-27 00:00:00",
+        "original_content": "frontrunning foundry 0.8.24 x cancun, here's the Mutexer, a configurable mutex\nfor contract, function, and custom granularity reentrancy guards import,\ninherit, modifier: [https://github.com/jtriley-\neth/mutexer\u2026](https://t.co/5r2asDZuJT)"
+    }
+}

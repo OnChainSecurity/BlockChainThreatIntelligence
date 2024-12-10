@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1762949516062237099",
+        "timestamp": "2024-02-29 00:00:00",
+        "original_content": "2/ Diving into details, vulnerable function 'performOperations(uint8[]\nactions,uint256[] values,bytes[] datas)' has an internal call which caused\nthis exploit to happen Their team announced cooperation with security\nspecialists to investigate the bug more deeply"
+    }
+}

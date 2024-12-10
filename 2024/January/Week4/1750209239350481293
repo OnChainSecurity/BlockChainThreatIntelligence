@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1750209239350481293",
+        "timestamp": "2024-01-25 00:00:00",
+        "original_content": "In certain cases, The forceUnstakeAll() function which is used for stake\nwithdrawals can cause tx failures. What does this mean?\n?\n? If a user incorrectly\nstates a high allowance and uses forceUnstakeAll() this might lead to\ninadvertently transferring funds, misrepresenting the totalPrincipalStaked.\nThe flaw can lead to accidental loss of funds and potential exploitation of a\nprotocol. Instead, consider using safeTransfer() rather than\nsafeTransferFrom() ?"
+    }
+}

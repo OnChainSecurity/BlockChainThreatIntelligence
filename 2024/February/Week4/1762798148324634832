@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1762798148324634832",
+        "timestamp": "2024-02-28 19:07:56",
+        "original_content": "the victim signed multiple ERC20 Permit signatures, and the token spender is a\ntemp address pre-computed by CREATE2."
+    }
+}

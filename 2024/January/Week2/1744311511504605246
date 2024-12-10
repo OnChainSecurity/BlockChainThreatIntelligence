@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1744311511504605246",
+        "timestamp": "2024-01-08 01:05:44",
+        "original_content": "[$NRW] is suspected to be exploited for a\ntotal of ~$1.5M ($970k on Jan 6 and $500k on Jan 5). Most of the stolen funds\nwere sent to Tornado Cash. For the exploit on Jan 6, the attacker called\nwithdraw() and passed in the signer info. The contract is not open-source.\nAfter decompilation, we found the signer address was set by the contract\nowner. It is suspected that the signer\u2019s private key was compromised or the\ninformation was forged."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1653267433636130818",
+        "timestamp": "2023-05-02 00:00:00",
+        "original_content": "2/ Specifically, the claim reward was determined by the tier of referral and\nreward points, hence the attacker made the following preparation: 1) creating\nand setting many referrals; 2) using flashloan to perform dozens of swap (the\nreward was updated in the postSwap function)."
+    }
+}

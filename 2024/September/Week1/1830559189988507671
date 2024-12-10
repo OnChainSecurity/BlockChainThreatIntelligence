@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1830559189988507671",
+        "timestamp": "2024-09-02 00:00:00",
+        "original_content": "If you are doing an audit of DeFi protocol (CDP/Lending, LSD, AMM): You should\nread these articles ?\n? Typical vulnerabilities\nin lending and CDP protocols:\n?\n[https://blog.decurity.io/typical-vulnerabilities-in-lending-and-cdp-\nprotocols-e778e540e215\u2026](https://t.co/SVu5SzMaxk)\n? Typical vulnerabilities\nin LSD protocols: ?\n[https://blog.decurity.io/typical-vulnerabilities-in-lending-and-cdp-\nprotocols-e778e540e215\u2026](https://t.co/SVu5SzMaxk)\n? Typical vulnerabilities\nin AMM protocols: ?\n[https://medium.com/decurity/typical-vulnerabilities-in-amm-\nprotocols-9006f7986ba0\u2026](https://t.co/Yaqh97OiRR)"
+    }
+}

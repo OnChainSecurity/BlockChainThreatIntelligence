@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1638194833541206023",
+        "timestamp": "2023-03-21 00:00:00",
+        "original_content": "2/ The root cause is due to the improper reward distribution mechanism in the\nfunction transfer. For any transfer, the token provides rewards to the LP\nholders of the BSCUSD-ASKACR pair even without checking the transfer amount.[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1845773940867686404/brbh5G3b?format=jpg&name=small)](https://t.co/f9AakGaKSs)\n"
+    }
+}

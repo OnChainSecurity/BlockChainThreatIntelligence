@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1675708139985936386",
+        "timestamp": "2023-07-03 11:28:44",
+        "original_content": "6/ Upon analyzing the attacker's use of the verifyHeaderAndExecuteTx function\nfor withdrawal operations, it was found that the keepers have not been\nmodified."
+    }
+}

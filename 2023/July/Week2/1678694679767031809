@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1678694679767031809",
+        "timestamp": "2023-07-11 00:00:00",
+        "original_content": "This was a re-entrancy attack. The attacker re-enter the 'deposit()' during an\nexternal call to manipulate the totalSupply, thereby obtained a huge share as\nthe NAV was not updated in time."
+    }
+}

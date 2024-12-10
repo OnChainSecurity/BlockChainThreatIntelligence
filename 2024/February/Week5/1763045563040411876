@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1763045563040411876",
+        "timestamp": "2024-02-29 01:03:01",
+        "original_content": ".\n\n[@SenecaUSD](/SenecaUSD)\n\nwas exploited, with total losses of ~$6 million. The root cause was an\narbitrary call issue,. Users should regularly check their approvals and stay\nvigilant! Here is one of the exploit tx:\n[https://phalcon.blocksec.com/explorer/tx/eth/0x9f3712672be7a120757d42fbe15ceefe9578914946bacbd0f3531e7fb7305576\u2026](https://t.co/RhvHJs09rv)"
+    }
+}

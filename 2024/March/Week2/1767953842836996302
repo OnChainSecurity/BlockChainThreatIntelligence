@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1767953842836996302",
+        "timestamp": "2024-03-14 00:00:00",
+        "original_content": "\u26a0\ufe0f A significant concern in\naccount abstraction is the accuracy of gas estimations by Bundlers. When the\nestimated gas during a simulation phase falls short of the actual required gas\nfor on-chain execution, it could result in an out-of-gas error during the\ntransaction's execution."
+    }
+}

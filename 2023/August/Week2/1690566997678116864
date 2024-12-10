@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1690566997678116864",
+        "timestamp": "2023-08-13 11:32:36",
+        "original_content": "The unverified contract 0xac15ab was vulnerable and has resulted in losses for\nmultiple addresses. The exploiter 0xb9c77d funded by FixedFloat has profited\n~$97k. Currently all funds are held at the address 0x202bad. Another exploiter\n0x7d9bc4 profited ~$60k, and has moved all stolen funds to Railgun:Relay."
+    }
+}

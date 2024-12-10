@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1621862573728731136",
+        "timestamp": "2023-02-04 00:00:00",
+        "original_content": "1/ We observed some suspicious behaviors on BSC. Specifically, the address\n0x52fb0518e43b3d8d6d5af4f12961234a671cfd8e is suspected to launch several\nattacks by exploiting the flashloan callbacks of some contracts (trading\nbots?) to harvest tokens."
+    }
+}

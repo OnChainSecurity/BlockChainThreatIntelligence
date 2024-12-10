@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1752523650966945881",
+        "timestamp": "2024-01-31 10:46:11",
+        "original_content": "the victim signed a `transfer` transaction that sent funds to a temp address\npre-compute with create2.\n[https://etherscan.io/tx/0x787b72607fc4d28f37f1cfb4095c919972b7e9385a1cc3ecba13ba112eb7e969\u2026](https://t.co/mpgpJisztT)"
+    }
+}

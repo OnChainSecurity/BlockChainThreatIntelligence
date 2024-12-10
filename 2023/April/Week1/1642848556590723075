@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/samczsun/status/1642848556590723075",
+        "timestamp": "2023-04-03 00:00:00",
+        "original_content": "Block 16964664: A user managed to drain five MEV bots by exploiting a bug in\nmev-boost-relay. Here's the block:\n[https://etherscan.io/block/16964664](https://t.co/ruSz8YzAJR) Here's the\nuser:\n[https://etherscan.io/address/0x3c98d617db017f51c6a73a13e80e1fe14cd1d8eb\u2026](https://t.co/VY4gpmX0L8)\nHere's the patch: [https://github.com/flashbots/mev-boost-\nrelay/pull/330\u2026](https://t.co/TPO80i3dz5) Here's the longer explanation:"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1661995351832948737",
+        "timestamp": "2023-05-26 00:00:00",
+        "original_content": "ALERT! Our system detected a suspicious\n[$SAMO] token on Arbitrum\n(0x37226b0285d2017c0aa585c61cdca2c78ee900e0) that is used in a UniswapV2 pair\n(0x4c39580382bb9ebd3d28d4f8d9d433eca74103ec). Stay vigilant and do NOT engage\nwith this pair/token!"
+    }
+}

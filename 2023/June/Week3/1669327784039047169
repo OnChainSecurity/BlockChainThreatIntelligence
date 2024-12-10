@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Elliptic_Inv/status/1669327784039047169",
+        "timestamp": "2023-06-15 20:55:21",
+        "original_content": "2/7 The only purpose of these contracts is to take all deposited ETH, wrap\ninto WETH with wrap contract, forward to unwrap contract, unwrap into ETH and\nforward onto EOAs for further laundering."
+    }
+}

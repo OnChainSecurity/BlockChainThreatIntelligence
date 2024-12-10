@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1629097425771319296",
+        "timestamp": "2023-02-24 00:00:00",
+        "original_content": "1/\n\n[@NFTCloud_net](/NFTCloud_net)\n\nis attacked\n([https://phalcon.blocksec.com/tx/bsc/0x4897b7fb241c72dc96d97ba4ad42c00654d47cb3961239f5088b878942b4d48d\u2026](https://t.co/NSHy9fT6zL)),\nresulting in a loss of around $81K. The root cause is that the staking\ncontract does not check the staking status of $CloudNFT correctly."
+    }
+}

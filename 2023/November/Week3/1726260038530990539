@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1726260038530990539",
+        "timestamp": "2023-11-19 00:00:00",
+        "original_content": "Automated Market Makers Specifics: 1) Is there a slippage protection? 2)\nWorking for different token types and decimals? 3) Rebasing tokens can break\nthe functionality (consider creating a blacklist)."
+    }
+}

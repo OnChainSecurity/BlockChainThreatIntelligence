@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1723627800828195030",
+        "timestamp": "2023-11-12 00:00:00",
+        "original_content": "1/ Wallet Drainers are misusing Create2 to bypass security alerts in some\nwallets by generating new addresses for each malicious signature. After a\ndiscussion with\n\n[@SlowMist_Team](/SlowMist_Team)\n\n, a group has employed the same technique in Address Poisoning to steal $3M\nsince Aug."
+    }
+}

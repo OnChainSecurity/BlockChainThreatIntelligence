@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1831985942300610801",
+        "timestamp": "2024-09-06 17:20:59",
+        "original_content": "[#CertiKInsight]\n? Since the beginning of\n2024, we have recorded 8 reentrancy incidents, resulting in combined losses of\n~$30M. Penpie is the largest incident due to a reentrancy issue in 2024 and\nthe 3rd largest reentrancy incident since Jan 2021 behind Grim Finance (~$40M\nDec 2021) and the Vyper vulnerability incident (~$52M July 2023)."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1789350535474061797",
+        "timestamp": "2024-05-12 01:43:06",
+        "original_content": "The check in isEOA() function can be bypassed. But how? Hint: A recent EIP\nallows bypassing this check. Give your answer in the comments, the winner will\nbe picked in 48 hours and will get a retweet and recognition from Sherlock."
+    }
+}

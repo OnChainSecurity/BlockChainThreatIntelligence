@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1669903783667855361",
+        "timestamp": "2023-06-17 11:04:21",
+        "original_content": "Seems VPANDA DAO [$VPANDA] was under a\nphishing attack. The attacker profited ~$870K. The owner called withdraw()\nmultiple times to get a total of 1,500,085 VPANDA DAO tokens. The stolen funds\nwere transferred to\n[https://bscscan.com/address/0x33d2a493cea00918b02239604b94ad906d6eaf65\u2026](https://t.co/6JpDKmADbs),\nwhich may be a phishing money consolidation address as multiple addresses were\nsending funds to it. It is suspected then the owner of VPANDA DAO may have\nbeen phished to compromise the private key."
+    }
+}

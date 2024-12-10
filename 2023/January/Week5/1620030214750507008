@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1620030214750507008",
+        "timestamp": "2023-01-30 00:00:00",
+        "original_content": "4/ After manipulating the token balance, the attacker invoked function skim to\ntransfer the increased balance of PancakePair to its own account. Finally, the\nattacker invoked function deliver() once again and swapped the increased\n[$BEVO] back to\n[$WBNB][![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1846214290552115204/wRZNLXKC?format=jpg&name=small)](https://t.co/6Pwv6n3W8g)\n"
+    }
+}

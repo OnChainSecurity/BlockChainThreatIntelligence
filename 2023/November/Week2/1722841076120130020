@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1722841076120130020",
+        "timestamp": "2023-11-10 00:00:00",
+        "original_content": ".\n\n[@GROKERC20](/GROKERC20)\n\nwas attacked due to the lack of the slippage control, and the loss is ~$56K\n(26 Ether). Specifically, in the _transfer function of the\n[#GROK] token contract, the swapTokensForEth\nfunction can be triggered if the contract balance is greater than\n_taxSwapThreshold. By abusing this, the attacker could harvest more\n[#GROK] tokens with a reverse swap. Finally,\nthe attacker converted those [#GROK] tokens\nback into ETH.\n[https://explorer.phalcon.xyz/tx/eth/0x3e9bcee951cdad84805e0c82d2a1e982e71f2ec301a1cbd344c832e0acaee813\u2026](https://t.co/5l6sBmLXWn)"
+    }
+}

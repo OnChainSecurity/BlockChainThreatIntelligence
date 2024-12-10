@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1684741916301369344",
+        "timestamp": "2023-07-28 00:00:00",
+        "original_content": "Be cautious, even a verified contract\n(0x5773681cbebf0f3fb79fdb139bda12efbc12a7a9) can still directly increase the\nbalance in an obfuscated manner, and rug the pair. Stay safe!\n[https://explorer.phalcon.xyz/tx/eth/0x21c639f40ae75602bbef49968ee9519e11c994e8808dfd9eefd7a93271eda025?line=2\u2026](https://t.co/e0TzZxY6UB)"
+    }
+}

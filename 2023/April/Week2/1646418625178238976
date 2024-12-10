@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1646418625178238976",
+        "timestamp": "2023-04-13 00:00:00",
+        "original_content": "3/ The attacker took advantage of this by emptying the interest rate of Aave\nV1 (in Tx1) and directly transferring Fulcrum USDC to yUSDT/ycUSDT, triggering\na rebalance. This caused yUSDT/ycUSDT to retrieve a large amount of USDC,\nmistakenly thinking that its own balance was 0."
+    }
+}

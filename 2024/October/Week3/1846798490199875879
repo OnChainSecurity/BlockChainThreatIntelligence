@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1846798490199875879",
+        "timestamp": "2024-10-17 00:00:00",
+        "original_content": "[@RDNTCapital](/RDNTCapital)\n\n's multisig wallet, which requires 3/11 signatures, was compromised when the\nattacker used 3 private keys to sign off-chain. Then transferred ownership of\nthe LendingPoolAddressesProvider to a malicious contract, updated the lending\npool's logic to a backdoor contract, and then used it to steal funds from\nmultiple lending markets."
+    }
+}

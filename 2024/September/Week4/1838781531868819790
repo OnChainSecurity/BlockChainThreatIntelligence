@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1838781531868819790",
+        "timestamp": "2024-09-25 00:00:00",
+        "original_content": "ALERT! Our system has detected hundreds of suspicious transactions targeting\nan unknown, non-open-sourced contract on\n[#BSC] (0xff2481) over the past few hours,\nsuggesting a possible reentrancy attack. The total loss has reached ~$140K.\nInterestingly, after the first attack transaction (with a profit of ~$78K),\nthe deployer (0x7baa94) invoked the victim contract's 'emergencyWithdrawUSDT'\nfunction multiple times, each for a small amount rather than withdrawing all\nthe funds at once. This allowed the attacker to make small, repeated profits,\nultimately accumulating to $140K. First attack TX:\n[https://app.blocksec.com/explorer/tx/bsc/0xa86a0e3b7de28fd5d5698230f5cff8e0ad6785f438e6327c4480fd8fe23cc07c\u2026](https://t.co/nT7u8Izsek)\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take\nautomatic actions to protect your assets.\n[https://blocksec.com/phalcon](https://t.co/5cGK9A1psv)"
+    }
+}

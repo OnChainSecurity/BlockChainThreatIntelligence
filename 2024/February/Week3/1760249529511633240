@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/pcaversaccio/status/1760249529511633240",
+        "timestamp": "2024-02-21 00:00:00",
+        "original_content": "Suppose u have accidentally pushed a `.env` file into ur repo. You immediately\nhit `git reset --hard HEAD^ && git push origin -f`. Now u feel safe again.\nWRONG! GitHub DOES NOT DELETE FORCED-PUSHED COMMITS! All dangling commits can\nbe retrieved via GH's API endpoint `PushEvents`.[](https://t.co/smeCoijhZD)\n"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1681120413110407169",
+        "timestamp": "2023-07-18 09:38:31",
+        "original_content": "2/ Root cause: Emergency withdrawals were made without withdrawing the staked\nNFTs, and the rewardDebt ledger is set to 0, resulting in them still being\nclaimable when the stake was canceled. The attacker repeats this process and\nobtains a large reward."
+    }
+}

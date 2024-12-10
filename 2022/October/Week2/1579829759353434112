@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xPaladinSec/status/1579829759353434112",
+        "timestamp": "2022-10-11 00:00:00",
+        "original_content": "A vulnerability allowing for theft of assets has been discovered in DeBank\u2019s\nEVM wallet\u2019s swap contracts. If you\u2019ve used Rabby in the past, revoke ASAP as\nyour approvals to the contract might soon get drained as well."
+    }
+}

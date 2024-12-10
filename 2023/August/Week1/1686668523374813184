@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1686668523374813184",
+        "timestamp": "2023-08-02 00:00:00",
+        "original_content": ".\n\n[@uwerx_network](/uwerx_network)\n\nwas attacked, and the loss is ~175 ETH. The root cause is that in the\n_transfer function, the balance is deduced twice.\n[https://explorer.phalcon.xyz/tx/eth/0x3b19e152943f31fe0830b67315ddc89be9a066dc89174256e17bc8c2d35b5af8\u2026](https://t.co/qx0LGbqQ4a)[](https://t.co/MaxREEbjBP)\n"
+    }
+}

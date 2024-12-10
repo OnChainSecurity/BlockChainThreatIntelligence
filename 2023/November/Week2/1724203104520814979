@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1724203104520814979",
+        "timestamp": "2023-11-14 00:00:00",
+        "original_content": "? ~$366,000 Exploit Alert\n? The attacker was able to\ndrain approved funds from the victim contract (custom lending pool), that has\n$366,058 USDT's approved to PancakePair Most probable root cause is the\napproval issue in the SC ?\nOn-chain details ?[![](https://pbs.twimg.com/card_img/1845596302580854784/JPPaysE6?format=jpg&name=360x360)](https://t.co/bWZwMe6fcV)\n"
+    }
+}

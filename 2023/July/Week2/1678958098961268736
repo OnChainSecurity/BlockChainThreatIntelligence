@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1678958098961268736",
+        "timestamp": "2023-07-12 00:00:00",
+        "original_content": "(2/3) When transferring ETH to recipients, if Solidity's transfer() or send()\nmethods is used with a fixed gas limit of 2300, these shortcomings can make it\nimpossible to successfully transfer ETH to the smart contract recipient."
+    }
+}

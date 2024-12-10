@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1659601021432365056",
+        "timestamp": "2023-05-19 00:00:00",
+        "original_content": ".\n\n[@AaveAave](/aaveaave)\n\nthe latest upgrade of ReserveInterestRateStrategy in Aave V2 (Polygon) has\ncaused a temporary halt of the protocol, impacting assets worth ~$110M! The\nroot cause is the new ReserveInterestRateStrategy is only compatible with\nEthereum, not compatible with Polygon."
+    }
+}

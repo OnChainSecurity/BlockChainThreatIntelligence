@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://www.semanticscholar.org/paper/Ethereum-Phishing-Scams-Detection%3A-A-Survey-Zhang-Devaraj/aeee681b0aabfa773a3bab3880c1fec44afd7926",
+        "timestamp": "2017-12-04 00:00:00",
+        "original_content": "Ethereum Phishing Scams Detection: A Survey\n@article{Zhang2024EthereumPS,\n  title={Ethereum Phishing Scams Detection: A Survey},\n  author={Zhe Zhang and Madhavi Devaraj and Xin Bai and Honghao Lu},\n  journal={2024 International Conference on Artificial Intelligence and Digital Technology (ICAIDT)},\n  year={2024},\n  pages={70-75},\n  url={https://api.semanticscholar.org/CorpusID:271646963}\n}\nAn overview of past research findings on methods for detecting phishing scam in blockchain networks is provided and a more resilient model is constructed that can achieve the desired detection outcomes and differentiate phishing scams nodes with greater efficiency and precision.\nExpand\nSave to Library\nSave\nCreate Alert\nAlert\nCite"
+    }
+}

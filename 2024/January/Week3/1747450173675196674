@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1747450173675196674",
+        "timestamp": "2024-01-17 04:05:41",
+        "original_content": "Socket protocol\n\n[@SocketDotTech](/SocketDotTech)\n\nwas under a call injection attack with a loss of ~$3.3M. This attack was\nmainly due to an unsafe call in the performAction function. It did not\nconsider the case where the caller transfers in 0 WETH, allowing the caller to\nspecify other functions in the call and still pass the balance check. The\nattacker constructed calldata to call transferfrom() of arbitrary tokens,\ntransferring tokens approved to the contract by other users to the attacker's\naddress. The stolen funds are held at\n0x50DF5a2217588772471B84aDBbe4194A2Ed39066."
+    }
+}

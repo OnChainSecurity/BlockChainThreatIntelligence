@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1805535257828974877",
+        "timestamp": "2024-06-25 00:00:00",
+        "original_content": "2/ Solidity 0.8 introduced built-in overflow and underflow checks, making\nSafeMath obsolete in newer versions. Now, if an overflow or underflow occurs,\nthe transaction reverts automatically. This built-in safety net is a game-\nchanger for secure math operations."
+    }
+}

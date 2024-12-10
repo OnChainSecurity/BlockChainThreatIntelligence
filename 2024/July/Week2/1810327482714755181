@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/code4rena/status/1810327482714755181",
+        "timestamp": "2024-07-08 22:58:00",
+        "original_content": "\\- Led audits for top projects, including Alchemy, Base, and Frax \\- Authored\ncomplex puzzles for Paradigm and Curta CTFs, helping train and challenge the\nsecurity community \\- Contributed to Security Alliance (\n\n[@_SEAL_Org](/_SEAL_Org)\n\n) initiatives, including the recent OP/Base wargame simulation \\- Disclosed\nlive vulnerabilities in hardened codebases like PoolTogether, Camelot,\nOpenZeppelin, and many more"
+    }
+}

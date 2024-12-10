@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1712445197538468298",
+        "timestamp": "2023-10-12 00:00:00",
+        "original_content": "Due to the affected protocol being paused, here is a preliminary analysis of\nthis @Platypusdefi incident: 1\\. It's a Flashloan attack, with a total loss of\n~$2M. The Hacker manipulated 'cash' and 'liability' which affected the swap\nprice. 2\\. The first attack tx is:\n[https://explorer.phalcon.xyz/tx/avax/0xab5f6242fb073af1bb3cd6e891bc93d247e748a69e599a3744ff070447acb20f\u2026](https://t.co/esLyNWsPYc)\n3\\. There are 2 attackers who carried out the attack: \\-\n0x0cd4fd0eecd2c5ad24de7f17ae35f9db6ac51ee7 \\-\n0x464073F659591507d9255B833D163ef1Af5ccc2C 4\\. One of the attackers made a\nmistake, and the Platypus team successfully rescued $575K! The rescued funds\nhave been transferred to: 0x068e297e8ff74115c9e1c4b5b83b700fda5afdeb 5\\. We\nidentified that the forked project\n\n[@hummusdefi](/hummusdefi)\n\nhas the same issue and immediately contacted the Platypus team to see if they\ncould be notified. hummus defi has been informed and just paused the protocol.\n6\\. This incident continued with multiple attacks. Phalcon Block is an attack\nprevention system. You're welcome to join the waiting list."
+    }
+}

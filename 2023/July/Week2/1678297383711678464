@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1678297383711678464",
+        "timestamp": "2023-07-10 14:57:32",
+        "original_content": "Arcadia was attacked on both Ethereum and Optimistic. The attacker 1\n(0xd3641c9...a9467) first extracted 1.3 BNB from Tornado Cash on BSC, and then\ncross-chained to Ethereum through Stargate Finance. Then, the attacker cross-\nchained 0.023 ETH to Optimistic again as init funds."
+    }
+}

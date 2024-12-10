@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Cyvers_/status/1687040643913400320",
+        "timestamp": "2023-08-03 18:00:06",
+        "original_content": "\u26a0\ufe0f Pools affected:\nalETH/ETH, msETH/ETH, pETH/ETH, CRV/ETH due to\n[#Vyper] versions 0.2.15-0.3.0. The\nattackers manipulated Curve pool prices, draining cash and abandoning LPs."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1734244332599697802",
+        "timestamp": "2023-12-12 00:00:00",
+        "original_content": "? Exploit Alert\n?\n\n[@stoic_dao](/stoic_dao)\n\nhas experienced an exploit earlier today, draining the zetastaking.eth address\nThe deployer received ~100 [$ETH] from\nthis address, and swapped ~$212k worth of\n[$ZETA] via Uniswap 0xc98...fdd5\ncollected ~450 [$ETH] for now\n? On-chain details\n?[![](https://pbs.twimg.com/card_img/1845596302580854784/JPPaysE6?format=jpg&name=360x360)](https://t.co/bWZwMe6fcV)\n"
+    }
+}

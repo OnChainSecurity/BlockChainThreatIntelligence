@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1772560127456923655",
+        "timestamp": "2024-03-26 00:00:00",
+        "original_content": "ERC-404 introduced a novel concept by blending ERC-20 and ERC-721 standards to\ncreate semi-fungible tokens, allowing fractional ownership of NFTs. However,\nit encountered a critical exploit due to its 'transferFrom' function\nmishandling token types, leading to potential unfair credit allocation. In\nresponse, the DN404 team developed DN404, a new standard that addresses these\nvulnerabilities by separating ERC-721 and ERC-20 functionalities into distinct\ncontracts, enhancing security and reducing gas costs by about 20%. DN404 also\nintroduces DN404 Mirror, a complementary solution that ensures seamless\nintegration while maintaining efficiency and safety."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1685742026749300736",
+        "timestamp": "2023-07-31 00:00:00",
+        "original_content": "Please note that this reentrancy issue is associated with the use of\n'use_eth', which could potentially place the WETH-related pools in jeopardy!\n\n[@CurveFinance](/CurveFinance)\n\n, please DM us if you need any help."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1667790289946435584",
+        "timestamp": "2023-06-11 15:06:05",
+        "original_content": "\u26a0\ufe0fAtlantis Loans was under a\ngovernance attack for ~$1M. The attacker gained control over the contract and\nreplaced with a contract containing backdoor function to transfer tokens\napproved by users. Attacker:[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1829064208966623232/vErYoCCA?format=jpg&name=small)](https://t.co/78llLmEwro)\n"
+    }
+}

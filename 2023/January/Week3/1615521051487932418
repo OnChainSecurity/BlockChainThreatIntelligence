@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1615521051487932418",
+        "timestamp": "2023-01-18 00:00:00",
+        "original_content": "1/\n\n[@UpswingFinance](/UpswingFinance)\n\nwas hacked, and the loss is ~ 22.59 Ether:\n[https://phalcon.blocksec.com/tx/eth/0xd099a41830b964e93415e9a8607cd92567e40d3eeb491d52f3b66eee6b0357eb\u2026](https://t.co/s5XA2omIDx)\nIt is a price manipulation attack due to the design flaw of the\n[$UPStkn] token - the _transfer\nfunction of the token. Specifically, if the receiver is a UNI pool, the amount\nwill be accumulated."
+    }
+}

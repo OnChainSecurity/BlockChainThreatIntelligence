@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1685732718926032897",
+        "timestamp": "2023-07-31 03:21:17",
+        "original_content": "this contract uses the vulnerable version Vyper: 0.3.0"
+    }
+}

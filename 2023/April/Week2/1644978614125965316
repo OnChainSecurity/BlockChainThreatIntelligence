@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1644978614125965316",
+        "timestamp": "2023-04-09 00:00:00",
+        "original_content": "3/ At the same time, multiple MEV bots (and attackers) are copy-pasting the\nattack tx. Some of them used the Flashbots and gave more than 80% fee to the\nbuilder. One bot owned by c0ffeebabe.eth even bribed 678 Eth to the builder in\none transaction!"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1684037459796021248",
+        "timestamp": "2023-07-26 00:43:25",
+        "original_content": "3/ The root cause of the incorrect price calculation is that ctoken (0x1181D7)\nrelied on SyncSwap to calculate prices. There was a reentrancy vulnerability\nin the SyncSwap code. The attacker called SyncSwap's burn function to burn\ntheir own LP tokens, while borrowing ctokens in the reentrancy, with the\nborrow amount calculated based on SyncSwap's reserves at that time. The\nreserves were not updated in the reentrancy, so the calculated amount used\npre-burn reserves. After the reentrancy ended, the reserves were updated. The\nattacker repaid the loan, and now the calculation used the updated reserves.\nThis allowed the attacker to repay with fewer tokens than they borrowed, with\nthe difference being the profit."
+    }
+}

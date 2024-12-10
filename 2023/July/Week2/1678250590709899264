@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1678250590709899264",
+        "timestamp": "2023-07-10 00:00:00",
+        "original_content": ".\n\n[@ArcadiaFi](/ArcadiaFi)\n\nhas been attacked on Ethereum and Optimism, with total profits of $400K. Here\nare the attack transactions:\n[https://explorer.phalcon.xyz/tx/eth/0xefc4ac015069fdf9946997be0459db44c0491221159220be782454c32ec2d651\u2026](https://t.co/tPFnovNsNx)\n[https://explorer.phalcon.xyz/tx/optimism/0xca7c1a0fde444e1a68a8c2b8ae3fb76ec384d1f7ae9a50d26f8bfdd37c7a0afe\u2026](https://t.co/3jacOaOBdl)\nRoot cause analysis will follow in the next post."
+    }
+}

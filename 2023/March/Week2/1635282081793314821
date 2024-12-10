@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1635282081793314821",
+        "timestamp": "2023-03-13 00:00:00",
+        "original_content": "?We are thrilled to\nannounce a significant upgrade to Phalcon\n([http://phalcon.xyz](https://t.co/CiJHQ3znNA)). 1/ Debug Capability: Phalcon\nnow can dive into the function level analysis with the view of source code,\ncorresponding internal/external function calls, and the concrete parameter\nvalues."
+    }
+}

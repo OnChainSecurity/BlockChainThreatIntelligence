@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://securityboulevard.com/2022/06/attacks-on-blockchain-2/",
+        "timestamp": "2022-06-15 00:00:00",
+        "original_content": "Attacks on Blockchain\nby Abhishek Bhati on June 15, 2022\nWEB3 is the new buzzword in the town of tech, and blockchain is the core technology that is powering this seismic shift in the sea of internet. Cybersecurity and blockchain most often work in a complementary manner, and both are interdependent. Blockchain-based systems are inherently more secure than traditional systems since they work on a distributed architecture compared to the traditional client-server architecture. However, blockchains come with their own problems in regard to cybersecurity, and they have some unique attack vectors. These attack vectors can originate at the application level and also at the core blockchain level. In this blog piece, we will try to explore some of the key attacks that are possible on the core blockchain designs. These can occur due to design flaws or even some unforeseen circumstances, and hence the relevance and the level of fixes are also dependent on the type of vulnerability.\n\nWhile most of these attacks may seem theoretical or difficult to exploit, many of them have been successfully exploited in the past and have caused a massive amount of physical damage. Without much ado, let us take a look at some of the key attacks."
+    }
+}

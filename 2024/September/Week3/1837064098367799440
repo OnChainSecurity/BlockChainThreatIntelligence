@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1837064098367799440",
+        "timestamp": "2024-09-20 17:39:46",
+        "original_content": "[#CertiKInsight]\n? Since January 1, 2024, we\nhave recorded 51 incidents related to Private key compromises (PKC), resulting\nin total loss of ~$730M. During the same period in 2023, we recorded 31\nincidents with losses of ~$376M. PKCs have caused the second highest losses\nthis year after phishing."
+    }
+}

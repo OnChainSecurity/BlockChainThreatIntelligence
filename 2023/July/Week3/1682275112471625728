@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1682275112471625728",
+        "timestamp": "2023-07-21 14:23:36",
+        "original_content": "?COPENHEIMER\n[$COPE] on Ethereum has a backdoor\nfunction, where a privileged address can call a forged Approve to burn the\nbalance of any address. Contract: 0x1B78F8403db4De43A92d5D12336AFc8b1c1d4086\nPair address: 0xf3235FBC5b5B5954f7e9f3C7c1d877254ceb8c3E"
+    }
+}

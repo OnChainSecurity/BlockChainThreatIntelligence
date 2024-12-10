@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1635868391209680897",
+        "timestamp": "2023-03-15 00:00:00",
+        "original_content": "The attacker launched several attacks on different chains (e.g., ETH, BSC, and\nPolygon) to loot multiple tokens (e.g., POOLZ, ECIO, MNZ, ESNC, etc),\nincluding: ETH:\n[https://phalcon.xyz/tx/eth/0x118a617bddd1c14810113be81ce336f28cc1ee7a7b538a07184b93e7c51bdc00\u2026](https://t.co/aqFEU7Wvks)\nBSC:\n[https://phalcon.xyz/tx/bsc/0x39718b03ae346dfe0210b1057cf9f0c378d9ab943512264f06249ae14030c5d5\u2026](https://t.co/UkcgvN87DR)\nPolygon:\n[https://phalcon.xyz/tx/polygon/0x606be0ac0cdba2cf35b77c3ccbbd8450b82e16603157facec482958032558846\u2026](https://t.co/R1044ZLI9H)"
+    }
+}

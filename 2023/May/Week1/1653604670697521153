@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1653604670697521153",
+        "timestamp": "2023-05-03 00:00:00",
+        "original_content": "1/ The NeverFall project on BSC was attacked\n([https://explorer.phalcon.xyz/tx/bsc/0xccf513fa8a8ed762487a0dcfa54aa65c74285de1bc517bd68dbafa2813e4b7cb\u2026](https://t.co/AkhNx8CInQ)),\nand the loss was over 70K. It is a price manipulation attack due to the flawed\ncalculation that relies on the balance of the corresponding PancakeSwap pair.\nThanks @darkgoforit for the message."
+    }
+}

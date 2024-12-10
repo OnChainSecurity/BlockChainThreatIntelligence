@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1659128820602134529",
+        "timestamp": "2023-05-18 17:28:30",
+        "original_content": "?Beosin security\nresearchers have recently discovered a critical vulnerability in the library\nof SnarkJS (version 0.6.11 and earlier). SnarkJS is an open source JavaScript\nlibrary for building zero-knowledge proofs, widely used in the implementation\nand optimisation of zk-SNARK. After reporting the vulnerability, Beosin\nimmediately contacted the project and assisted in remediation. The remediation\nis currently still being tested. Beosin reminds all projects who have used the\nSnarkJS library to be aware of the security risks while the vulnerability is\nstill not fully fixed."
+    }
+}

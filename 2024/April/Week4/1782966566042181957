@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1782966566042181957",
+        "timestamp": "2024-04-24 00:00:00",
+        "original_content": "2/ As the funds have been drained, we are providing our analysis here. The\nroot cause is due to the unverified input in the redeem function.\n[https://app.blocksec.com/explorer/tx/bsc/0x49ca5e188c538b4f2efb45552f13309cc0dd1f3592eee54decfc9da54620c2ec\u2026](https://t.co/zReF1BYwFl)"
+    }
+}

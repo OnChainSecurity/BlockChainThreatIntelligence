@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1669020378767966212",
+        "timestamp": "2023-06-15 00:00:00",
+        "original_content": "The router of\n\n[@Hashflow](/hashflow)\n\nhas been detected with a vulnerability that allows an attacker to transfer\napproved assets out. We strongly urge you to revoke the approval to the\nrouter: 0x79cdfd7bc46d577b95ed92bcdc8ababa1844af0c."
+    }
+}

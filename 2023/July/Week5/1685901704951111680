@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1685901704951111680",
+        "timestamp": "2023-07-31 00:44:58",
+        "original_content": "?Vyper versions 0.2.15,\n0.2.16 and 0.3.0 are vulnerable to malfunctioning reentrancy locks. LP pools\npaired with ETH in these versions can be vulnerable to reentrancy attacks. As\na result, alETH/ETH, msETH/ETH, pETH/ETH, CRV/ETH are affected. The total loss\nis ~$59,506,251, and $5,348,161 are returned by c0ffeebabe.eth."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://www.semanticscholar.org/paper/Uncle-Maker%3A-(Time)Stamping-Out-The-Competition-in-Yaish-Stern/82320fd747c76152a0562cd0da8c75591f9f887d/figure/3",
+        "timestamp": "2024-05-08 00:00:00",
+        "original_content": "Uncle Maker: (Time)Stamping Out The Competition in Ethereum\n@article{Yaish2023UncleM,\n  title={Uncle Maker: (Time)Stamping Out The Competition in Ethereum},\n  author={Aviv Yaish and Gilad Stern},\n  journal={Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security},\n  year={2023},\n  url={https://api.semanticscholar.org/CorpusID:251695233}\n}\nAn attack on Ethereum 1's consensus mechanism, which allows miners to obtain higher mining rewards compared to their honest peers, is presented and analyzed, making this the first evidence of miner manipulation of a major consensus mechanism.\nExpand\nSave to Library\nSave\nCreate Alert\nAlert\nCite"
+    }
+}

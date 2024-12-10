@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1679039080485765120",
+        "timestamp": "2023-07-12 15:21:42",
+        "original_content": "2/ In transferFrom (), the victim contract will swap\n[$USDT] in the contract for\n[$WGPT], thereby raising the price of\n[$WGPT]. The attacker calls transferFrom\nmultiple times to deposit into the pair and withdraws it through the skim\nfunction, repeatedly increasing the price of\n[$WGPT]. Finally, the attacker profits by\nswapping the held [$WGPT] for\n[$USDT]."
+    }
+}

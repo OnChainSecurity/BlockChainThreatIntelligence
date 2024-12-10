@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1831238684563358108",
+        "timestamp": "2024-09-04 15:51:39",
+        "original_content": "Penpie (\n\n[@Penpiexyz_io](/Penpiexyz_io)\n\n), a farming protocol built on the Pendle Protocol, suffered a reentrancy\nattack, leading to a loss of approximately $27M.\n[https://metasleuth.io/result/eth/0x7a2f4d625fb21f5e51562ce8dc2e722e12a61d1b?source=98fe6364-3959-4a75-b8ce-0db16f016879\u2026](https://t.co/iEUmLhmGUK)\nUsing [#MetaSleuth], we visualized the\nflow of funds involved in this attack:\n?Funding Source: 9.96 ETH\nfrom [#TornadoCash]\n?Attack Execution: The\nattacker targeted both the [#Ethereum]\nand [#Arbitrum] networks.\n?On Arbitrum, they bridged\n0.1 ETH via Across to initiate the attack, profiting around 274 ETH. This was\nthen bridged back to Ethereum, where it was merged with profits from the\nEthereum attack. ?Current\nStatus: 8,113 ETH remains in address\n0x2f2dde668e5426463e05d795f5297db334f61c39 (marked as an orange node in\nMetaSleuth), with 2,900 ETH already sent to Tornado Cash. MetaSleuth supports\n15 networks, including Ethereum, Tron, Arbitrum, and Solana.\n?\ufe0fTrack on-chain behavior\nand become an on-chain detective with MetaSleuth."
+    }
+}

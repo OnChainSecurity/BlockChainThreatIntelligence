@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1775296198812819715",
+        "timestamp": "2024-04-03 06:56:11",
+        "original_content": "? Internal accounting in\nvaults coupled with rounding led to around $7 million hacked Internal\naccounting is used in vaults to prevent the price inflation attack, but it can\nbe lethal if the attacker is able to achieve this state: Total Amount = 2\nTotal Shares = 1 But how?"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1714701703101186208",
+        "timestamp": "2023-10-19 00:00:00",
+        "original_content": "The attacker manipulated the liquidityIndex of the hEthWBTC contract (from\n1e27 to 7,560,000,001e27), resulting the precision loss at end."
+    }
+}

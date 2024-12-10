@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1672422890288066560",
+        "timestamp": "2023-06-24 09:53:37",
+        "original_content": "Attack flow: 1/ The attack contract obtains 40\n[$WBNB] via flash loan, and swaps 39 WBNB\nfor [$SHIDO] in the trading pair, with\nthe recipient being the AntiBotLiquidityGeneratorToken contract of SHIDO. 2/\nThe attacker uses 0.01 BNB to call the addLiquidityETH function in the\nAntiBotLiquidityGeneratorToken contract, obtaining the\n[$SHIDO] swapped in the previous step to\nthe attack contract. 3/ The attack contract locks\n[$SHIDO] tokens in the ShidoLock\ncontract (the v1 tokens set by the lock contract; when the unlock time is\nreached, v2 tokens are obtained). Due to the configuration error of the\nShidoLock contract (the unlock time is fixed at 14:00 on June 23, 2023,\nregardless of the collateral time), the attacker can immediately unlock and\nobtain a large number of v2 tokens. 4/ The attacker swaps v2 tokens in the\ntrading pair for 1,016 WBNB, and after repaying the flash loan, profits 976\nWBNB.[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1830544233360400385/tsw7b85-?format=jpg&name=small)](https://t.co/XhxAO2oooK)\n"
+    }
+}

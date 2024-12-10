@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1657411284076478465",
+        "timestamp": "2023-05-13 00:00:00",
+        "original_content": ".\n\n[@bitpaidio](/bitpaidio)\n\non BSC has just been exploited. The root cause of the issue was that\nLock_Token() did not properly update the lock times. The exploiter made a\nlock() 6 months ago, which led to an over-calculation of rewards during the\nwithdraw(). The loss from this attack amounts to only $1K, but it's worth\nmentioning that the attacker discovered the vulnerability 6 months ago and\npatiently carried out the attack."
+    }
+}

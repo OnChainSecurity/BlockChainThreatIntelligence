@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MultichainOrg/status/1414248253822881793",
+        "timestamp": "2021-07-11 00:00:00",
+        "original_content": "An exploit was detected in the new anyswap v3 prototype, all bridge funds used\nin v1/v2 are safe, a full post mortem will be released. Remedial action\nalready in place for all exploited funds. LPs to v3 won't take any losses."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1787765100494913722",
+        "timestamp": "2024-04-25 00:00:00",
+        "original_content": "[@Uniswap](/Uniswap)\n\nintroduced TWAP in October 2022 to mitigate the problem of manipulating the\nprice from slot0. Before diving into this thread about TWAP, check out our\npost about slot0 manipulation:\n[https://x.com/shieldifysec/status/1783415457858326947?s=46\u2026](/shieldifysec/status/1783415457858326947?s=46)\nNow follow the thread ?"
+    }
+}

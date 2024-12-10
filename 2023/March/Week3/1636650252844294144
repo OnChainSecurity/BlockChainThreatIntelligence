@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1636650252844294144",
+        "timestamp": "2023-03-17 00:00:00",
+        "original_content": "1/ There is a flawed logic in borrow() of the ParaProxy contract (0x638a) of\n\n[@ParaSpace_NFT](/ParaSpace_NFT)\n\n. The attacker can borrow more tokens as his scaledBalance will be enlarged by\ndepositing into the position of the proxy (0xC5c9), i.e., specifying the\n_recipient of depositApeCoin()."
+    }
+}

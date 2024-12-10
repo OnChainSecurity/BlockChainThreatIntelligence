@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1776166822909509954",
+        "timestamp": "2024-04-05 00:00:00",
+        "original_content": "13/ Finally, the mitigation! In the code we should check for S value is larger\nor smaller than N/2 and revert for the second one. This is what OpenZeppelin\ndoes on line 102 of their ECDSA contract."
+    }
+}

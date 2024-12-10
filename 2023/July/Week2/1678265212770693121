@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1678265212770693121",
+        "timestamp": "2023-07-10 12:42:48",
+        "original_content": "In addition, there is a lack of reentrancy protection, which allows for the\ninstant liquidation to bypass the internal vault health check."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1777251059905298468",
+        "timestamp": "2024-04-08 00:00:00",
+        "original_content": "We all know that even if the contract doesn\u2019t have a receive or fallback\nfunction, they can still receive tokens if someone uses selfdestruct opcode.\nBut what happens when there, if a contract Malicious Sender has 10 ether and\ntries to send it via selfdestruct to the Victim.sol contract?"
+    }
+}

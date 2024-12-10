@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1851816489286041885",
+        "timestamp": "2024-10-31 00:00:00",
+        "original_content": "[#CertiKInsight]\n?\n\n[@SUNRAY_DEX](/SUNRAY_DEX)\n\nsuffered a private key compromise; the exploiter acquired ownership of SUN and\nARC tokens and minted large sums before dumping them to drain the dex pairs.\nThe exploiter has stolen $2.855M, now at\n0xC4059d92f941e1d1fB631f6358A41A9De4eccC9A Stay Vigilant!"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1800336632371192182",
+        "timestamp": "2024-06-11 09:17:56",
+        "original_content": "Analysis of\n\n[@UwU_Lend](/UwU_Lend)\n\nattack: UwU Lend attack is caused by price manipulation. The attacker first\nuse flash loan to swap [$USDe] for other\ntokens, which led to a lower price of\n[$USDe] and\n[$sUSDe]. The attacker deposited some to\nUwU Lend and then lent more [$sUSDe]\nthan expected."
+    }
+}

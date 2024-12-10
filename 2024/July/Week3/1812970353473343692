@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1812970353473343692",
+        "timestamp": "2024-07-16 05:59:50",
+        "original_content": "Did you know you can fetch code for any contract address directly using\nFoundry Cast? Use the etherscan-source <address> command to get any smart\ncontract source code from Etherscan. You can also use the -d option to save it\ndirectly into a directory."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1745128591866712187",
+        "timestamp": "2024-01-11 00:00:00",
+        "original_content": "7/ ERC4337 Compliance: Non-compliance with ERC4337 standards can lead to bugs\nand incompatibilities. For instance, Biconomy had parts that didn't comply,\naffecting interactions with the EntryPoint contract."
+    }
+}

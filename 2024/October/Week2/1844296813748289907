@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1844296813748289907",
+        "timestamp": "2024-10-10 00:00:00",
+        "original_content": "List Of 18 Defi Vulnerabilities + Code Examples:\n?\n[https://github.com/0xRajkumar/DefiVuln\u2026](https://t.co/q8PLave9d1) 1\\. DOS 2\\.\nDelegate call 3\\. Divide before multiply 4\\. ERC777-reentrancy 5\\. Iscontract\n6\\. Outdated cache 7\\. Overflow 8\\. Private data 9\\. Randomness 10\\.\nReentrancy 11\\. Selfdestruct 12\\. Side-reentrancy 13\\. Storage collision 14\\.\nStrict equalities 15\\. Transaction origin 16\\. Unsafe call 17\\. Visibility\n18\\. Unchecked External Call"
+    }
+}

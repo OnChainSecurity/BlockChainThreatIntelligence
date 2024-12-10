@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1669956324027953152",
+        "timestamp": "2023-06-17 00:00:00",
+        "original_content": "1/ @Pawnfi was attacked in a furry of transactions (e.g.,\n[https://explorer.phalcon.xyz/tx/eth/0xe855cc3bad87933bf742fd474bd0ae0ec58d45e9c1a0643b9700dafe8faf0864?line=1656\u2026](https://t.co/uySwYZCJUi))\nThe root cause for the attack is that the protocol failed to verify whether\nthe NFT had actually been transferred when users used a specified NFT as\ncollateral for borrowing."
+    }
+}

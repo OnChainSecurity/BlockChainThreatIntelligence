@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1686217464051539968",
+        "timestamp": "2023-08-01 00:00:00",
+        "original_content": ".\n\n[@LeetSwap](/LeetSwap)\n\non [$Base] was attacked, and the loss was\nover 340 ETH. The attacker abused the public _transferFeesSupportingTaxTokens\nfunction to manipulate the pool: 1\\. Swapping\n[$WETH] for another token A. 2\\. Invoking\nthe _transferFeesSupportingTaxTokens function to transfer token A, and\nsubsequently invoking the sync function, causing the price of token A to\nincrease. 3\\. Swapping token A for\n[$WETH] and draining the pool. The\nattacker (0x705f) launched several attacks, targeting multiple such pools. The\nprofits reaped from these exploits were then transferred to another address\n(0x5b03)."
+    }
+}

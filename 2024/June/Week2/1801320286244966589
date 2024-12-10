@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1801320286244966589",
+        "timestamp": "2024-06-14 00:00:00",
+        "original_content": "When setting Portal Energy, the protocol has several modes, and the\nvulnerability appears in mode 1, specifically. The protocol first swaps its\nPSM token to WETH via 1inch then supplies both tokens as liquidity."
+    }
+}

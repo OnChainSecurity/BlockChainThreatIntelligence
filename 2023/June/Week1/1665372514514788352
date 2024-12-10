@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1665372514514788352",
+        "timestamp": "2023-06-04 22:58:43",
+        "original_content": "Based on the analysis of the fund flow in the Atomic wallet hack incident, we\nfound the fund flow follows a pattern, involving four types of addresses. 1\\.\nThe victim: The victim's valuable assets were almost completely drained. 2\\.\nThe direct drainer: The stolen assets were directly transferred to this\naddress, which is also responsible for swapping the assets for native tokens.\n3\\. The keeper: This address currently holds the stolen assets. It received\nthe assets from the direct drainer. 4\\. The gas fee provider: This address\nprovided native assets to the victim or the direct drainer in case they did\nnot have enough ones for the transaction fee. The source of the funds may also\ncome from the victim, but further investigation is needed. In addition, both\nthe direct drainer and the keeper are new addresses that have been active for\napproximately 30 hours. Special thanks to\n\n[@zachxbt](/zachxbt)\n\nand\n\n[@tayvano_](/tayvano_)\n\nfor providing the data.\n[https://metasleuth.io/result/eth/0x4fd4f171ec70c3fdb981f3de71c1db3c5632306e?source=ab5520c0-b37a-4b11-98ba-5992558cec7f\u2026](https://t.co/wdeFwSyaAv)"
+    }
+}

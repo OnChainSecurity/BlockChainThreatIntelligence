@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1687071095328067584",
+        "timestamp": "2023-08-03 00:00:00",
+        "original_content": "We found an unverified contract (0xd614) on Arbitrum was attacked. The\nattacker makes the victim contract to approve tokens to the attacker and then\ndrains the contract by calling the transferFrom function. The loss is around\n800K USD.\n[https://explorer.phalcon.xyz/tx/arbitrum/0x864c8cfb8c54d3439613e6bd0d81a5ea2c5d0ad25c9af11afd190e5ea4dcfc1f\u2026](https://t.co/NvptNwL5Uh)"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1749477258270519518",
+        "timestamp": "2024-01-23 00:00:00",
+        "original_content": "4/6 ? Integer Overflow &\nUnderflow: A major issue where numbers exceed their defined range, leading to\nunexpected outcomes. \u2705 Good\nnews: Solidity 0.8.0+ automatically checks this. For older versions, use\n[#SafeMath] library."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1675708144885047298",
+        "timestamp": "2023-07-03 11:28:45",
+        "original_content": "7/ Now, there is reason to believe that three keepers\n(0x4c46e1f946362547546677bfa719598385ce56f2,\n0x51b7529137d34002c4ebd81a2244f0ee7e95b2c0,\n0x3dfccb7b8a6972cde3b695d3c0c032514b0f3825) may have suffered private key\ncompromise or a multi-signature service attack."
+    }
+}

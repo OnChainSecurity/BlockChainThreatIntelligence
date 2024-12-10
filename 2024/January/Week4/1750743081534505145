@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1750743081534505145",
+        "timestamp": "2024-01-26 00:00:00",
+        "original_content": "ALERT! Our system has detected an attack targeting the address\n0x0dc30bd898011c9e60ecedc112b6d1c7dad5e810 on\n[#Ethereum]. Please revoke any approvals\ngranted to this address ASAP!"
+    }
+}

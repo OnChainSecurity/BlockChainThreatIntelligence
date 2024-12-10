@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1761919294580105220",
+        "timestamp": "2024-02-26 08:51:42",
+        "original_content": "the victim signed a Uniswap Permit2 permit batch signature, which gives\nmultiple token approvals to the spender\n`0xb9c899360ddf1332cb7308098454b2766d5ac583 ` [https://etherscan.io/tx-\ndecoder?tx=0x81de439f265634c5568f9ab908c78fb4dea4772ede1e74642b50c6c5553e7834\u2026](https://t.co/0vK9wZy6wM)"
+    }
+}

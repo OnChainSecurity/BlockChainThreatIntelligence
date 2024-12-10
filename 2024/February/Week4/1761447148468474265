@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/pcaversaccio/status/1761447148468474265",
+        "timestamp": "2024-02-24 17:49:41",
+        "original_content": "1) TL;DR: If you have deposited to Tornado Cash using IPFS gateways ( like\n[http://ipfs.io](https://t.co/1hsQ7ob2Yr), [http://cf-\nipfs.com](https://t.co/kGNIzyZMeC), [http://eth.link](https://t.co/Ear191IPjs)\n), your note would likely be exposed and the deposited funds are at risk.\n[https://gas404.medium.com/tornado-cash-notes-exploit-from-jan-1st-and-the-\nactions-you-must-take-6076748bc886\u2026](https://t.co/nbFsTDTQU1)"
+    }
+}

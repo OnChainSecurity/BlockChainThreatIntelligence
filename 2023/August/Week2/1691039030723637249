@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1691039030723637249",
+        "timestamp": "2023-08-14 18:48:15",
+        "original_content": "4/ The zETH (LP) value calculation depends on both the CRV price and the\nexchange rate calculated from the CRV and ETH balances in the\nsEthFraxEthCurveConvex contract. The attacker manipulated the\n[$CRV] price and\n[$CRV] balance, increasing the final\n_assetPriceCached."
+    }
+}

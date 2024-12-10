@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1730625352953901123",
+        "timestamp": "2023-12-02 00:30:12",
+        "original_content": "Our system has detected some suspicious transactions that target an unknown\nproject on BSC, resulting in a loss of approximately $500K+. As the contract\nis unverified, we suspect that it might be due to potential flaws in the\nreward calculation logic. The contract 0x431abb seems to distribute\n[#FCN] token rewards to users, which are\ncalculated based on the reserve amount of the FCN-BSC-USD pair. The attacker\nfirst staked some tokens. After that, he first flash-loaned BSC-USD from the\npair and then claimed rewards within the flash loan callback. Due to the\ndecreased amount of BSC-USD in the pair, 0x431abb incorrectly calculated the\nreward, leading to an excessive allocation of\n[#FCN] tokens to the attacker. Suspicious\ntransactions: 1\\. stake tokens:\n[https://explorer.phalcon.xyz/tx/bsc/0xbeea4ff215b15870e22ed0e4d36ccd595974ffd55c3d75dad2230196cc379a52\u2026](https://t.co/RhZ5jWRscA)\n2\\. claim reward:\n[https://explorer.phalcon.xyz/tx/bsc/0xb650e9f4b9eb023ea65b55ca4d088323e3d5bda377880dedb149a7fd3fd5c15f\u2026](https://t.co/gguVANHEnV)"
+    }
+}

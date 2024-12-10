@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1657715018908180480",
+        "timestamp": "2023-05-14 00:00:00",
+        "original_content": ".\n\n[@TrustTheTrident](/TrustTheTrident)\n\nhas been exploited once again! The root cause is that the StakingRewards\ncontract's Claim() function did not properly validate the input parameters,\nallowing the attacker to pass a Fake token to obtain more rewards."
+    }
+}

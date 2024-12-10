@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1836281811770708222",
+        "timestamp": "2024-09-16 16:55:00",
+        "original_content": "[#CertiKInsight]\n? On September 16th,\n\n[@DeltaPrimeDefi](/DeltaPrimeDefi)\n\nsuffered an exploited of nearly\n$6M.([https://x.com/DeltaPrimeDefi/status/1835603279369125893\u2026](/DeltaPrimeDefi/status/1835603279369125893))\nYesterday, 1336 ETH (~$3M) of the stolen fund was bridged from Artbirum to\nEthereum and was quickly 'laundered' through Tornado Cash. The fund was then\ndispersed and is being bridged to the BTC network via THORChain. While 1150\nETH (~$2.67M) is still held by arb:0xb151c4071bc8adb858535f92cdd2a3b77b9d481f"
+    }
+}

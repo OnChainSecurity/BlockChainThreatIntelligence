@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1667485147799887875",
+        "timestamp": "2023-06-10 18:36:14",
+        "original_content": "The implementation contract for a significant amount of Atlantis tokens was\nreplaced in the transaction\n[https://explorer.phalcon.xyz/tx/bsc/0x7ba101f94450f52a389600dc8a3205eb4e3d5d56d1efd328c44f0fa29c4789ac\u2026](https://t.co/YWLXroZksC).\nIf you have approved your assets to a contract that appears to be\nABep20Delegator, please revoke your approval."
+    }
+}

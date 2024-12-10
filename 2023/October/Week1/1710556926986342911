@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1710556926986342911",
+        "timestamp": "2023-10-07 00:00:00",
+        "original_content": "?\n\n[@starsarenacom](/starsarenacom)\n\nhas been exploited. Since it is not open source, we suspect that some key\nconfigurations have been manipulated due to a re-entrancy issue. They forked\n\n[@friendtech](/friendtech)\n\n's code, but the issue is in the new/edited parts."
+    }
+}

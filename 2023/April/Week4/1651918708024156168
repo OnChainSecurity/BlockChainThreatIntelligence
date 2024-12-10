@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1651918708024156168",
+        "timestamp": "2023-04-28 00:00:00",
+        "original_content": "1/ Our system monitored that\n\n[@0vixProtocol](/0vixProtocol)\n\non Ploygon was hacked, and the loss is around $2M. The root cause is due to\nthe flawed price calculation of a deflation token.\n[https://explorer.phalcon.xyz/tx/polygon/0x10f2c28f5d6cd8d7b56210b4d5e0cece27e45a30808cd3d3443c05d4275bb008\u2026](https://t.co/TnQTMGuHGD)"
+    }
+}

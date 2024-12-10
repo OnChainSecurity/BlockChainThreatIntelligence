@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1783415457858326947",
+        "timestamp": "2024-04-25 00:00:00",
+        "original_content": "The vulnerability of usage of the Uniswap slot0 function is widely known, but\nwe still see protocols implement it. For example, we found such an issue in\nthe recent SteakHut security review. The slot0 function returns lots of values\nbut we're interested in sqrtPriceX96\n?"
+    }
+}

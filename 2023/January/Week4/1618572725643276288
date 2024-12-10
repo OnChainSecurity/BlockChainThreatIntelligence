@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1618572725643276288",
+        "timestamp": "2023-01-26 00:00:00",
+        "original_content": "1/ UniswapV2Pair WETH-BCI was attacked in many TXs:\n[https://etherscan.io/address/0x69f0edc352ecffc4ef49516c9b20ea88b3e947cb#tokentxns\u2026](https://t.co/E3zvuSffSi).\nThe profit is ~$11K. It is due to the flawed logic in the internal _transfer()\nfunction of the BCI token contract, i.e., it burns 1% BCI tokens from the pool\nevery 10 mins (triggered by a transfer)."
+    }
+}

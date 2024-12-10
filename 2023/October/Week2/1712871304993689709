@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1712871304993689709",
+        "timestamp": "2023-10-14 00:00:00",
+        "original_content": ".\n\n[@Wise_Lending](/Wise_Lending)\n\nhas been attacked (notable white-hat c0ffeebabe.eth managed to front-run\nsuccessfully), and the Pool has been drained. In this incident, the attacker\nexploited two issues to successfully carry out the attack: 1\\. Manipulating\nthe value of each shares through 'Donate'. 2\\. Using precision loss to lead\n'withdrawShares' to 0 and withdraw the donated WBTC. Here is the transaction\nof the attack:\n[https://explorer.phalcon.xyz/tx/eth/0x7ac4a98599596adbf12fffa2bd23e2a2d2ac7e8989b6ea043fcc412a29126555\u2026](https://t.co/QprFGiCXDL)"
+    }
+}

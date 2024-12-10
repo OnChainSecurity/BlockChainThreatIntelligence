@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1622860389263495169",
+        "timestamp": "2023-02-07 00:00:00",
+        "original_content": "Looks\n[https://etherscan.io/address/0xe1b32be07fac77271554baf1724a5cc78185ed8b#code\u2026](https://t.co/JiEHlILeK0)\nwas attacked. The attacker is 0x3a0c0ac4f5759c58bbdd9825190a1eb89503361d. The\npossible root cause is the sensitive call without access control. Attack tx:\n[https://phalcon.blocksec.com/tx/eth/0xda9542cc57b56806112bf553c181bb833073fb0d2a7b6191fd64e95a02a7498f\u2026](https://t.co/L2jEJQ9gFV)"
+    }
+}

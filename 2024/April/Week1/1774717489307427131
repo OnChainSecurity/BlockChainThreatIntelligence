@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1774717489307427131",
+        "timestamp": "2024-04-01 00:00:00",
+        "original_content": "3/ During this function call, an untrusted external call enabled the creation\nof an additional position with minimal collateral through the OpBorrowing\ncontract, which was subsequently liquidated. However, as both the OpenLevV1\nand OpBorrowing contracts rely on the LToken contract for their operations,\nthe debt associated with the margin position was inadvertently \"cleared\"\nduring the liquidation process."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1645742620897955842",
+        "timestamp": "2023-04-11 00:00:00",
+        "original_content": "Looks like\n\n[@paribus_io](/paribus_io)\n\non Arbitrum was just attacked. Yet another example of classical reentrancy\nissue... Be cautious when you try to modify the code logic forked from a well-\nknown project.\n[https://phalcon.xyz/tx/arbitrum/0x0e29dcf4e9b211a811caf00fc8294024867bffe4ab2819cc1625d2e9d62390af\u2026](https://t.co/sw54QEPvIe)"
+    }
+}

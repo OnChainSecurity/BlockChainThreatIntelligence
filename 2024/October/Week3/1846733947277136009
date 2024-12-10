@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1846733947277136009",
+        "timestamp": "2024-10-17 00:00:00",
+        "original_content": "The Radiant team has confirmed the issue with their lending markets as the\nattacker gained ownership of their multi-sig wallet and replaced the lending\npool implementation contracts. Please immediately revoke all approval of the\nfollowing addresses. ETH: 0xA950974f64aA33f27F6C5e017eEE93BF7588ED07 BNB:\n0xd50Cf00b6e600Dd036Ba8eF475677d816d6c4281 BASE:\n0x30798cFe2CCa822321ceed7e6085e633aAbC492F ARB:\n0xF4B1486DD74D07706052A33d31d7c0AAFD0659E1\n[https://x.com/RDNTCapital/status/1846673545973432333\u2026](/RDNTCapital/status/1846673545973432333)"
+    }
+}

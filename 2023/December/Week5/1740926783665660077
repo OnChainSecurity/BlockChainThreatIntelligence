@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1740926783665660077",
+        "timestamp": "2023-12-30 10:44:24",
+        "original_content": "ALERT! Our system has detected a suspicious proposal targeting\n\n[@AnnexFinance](/AnnexFinance)\n\n. The proposal description is about adjusting protocol parameters, but the\nactual action is to setPendingAdmin. The proposer has already obtained the\nnecessary voting power."
+    }
+}

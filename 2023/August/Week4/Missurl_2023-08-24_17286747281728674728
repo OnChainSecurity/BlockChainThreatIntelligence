@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://www.semanticscholar.org/paper/Understanding-Money-Trails-of-Suspicious-Activities-Lal-Agarwal/63961398d6a3a82fee426e6b00038d3473109790",
+        "timestamp": "2023-08-24 00:00:00",
+        "original_content": "Understanding Money Trails of Suspicious Activities in a cryptocurrency-based Blockchain\n@article{Lal2021UnderstandingMT,\n  title={Understanding Money Trails of Suspicious Activities in a cryptocurrency-based Blockchain},\n  author={Banwari Lal and Rachit Agarwal and Sandeep Kumar Shukla},\n  journal={ArXiv},\n  year={2021},\n  volume={abs/2108.11818},\n  url={https://api.semanticscholar.org/CorpusID:237303771}\n}\nIt is found that malicious activities (such as Gambling, Phishing, and Money Laundering) have different cyclic patterns in Ethereum and two suspicious temporal cyclic path-based transfers in Ethereum are identified.\nExpand\nSave to Library\nSave\nCreate Alert\nAlert\nCite"
+    }
+}

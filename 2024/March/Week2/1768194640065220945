@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/De_FiSecurity/status/1768194640065220945",
+        "timestamp": "2024-03-13 00:00:00",
+        "original_content": "?UPD: Blast Network is back\nto process txs Their statement: \"Users can now use any of the recommended\npublic RPC providers. All public RPCs have upgraded their nodes following the\nDencun upgrade. Reminder that if you had transactions during the downtime\ntoday and are using MetaMask please go to settings -> advanced -> clear\nactivity and nonce data. If you're using Rabby go to more -> clear pending.\""
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xPaladinSec/status/1795887995884810605",
+        "timestamp": "2024-05-30 00:00:00",
+        "original_content": "Pleased to announce the successful conclusion of our audit for\n\n[@dragonswap_dex](/dragonswap_dex)\n\nCheck out the audit report here:\n[https://paladinsec.co/projects/dragonswap/?swcfpc=1\u2026](https://t.co/lduGMESI3r)\nUsers, kindly ensure contract addresses match with our audit. Our audits cover\ncode-related risks; additional due diligence is advised on other project\naspects."
+    }
+}

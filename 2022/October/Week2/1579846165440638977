@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xPaladinSec/status/1579846165440638977",
+        "timestamp": "2022-10-11 00:00:00",
+        "original_content": "/7 The transaction did not get stolen by MEV There are two reasons why it did\nnot get stolen by MEV: 1\\. The transaction was submitted with the flasbots rpc\n2\\. The stolen funds were not directly dumpable, so MEV searchers would likely\nnot have realized how profitable this tx was"
+    }
+}

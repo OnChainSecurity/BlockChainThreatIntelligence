@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1678302670040498179",
+        "timestamp": "2023-07-10 15:18:32",
+        "original_content": "[@ArcadiaFi](/ArcadiaFi)\n\nwas exploited for $455k on both\n[#Ethereum] and\n[#Optimism]. ~$332K was deposited into\nTornado Cash. The root cause is the lack of parameter check of attacker\u2019s\ninput, allowing the hacker to approve leveraged funds to the malicious\ncontract."
+    }
+}

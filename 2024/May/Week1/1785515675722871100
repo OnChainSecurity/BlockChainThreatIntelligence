@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1785515675722871100",
+        "timestamp": "2024-05-01 00:00:00",
+        "original_content": "Another two attack transactions with relatively minor losses on\n[#Arbitrum] and\n[#Optimism]:\n[https://app.blocksec.com/explorer/tx/arbitrum/0xdac6af5695ba00b3d229574dbf7fcc326d16b9f8a52ad2620637d3022956d157\u2026](https://t.co/n7spU8kM7y)\n\\- ~$100K\n[https://app.blocksec.com/explorer/tx/optimism/0x6baa6332f9a3ed75e727311d6317fb636844d61d9df5e199f9f68711eb632d6f\u2026](https://t.co/Bi0WtkswVW)\n\\- ~$150K"
+    }
+}

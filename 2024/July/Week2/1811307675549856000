@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1811307675549856000",
+        "timestamp": "2024-07-11 00:00:00",
+        "original_content": "9/ + bonus: If there's a functionality to cut/increase fee rates, check what\nhappens if there are unclaimed fees. After the cut/increase, they can be\ncalculated not considering the old rates."
+    }
+}

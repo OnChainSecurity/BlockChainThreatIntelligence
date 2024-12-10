@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1745128580919505235",
+        "timestamp": "2024-01-11 00:00:00",
+        "original_content": "1/ In this thread, we'll explore the key security vulnerabilities discovered\nin projects using Account Abstraction, specifically those implementing\nERC4337. Insights are based on\n\n[@ChainLight](/ChainLight)\n\n's analysis of security audits."
+    }
+}

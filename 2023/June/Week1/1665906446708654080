@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1665906446708654080",
+        "timestamp": "2023-06-06 10:20:22",
+        "original_content": "Last month, Beosin security researchers have discovered a high-risk\nvulnerability CVE-2023\u201333252 in the library of SnarkJS (version 0.6.11 and\nearlier). The high-risk vulnerability that allowing double-spending has now\nbeen fixed by Circom. It has a severity score of 7.5 in the github advisory\ndatabase. The high-risk vulnerability has also been updated to the npm\nlibrary, and the following warning message will be displayed when installing\nolder versions of the snarkjs library. Read the full story:\n[https://medium.com/@Beosin_com/beosin-security-researchers-discovered-\nsnarkjs-library-vulnerability-\ncve-2023-33252-7e64f487c73c\u2026](https://t.co/r6bPWd8Jhq)"
+    }
+}

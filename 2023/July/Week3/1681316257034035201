@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1681316257034035201",
+        "timestamp": "2023-07-18 22:53:27",
+        "original_content": "[$APEDAO] on BNB chain was attacked for\n~$7k.\n[https://bscscan.com/tx/0x8d35dfd9968ce61fb969ffe8dcc29eeeae864e466d2cb0b7d26ce63644691994\u2026](https://t.co/uqhd5Okk5l)\nThe attacker transferred [$APEDAO] to\nthe pair contract, however, the\n[$APEDAO] contract mistook the\nattacker's behavior as a sell operation and gradually added up a value called\n\"amountToDead\". The attacker repeatedly transfers in\n[$APEDAO], then uses skim function to\nwithdraw the excess tokens. Eventually, the attacker calls godead function to\nburn the [$APEDAO] held in the pair\ncontract, causing the token price to rise."
+    }
+}

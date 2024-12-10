@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1621862576396320774",
+        "timestamp": "2023-02-04 00:00:00",
+        "original_content": "2/Take one attack tx\n([https://phalcon.blocksec.com/tx/bsc/0xe50b3fa17ad5c20327569a367f1f4c2466d37a0358b18d886de3b0f24c4a1215\u2026](https://t.co/CDFIArP2We))\nas an example, the attack contract (0x9301) directly called the BiswapCall\ncallback of the bot and pretends to be a Biswap pair. The bot contract then\ntransfers tokens to the attack contract and made a dummy trade."
+    }
+}

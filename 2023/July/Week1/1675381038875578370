@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1675381038875578370",
+        "timestamp": "2023-07-02 00:00:00",
+        "original_content": "2/ one attack tx: source chain:\n[https://explorer.phalcon.xyz/tx/bsc/0x39b7047a5792d5bd09d2cf07604bac33af97df1d2992cd5e0773249db91ee63d?line=5\u2026](https://t.co/oBnFCHxt8P)\ndestination chain:\n[https://explorer.phalcon.xyz/tx/eth/0x120da2ca5df2b63e83c35c177a96e2f0823a4f0370058e7a68c931f8a2916353?line=14\u2026](https://t.co/d6d9WWyRMa)"
+    }
+}

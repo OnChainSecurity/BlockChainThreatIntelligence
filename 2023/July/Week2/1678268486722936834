@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1678268486722936834",
+        "timestamp": "2023-07-10 00:00:00",
+        "original_content": "(1/2) In the calculateTotalFee function, the total fee is calculated by\nmultiplying gasUsed + GAS_OVERHEAD_NATIVE with txGasPrice. The issue is that\nthe txGasPrice value can be manipulated by an attacker, potentially leading to\nan inflated fee calculation."
+    }
+}

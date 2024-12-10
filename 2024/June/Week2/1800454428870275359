@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1800454428870275359",
+        "timestamp": "2024-06-10 20:58:54",
+        "original_content": "As the\n\n[@UwU_Lend](/UwU_Lend)\n\nteam has taken action, it is time to reveal the root cause analysis. Our\ninvestigation suggests that two issues were exploited in the hack: 1) The\nsUSDe oracle is manipulatable because the price is calculated as a median of\nseveral spot prices; 2) The liquidation threshold (90%) and bonus (10%) are\nhigh, leaving the lending pool with little safety cushion. Take this attack tx\nas an example:\n[https://app.blocksec.com/explorer/tx/eth/0xca1bbf3b320662c89232006f1ec6624b56242850f07e0f1dadbe4f69ba0d6ac3\u2026](https://t.co/ffnah4vKdR).\nThe attacker first manipulated the sUSDe price to 0.99 using flash loans, then\nborrowed USDe from the lending pool. After reaching the LTV, the attacker\ncalled withdraw() to reach the liquidation threshold. Finally, the attacker\nmanipulated the sUSDe price to 1.03 and triggered a bad debt liquidation with\nbonuses."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1693122271970566626",
+        "timestamp": "2023-08-20 00:25:42",
+        "original_content": "Thales urges users to revoke approvals from the following contracts on BSC:\nThalesAMM 0x465B66A3e33088F0666dB1836652fBcF037c7319 RangedAMM\n0xda5Bd4aBAFbE249bdC5684eAD594B0ac379687fd SpeedMarketsAMM\n0x72ca0765d4bE0529377d656c9645600606214610 The stolen $13.8K are held at the\nattacker's address 0xCa1C859A40f39B0BAc46551fA5E9fB969898aE70"
+    }
+}

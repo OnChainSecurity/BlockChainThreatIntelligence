@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1797248650437144969",
+        "timestamp": "2024-06-02 20:44:19",
+        "original_content": "The value of feeMultiplier affects the number of tokens exchanged. The\nattacker then used the manipulated feeMultiplier parameter to call the execute\nfunction (0xd3115a8a) again through the router contract to drain funds from\nthe LP pool."
+    }
+}

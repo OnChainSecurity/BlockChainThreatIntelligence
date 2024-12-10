@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1795374508867526803",
+        "timestamp": "2024-05-28 00:00:00",
+        "original_content": "7\\. The ERC2771ContextMulticall contract then executes the call as if it were\nmade by the extracted victim's address. This means any actions performed by\nthis call (e.g., transferring funds, changing state) will appear to originate\nfrom the victim. 8\\. The execution completes, and control returns through the\ntrusted forwarder to the attacker. By successfully spoofing the victim's\naddress, the attacker can manipulate the contract to perform actions on behalf\nof the victim, resulting in unauthorized transactions or state changes that\nbenefit the attacker."
+    }
+}

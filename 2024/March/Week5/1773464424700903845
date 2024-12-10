@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1773464424700903845",
+        "timestamp": "2024-03-29 05:37:22",
+        "original_content": "Storing a value in storage persists for the lifetime of the smart contract.\nStoring a value in memory persists until the function call ends and is then\nzeroed out. Storing in new transient storage persists for the lifetime of the\ntransaction. What could be some use cases for transient storage except for new\nreentrancy guard implementation? The best answer will receive a retweet and\nrecognition from Sherlock.\n?"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1778340885450695040",
+        "timestamp": "2024-04-11 00:00:00",
+        "original_content": "Since both the funds\u2019 holder and subscription initiator are contracts, this\nvulnerability would lead to funds getting stuck forever in the contract. You\ncan see a more detailed explanation of the finding in our report for Security\nWallet here:"
+    }
+}

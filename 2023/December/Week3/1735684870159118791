@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1735684870159118791",
+        "timestamp": "2023-12-15 00:00:00",
+        "original_content": "it seems it's not just about reading static file domains from smart contracts.\nnow they have also updated to read C2 API domains from smart contracts\n?! (credits:\n\n[@1nf0s3cpt](/1nf0s3cpt)\n\n)"
+    }
+}

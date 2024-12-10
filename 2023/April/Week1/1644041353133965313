@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1644041353133965313",
+        "timestamp": "2023-04-07 00:00:00",
+        "original_content": "Be careful transfer ETH on zkSync\n\u274cpayable(address).transfer(amount)\n\u2705payable(address).call[value:\n<X>](\"\") [#zkSync][![](https://pbs.twimg.com/card_img/1846767999925342216/ebKE6XDJ?format=jpg&name=240x240)](https://t.co/D1YUbPrQDa)\n"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/1nf0s3cpt/status/1679120397067845632",
+        "timestamp": "2023-07-12 00:00:00",
+        "original_content": "(3/4) Mitigation: To ensure that msg.sender is the current owner of the token\nor an approved address."
+    }
+}

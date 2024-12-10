@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/code4rena/status/1811447138301411425",
+        "timestamp": "2024-07-12 01:07:06",
+        "original_content": "Has found more critical vulnerabilites than we can list here, including: \\-\nDiscovered and mitigated a SushiSwap bug that could have led to a $350M loss,\nearning a $1M bounty \\- Discovered 3 critical Geth vulnerabilities, including\na consensus issue, preventing major disruptions across the Ethereum network \\-\nFound one of the oldest bugs in history in a well-hardened contract over 4\nyears old, affecting over a billion dollars in assets \\- Founded one of the\nmost respected security non-profits, providing essential resources for info-\ngathering on threats to the blockchain and cryptocurrency ecosystem \\- Beloved\nanon known for his affinity for anime almost as much as his god-tier security\nskills Do you know who it is? And...are you still up for the challenge?"
+    }
+}

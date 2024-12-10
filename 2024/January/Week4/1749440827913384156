@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1749440827913384156",
+        "timestamp": "2024-01-22 21:46:18",
+        "original_content": "[http://Concentric.fi](https://t.co/sFTYm0QWN0) on Arbitrum lost ~$1.7M in a\nsocial engineering attack. The attacker updated the implementation contract of\nthe CONE-1 proxy contract from the original ConeCamelotVault contract to the\nattacker-controlled contract, and added the admin of adminMint() as the\nattacker 0x105f52fcC329cEF4CBe25BC946f8a3738414E4A1, thus minting a a large\namount of LP tokens."
+    }
+}

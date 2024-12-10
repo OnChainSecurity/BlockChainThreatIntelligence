@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1759229411713528029",
+        "timestamp": "2024-02-18 22:52:31",
+        "original_content": "?\n\n[@FixedFloat](/FixedFloat)\n\nwas exploited for ~$26.1M (409 [$BTC] and\n1,728 [$ETH]). On Ethereum, the attacker\n0x85c4fF99bF0eCb24e02921b0D4b5d336523Fa085 sent the stolen 1,728\n[$ETH] to multiple addresses, then to Exch\nexchange. The stolen 409 [$BTC] was\ndispersed to multiple addresses by attacker\n0bc1q2skp47p9f5mr4n4m27k66v0l68gh3xdd7ad4e5."
+    }
+}

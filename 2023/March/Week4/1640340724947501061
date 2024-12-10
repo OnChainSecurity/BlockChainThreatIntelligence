@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1640340724947501061",
+        "timestamp": "2023-03-27 00:00:00",
+        "original_content": "1/ Maintaining the compatibility for EVM in different implementations is not\neasy. Four bugs in\n\n[@auroraisnear](/auroraisnear)\n\nand four bugs in\n\n[@MoonbeamNetwork](/MoonbeamNetwork)\n\nare identified and fixed."
+    }
+}

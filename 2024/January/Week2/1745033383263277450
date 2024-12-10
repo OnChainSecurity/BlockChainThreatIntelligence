@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/RareSkills_io/status/1745033383263277450",
+        "timestamp": "2024-01-10 00:00:00",
+        "original_content": "If you lend or borrow on Compound V3, you are awarded additional COMP tokens\nproportional to your share of the lending or borrowing. The mechanism is\nsimilar to MasterChef, but there are some differences: 1) The reward rate is\nnot a function of how many tokens the reward contract holds, but rather a\nfixed rate that governance sets. 2) Because the reward rate is fixed, the\nreward accumulator could overflow very fast if there aren\u2019t enough\nlenders/borrowers to dilute the reward per token accumulation (auditors, pay\nattention to this part!). Compound addresses this by not accumulating rewards\nwhen the total amount borrowed is below a certain threshold. 3) The COMP token\nitself is non-standard \u2014 if you make transfers or approvals larger than uint96\nmax, then it will revert See all the details in our latest blog. This is the\nfinal blog in our series on Compound V3. The team is working hard to compile\nall the work into the Compound V3 Book which will be released soon.[](https://t.co/dEtiK7zbsa)\n"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1686217193980342272",
+        "timestamp": "2023-08-01 11:28:02",
+        "original_content": "The axlUSD/WETH pair of\n\n[@LeetSwap](/LeetSwap)\n\non BASE was subject to a price manipulation attack, with losses of ~$620,000.\nThe attack exploited the _transferFeesSupportingTaxTokens function in the pair\ncontract, which allows anyone to transfer axlUSD in the pair contract, leading\nto an increase in the token price. The attacker was then able to sell the\ntokens for profit."
+    }
+}

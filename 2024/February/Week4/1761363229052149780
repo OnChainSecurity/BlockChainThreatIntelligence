@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1761363229052149780",
+        "timestamp": "2024-02-24 00:00:00",
+        "original_content": "More: \\- Race Condition \\- Short Address/Parameter Attack \\- Gas Limit\nExhaustion \\- Unchecked External Calls \\- Fallback Function Vulnerabilitie"
+    }
+}

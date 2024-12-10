@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1801537079806927265",
+        "timestamp": "2023-06-14 00:00:00",
+        "original_content": "On February 16, 2023, Platypus Finance was rekt, resulting in a loss of\napproximately $8.5 million in stables due to a logic error exploit. This hack\nhighlighted the critical importance of two things: 1\\. Proper input validation\n2\\. Emergency function checks in smart contracts"
+    }
+}

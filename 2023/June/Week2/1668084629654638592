@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1668084629654638592",
+        "timestamp": "2023-06-12 00:00:00",
+        "original_content": "1/\n\n[@SturdyFinance](/SturdyFinance)\n\nwas attacked and the loss is ~442 ETH. The root cause is due to the typical\nBalancer's read-only reentrancy, while the price of B-stETH-STABLE was\nmanipulated!"
+    }
+}

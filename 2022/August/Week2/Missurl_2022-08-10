@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://dl.acm.org/doi/abs/10.1007/978-3-031-17551-0_28",
+        "timestamp": "2022-08-10 00:00:00",
+        "original_content": "BASNEA: Threat Hunting for Ethereum Smart Contract Based on Backtrackless Aligned-Spatial Network Entity AlignmentAbstract\nEthereum, a blockchain-based platform with a large number of decentralized applications, has been facing vast attacks and suffered significant financial losses. Threat hunting on Ethereum fails to detect attacks in time, resulting in abundant attacks being discovered only after vendors or developers take property inventory count. We propose BASNEA, a backtrackless aligned-spatial network entity alignment algorithm, to identify attacks, suspicious, and benign behaviors by comparing the attack provenance graphs constructed by the Ethereum threat intelligence with transaction provenance graphs generated from the Ethereum sync node. We also use attack investigation to the analysis of suspicious behaviors, and feedback is given to the analysis model to identify more potential threats. The experiments show that based on the collected 1,220 attack events, BASNEA can show more accurate and robust results in Ethereum smart contract threat hunting, which identifies 14 vulnerability types, and 8,814 attack events, including 1,122 known attack behaviors, and 7692 suspected attack behaviors. After the attack investigation, we discovered the hidden information behind the attack, which can help us better identify unknown threats."
+    }
+}

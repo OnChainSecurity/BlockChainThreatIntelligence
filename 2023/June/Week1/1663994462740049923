@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/unsheth_xyz/status/1663994462740049923",
+        "timestamp": "2023-06-01 03:42:50",
+        "original_content": "At approximately 14:00 UTC (6 hrs ago), one of the deployer private keys for\nunshETH contracts was compromised. Out of an abundance of caution, we\nemergency paused withdrawals on unshETH Ether. Given our security model,\nunshETH Ether deposits ($35m tvl) are secured with multisig + timelock and are\nnot at risk."
+    }
+}

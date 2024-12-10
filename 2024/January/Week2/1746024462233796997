@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1746024462233796997",
+        "timestamp": "2024-01-13 12:20:46",
+        "original_content": "WiseLending protocol\n\n[@Wise_Lending](/Wise_Lending)\n\nsuffered a price manipulation attack, resulting in a loss of over $460k.\nWiseLending uses rounding up when calculating Shares withdrawals, allowing the\nattacker to repeatedly call the withdraw function with a unit amount. This\ncaused a mismatch between the protocol token balance and Shares, enabling the\nattacker to manipulate prices. The stolen funds are currently held at\n0x592856d68B3FEE1D2dAa34CdC9851f3477C52530"
+    }
+}

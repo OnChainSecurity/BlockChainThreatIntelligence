@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1754530618094829593",
+        "timestamp": "2024-02-05 23:41:09",
+        "original_content": "#10: ThirdWeb Incident: An Incompatibility Issue Arising from Interaction of\nTwo Trustworthy Modules ERC-2771 and Multicall standards are implemented in\npopular development libraries such as OpenZeppelin and ThirdWeb. Developers\noften trust these well-established codebases and might overlook them during\ncode audits. This oversight can introduce new security vulnerabilities, even\nif the protocols are not inherently flawed. Third-party libraries play a\ncrucial role in software security, a fact that is often overlooked.\n[https://x.com/phalcon_xyz/st/Phalcon_xyz/status/1732967384774746408\u2026](/Phalcon_xyz/status/1732967384774746408)[](https://t.co/WXUvlZBgBk)\n"
+    }
+}

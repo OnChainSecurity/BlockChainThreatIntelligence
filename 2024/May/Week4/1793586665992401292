@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/jeffsecurity/status/1793586665992401292",
+        "timestamp": "2024-05-23 00:00:00",
+        "original_content": "State variable shadowing and uninitialized storage pointer are just some of\nthe delegatecall-related attacks. Take a dive on the technicalities behind\nthem: ?[](https://t.co/oeRfgwTLrT)\n"
+    }
+}

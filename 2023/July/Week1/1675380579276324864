@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1675380579276324864",
+        "timestamp": "2023-07-02 00:00:00",
+        "original_content": "1/ The PolyNetwork was attacked. There are multiple attack transactions. The\nattacker first locked a small number of tokens on the source chain and then\nunlocked more tokens on the destination chain."
+    }
+}

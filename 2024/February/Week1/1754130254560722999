@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1754130254560722999",
+        "timestamp": "2024-02-04 00:00:00",
+        "original_content": "4/ Issue 2: Access Control Flaw A critical lack of access control in\n\"teamApproveClaim()\", allowed the attacker to directly approve claims."
+    }
+}

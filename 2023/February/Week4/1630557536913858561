@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1630557536913858561",
+        "timestamp": "2023-02-27 00:00:00",
+        "original_content": "We observed that an account\n([https://bscscan.com/address/0x7f5723783c650a085ed15c675651fab4eb50fbd7\u2026](https://t.co/pI6ZQi36Kd))\nactively launched multiple similar attacks and harvested ~5711 BNB/WBNB. This\naccount then transferred part of the funds back to (some of) the victims and\ntransferred the remaining (~3724 BNB, i.e., 65%) to\n\n[@TornadoCash](/TornadoCash)"
+    }
+}

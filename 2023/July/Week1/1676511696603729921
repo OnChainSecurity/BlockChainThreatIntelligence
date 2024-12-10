@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1676511696603729921",
+        "timestamp": "2023-07-05 00:00:00",
+        "original_content": "[@Rodeo_Finance](/Rodeo_Finance)\n\non [#Arbitrum] was exploited, which\nunveiled two primary causes: 1\\. StrategyGamma's balance manipulation,\nallowing for a minimal USDC borrowing without increasing the debt. 2\\. Abuse\nof the 'mintProtocolReserves' function, stemming from an untrusted external\ncall issue, to withdraw funds from the InvestorActor. The attacker employed an\naddress strikingly similar to the deployer, leading to our erroneous\nidentification of it as the project's address. We extend our apologies to the\n\n[@Rodeo_Finance](/Rodeo_Finance)\n\nteam for this misunderstanding. Here is the attack tx:\n[https://explorer.phalcon.xyz/tx/arbitrum/0x420cb426b1a297ea8e7618a249c22aea2dde17667338b1eb3aaaed00942837ec\u2026](https://t.co/0cZwIQ7IWl)"
+    }
+}

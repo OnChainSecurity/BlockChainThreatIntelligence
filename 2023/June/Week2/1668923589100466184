@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1668923589100466184",
+        "timestamp": "2023-06-14 18:09:25",
+        "original_content": "In 2014, MT. GOX exchange claimed to have suffered from a transaction\nmalleability attack on Bitcoin, resulting in a loss of ~850,000 BTCs. This\ninherent malleability security issue, caused by algorithmic design, is also\npresent in the zk-SNARK algorithm Groth16. The attack vector can be\nconstructed by simply obtaining the on-chain proofs that have passed\nverification. There are three ways to construct this attack vector, which can\ngenerate many forged proofs. Read Beosin\u2019s full research on the basic\nconcepts, cryptographic foundations, and the main algorithm flow of the\nGroth16 algorithm. [https://glacier-screen-c36.notion.site/Beosin-s-Research-\nTransaction-Malleability-Attack-of-\nGroth16-Proof-c090649950804af686e276baa3ba8182\u2026](https://t.co/NB293s84mt)"
+    }
+}

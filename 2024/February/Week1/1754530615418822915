@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1754530615418822915",
+        "timestamp": "2024-02-05 23:41:08",
+        "original_content": "#9: MEV Bot 0xd61492: From Predator to Prey as Its Profit-Seeking Tool Is\nExploited as a Weapon Arbitrage MEV Bots are often considered mysterious\npredators due to their non-open-source nature. Understanding the exact logic\nbehind these MEV Bots can be challenging. However, most of them utilize flash\nloans to maximize the utilization rate of funds, which creates opportunities\nfor attackers. The MEV Bot 0xd61492 hack is a real case for exploiting the\ninteraction between the Bot and the flash loan provider.\n[https://x.com/phalcon_xyz/st/Phalcon_xyz/status/1687071095328067584\u2026](/Phalcon_xyz/status/1687071095328067584)[](https://t.co/WXUvlZBgBk)\n"
+    }
+}

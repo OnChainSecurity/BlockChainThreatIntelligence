@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1784149925854331084",
+        "timestamp": "2024-04-27 00:00:00",
+        "original_content": "The malicious actor could front-run the deposit by significantly increasing\nthe number of both tokens in the pool which led to balancing the liquidity\nacross different fee tiers. As a result, the depositor could lose all the\nfunds due to no slippage control."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1677281092116840448",
+        "timestamp": "2023-07-07 13:50:59",
+        "original_content": "Behavior analysis of [#Multichain]\nhacker?: There are no\ntransactions nor fees with the recipient addresses. The interval between each\ntransaction ranges from a few minutes to more than ten minutes, which can\nroughly rule out the possibility that 'hackers' are stealing in bulk through\nscripts or vulnerabilities. When transferring to different addresses, the time\ninterval is also relatively long, and it is suspected that the addresses may\nhave been temporarily created by hackers during the theft and that backups of\nprivate keys were made. There are a total of 6 hacker addresses, and 13 types\nof tokens were stolen. The possibility of multiple people stealing cannot be\nruled out."
+    }
+}

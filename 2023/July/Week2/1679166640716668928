@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1679166640716668928",
+        "timestamp": "2023-07-13 00:00:00",
+        "original_content": "1/ On Feb 2023, Platypus Finance suffered an attack and lost $9M.\nInterestingly, the attacker made a huge mistake - they forgot to code the\nlogic that would withdraw the funds from the attack contract. Fortunately, we\nfound a way to leverage the attack contract to rescue $2.4M"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ShieldifySec/status/1745128586560884932",
+        "timestamp": "2024-01-11 00:00:00",
+        "original_content": "4/ Signature Verification: Critical for AA security. Faulty verification can\nlead to account impersonation and fund theft. Biconomy's SmartAccount had\nvulnerabilities in this area, allowing attackers to bypass signature checks."
+    }
+}

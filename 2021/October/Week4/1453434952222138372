@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xPaladinSec/status/1453434952222138372",
+        "timestamp": "2021-10-28 00:00:00",
+        "original_content": "(I) The exploit of\n\n[@CreamdotFinance](/CreamdotFinance)\n\nis a strong reminder about the importance of collateral management for lending\nprotocols. In this situation, the code of the core protocol was correct.\nInstead, small-cap, easily manipulated collateral lies at the cause."
+    }
+}

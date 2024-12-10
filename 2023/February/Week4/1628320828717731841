@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1628320828717731841",
+        "timestamp": "2023-02-22 00:00:00",
+        "original_content": "4/ Note that steps 2, 3, and 4 are in the same tx. In fact, the real deposit\ntime should be 0 instead of (B - A), but the vulnerable contract does not\nupdate lastProcessAt for any deposit. Thus, the staking duration is calculated\nmistakenly."
+    }
+}

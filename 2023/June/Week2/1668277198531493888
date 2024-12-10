@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1668277198531493888",
+        "timestamp": "2023-06-12 23:20:53",
+        "original_content": "Sturdy Finance was exploited for $770K earlier today.\n[https://etherscan.io/tx/0xeb87ebc0a18aca7d2a9ffcabf61aa69c9e8d3c6efade9e2303f8857717fb9eb7\u2026](https://t.co/trCY1Qy5j5)\nAttacker exploits the read-only reentrancy vulnerability in Balancer to\nmanipulate the price of cB-stETH-STABLE, then requirement of\n'validateSetUseReserveAsCollateral' can be passed to remove previously\ncollateralized steCRV tokens. Subsequently, attacker only needs to repay the\nremaining collateral to withdraw the collateral via liquidation."
+    }
+}

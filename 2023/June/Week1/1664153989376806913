@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1664153989376806913",
+        "timestamp": "2023-06-01 14:16:42",
+        "original_content": "Tracing the incoming funds of a phishing address can often result in complex\nfund flow diagrams, as the address typically receives funds from numerous\nvictims. This is why analyzing the phisher's address directly may reveal many\nirrelevant edges in the diagram."
+    }
+}

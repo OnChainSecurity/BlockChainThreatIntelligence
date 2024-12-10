@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BlockSecTeam/status/1623901013567762434",
+        "timestamp": "2023-02-10 00:00:00",
+        "original_content": "2/ The price oracle used by dForce's lending protocol can be manipulated by\nthe attacker. After that, the attacker can liquidate positions at a biased\nprice to make profits. The loss is around 1.91 M in\n\n[@arbitrum](/arbitrum)\n\nand 1.73M in @optimismFND ."
+    }
+}
