@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1871347300918030409",
+        "timestamp": "2024-12-24 00:00:00",
+        "original_content": "[#CertiKInsight]\n? We have detected a ~$320K\nflashloan exploit on the Moonhacker contracts, periphery to\n\n[@MoonwellDeFi](/MoonwellDeFi)\n\nlending pools on Optimism. The attacker inputs the attack contract address as\nthe 'mToken' to get extra token approval from Moonhackers and drains them."
+    }
+}
