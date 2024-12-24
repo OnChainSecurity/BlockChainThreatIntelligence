@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/chainlink/status/1867949426192633925",
+        "timestamp": "2024-12-14 00:00:00",
+        "original_content": "[#Chainlink] Payment Abstraction is\ndesigned to reduce payment friction within the Chainlink ecosystem by\nconverting fee tokens from across various blockchains into LINK using existing\ndecentralized exchange contracts. Payment Abstraction is now under audit on\n\n[@code4rena](/code4rena)\n\n."
+    }
+}
