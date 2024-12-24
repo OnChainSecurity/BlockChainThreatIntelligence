@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1864975576538492964",
+        "timestamp": "2024-12-06 00:00:00",
+        "original_content": "Beosin tracked the flow of stolen funds using the Trace platform and\nidentified that the funds were ultimately deposited in Ethereum addresses,\ncurrently holding a total of 4645 ETH.We have created a detailed fund flow\ndiagram to visually represent the movement of these assets."
+    }
+}
