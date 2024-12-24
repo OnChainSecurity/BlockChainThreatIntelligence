@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1864094090985689173",
+        "timestamp": "2024-12-04 00:00:00",
+        "original_content": "? @solana/web3.js\ncompromised: Affected versions: 1.95.6, 1.95.7\n\u26a0\ufe0f Contains malicious code\nthat leaks private keys Quick check for affected versions: grep -r \"web3.js\" .\n| grep -E \"1\\\\.95\\\\.6|1\\\\.95\\\\.7\""
+    }
+}
