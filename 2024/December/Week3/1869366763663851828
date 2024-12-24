@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/realScamSniffer/status/1869366763663851828",
+        "timestamp": "2024-12-18 00:00:00",
+        "original_content": "? A simple typing error led\nto a phishing attack ?\nHere's what happened: 1\ufe0f\u20e3\nUser correctly copied: pudgypenguins[.]com\n2\ufe0f\u20e3 Wanted to add \"claim\"\nin front 3\ufe0f\u20e3 Should be:\nclaim.pudgypenguins[.]com \u274c\nTyped: claimpudgypenguins[.]com (forgot the dot!)\n? Got redirected to:\nclaim.pudqypenguins[.]com (spot the 'q')\n? Result: NFTs lost after\nsigning a malicious Blur signature"
+    }
+}
