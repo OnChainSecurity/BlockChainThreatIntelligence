@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1866415952180502855",
+        "timestamp": "2024-12-10 00:00:00",
+        "original_content": "ALERT! Our system detected an attack on the unknown project named Rebalancer\non [#Base], resulting in ~133 Ether in\nlosses. It is a typical reentrancy attack. Note that the attacker (0x012fc6)\nis not a new actor; it has been launching several other attacks for some time.\nAttack TX:\n[https://app.blocksec.com/explorer/tx/base/0x8fcdfcded45100437ff94801090355f2f689941dca75de9a702e01670f361c04\u2026](https://t.co/NurBiw7JOB)\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take\nautomatic actions to protect your assets.\n[https://blocksec.com/phalcon](https://t.co/5cGK9A1psv)"
+    }
+}
