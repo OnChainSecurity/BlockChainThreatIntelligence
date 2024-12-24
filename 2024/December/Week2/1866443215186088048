@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1866443215186088048",
+        "timestamp": "2024-12-10 00:00:00",
+        "original_content": "It seems today's\n\n[@CloberDEX](/CloberDEX)\n\nhack is due to a reentrancy issue from the burn() function. And it is further\nfacilitated with the use of an evil strategy prepared by the hacker. The\nstolen funds are now parked in the following two addresses:\n[https://etherscan.io/address/0x711C87A0767101Fa6f3893FACb670B5689621e23\u2026](https://t.co/MEd6XTrz7s)\n[https://etherscan.io/address/0x7760d838192f6E526721a0f6b160627baE989a3e\u2026](https://t.co/atgrL4Eyrp)"
+    }
+}
