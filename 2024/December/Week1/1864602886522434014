@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1864602886522434014",
+        "timestamp": "2024-12-02 00:00:00",
+        "original_content": "? The\n\n[@solana](/solana)\n\n/ web3.js library was hit by a supply chain attack, releasing malicious\nversions (1.95.6 & 1.95.7) designed to steal private keys on Dec 2, 2024.\nTargets included bots, custodial services, and dApps. Read the full story and\nCyvers commentary on\n\n[@decryptmedia](/decryptmedia)\n\nat: [https://decrypt.co/294742/solana-web3-js-library-compromised-in-targeted-\nsupply-chain-attack\u2026](https://t.co/L2Ccmmhcis). This breach highlights the\nurgent need for stronger dependency security in\n[#Web3]:\n?Regularly audit and update\nthird-party dependencies.\n\u2705Use verified repositories\nwith trusted maintainers.\n?Employ automated tools to\nscan dependencies for vulnerabilities.\n?Freeze dependencies to\nspecific, vetted versions with lock files.\n?Review critical dependency\ncode, especially for sensitive access.\n?\u200d?Implement\nruntime monitoring to detect suspicious activity.\n?Stay informed through\ncommunity engagement for early threat alerts. Want to learn more about\nprotecting your assets? Book a demo with us today:\n[https://calendly.com/d/cqjd-77h-r6x/cyvers-first-\ncall?utm_medium=social&utm_source=twitter&utm_campaign=%22radu\u2026](https://t.co/OEtAe6JgBx).\n[#CryptoNews]\n[#hack]\n[#solana]\n[#solanacommunity]"
+    }
+}
