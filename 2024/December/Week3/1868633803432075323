@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Phalcon_xyz/status/1868633803432075323",
+        "timestamp": "2024-12-16 00:00:00",
+        "original_content": "Phalcon Explorer Integrates BOB for Seamless Transaction Visualization and\nAnalysis ? We are excited\nto announce that Phalcon Explorer now supports the BOB chain. This enhancement\nallows users to easily track fund flows, check balance changes, and delve into\ntransaction traces with just a click.\n?Try it out here:\n[https://app.blocksec.com/explorer/tx/bob/0x32d0844b18b70f1f49daf027922b6c3f5056e3c667d93418c98caeecc499bb34\u2026](https://t.co/2pOMsISRqX)\nLooking ahead, we are going to deepen our collaboration with\n\n[@build_on_bob](/build_on_bob)\n\non BlockSec Phalcon to further strengthen the security of the BOB ecosystem.\n?Learn about BlockSec\nPhalcon at [https://blocksec.com/phalcon](https://t.co/5cGK9A1Xi3)\n[#BOB]\n[#Phalcon]\n[#BlockSec]\n[#DeFiSecurity]"
+    }
+}
