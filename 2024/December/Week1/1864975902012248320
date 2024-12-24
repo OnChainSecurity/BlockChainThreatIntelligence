@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1864975902012248320",
+        "timestamp": "2024-12-06 00:00:00",
+        "original_content": "The address 0xdf02d6d9ca...26ec09ee4c6ae has begun using Tornado Cash for\nmixing operations to obfuscate the transaction history. Relevant hacker-linked\naddresses have been added to the KYT label database. Efforts are ongoing to\nmonitor the fund's dynamics using the Trace system."
+    }
+}
