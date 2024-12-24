@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MistTrack_io/status/1869283595623477428",
+        "timestamp": "2024-12-12 00:00:00",
+        "original_content": "\u26a0\ufe0fDEXX Incident Update As of\nright now: 1\u20e3The DEXX\nhacker has laundered most of the funds, with a total of 6,432.4\n[$ETH] transferred to Tornado Cash.\n2\u20e3 The balance of the\nmain EVM consolidated address 0xFFB9926310b291E17D7Df846cdED66cDA2C68228 is\n$19,446, distributed in [#Ethereum],\n[#BSC] and\n[#BASE] chains.\n3\u20e3The Solana address\n4smi8TTEDHmortFLYKK7Hg3MLHbU2TnxTitLkcb1CHLd has a balance of $59,540, the\nSolana address GPuNX8BkN2u9GxFMci5RSdLzqQBYEkA9JSJnE7SpRKgt has a balance of\n$2200. 4\u20e3Since November\n16, we have received multiple reports of stolen funds from the community, with\na total loss estimated at $23 million (subject to price fluctuations), which\nis close to our initial forecast.\n5\u20e3We have been assisting\nwith this incident for a month and it is coming to an end. We will continue to\nanalyze but will not update frequently. Please refer to the official\nannouncement of\n\n[@DEXXai_EN](/DEXXai_EN)\n\nand\n\n[@DEXXai_CN](/DEXXai_CN)\n\nfor more information."
+    }
+}
